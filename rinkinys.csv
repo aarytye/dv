@@ -1,0 +1,3470 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price_Tomans,Price_USD
+63,1,Yra,Yra,Yra,Shahran,1850000000,61666.67
+60,1,Yra,Yra,Yra,Shahran,1850000000,61666.67
+79,2,Yra,Yra,Yra,Pardis,550000000,18333.33
+95,2,Yra,Yra,Yra,Shahrake Qods,902500000,30083.33
+123,2,Yra,Yra,Yra,Shahrake Gharb,7000000000,233333.33
+70,2,Yra,Yra,Nera,North Program Organization,2050000000,68333.33
+87,2,Yra,Yra,Yra,Pardis,600000000,20000
+59,1,Yra,Yra,Yra,Shahran,2150000000,71666.67
+54,2,Yra,Yra,Nera,Andisheh,493000000,16433.33
+71,1,Yra,Yra,Yra,West Ferdows Boulevard,2370000000,79000
+68,2,Yra,Yra,Yra,West Ferdows Boulevard,2450000000,81666.67
+64,1,Yra,Yra,Yra,Narmak,2100000000,70000
+54,1,Nera,Yra,Yra,Narmak,1690000000,56333.33
+136,3,Yra,Yra,Yra,Saadat Abad,11000000000,366666.67
+95,2,Yra,Yra,Yra,Zafar,5000000000,166666.67
+63,1,Nera,Yra,Nera,Islamshahr,570000000,19000
+155,3,Yra,Yra,Yra,Narmak,6700000000,223333.33
+64,2,Nera,Yra,Nera,Pirouzi,1450000000,48333.33
+140,3,Yra,Yra,Yra,West Ferdows Boulevard,6400000000,213333.33
+42,1,Nera,Yra,Nera,Pirouzi,1390000000,46333.33
+93,2,Yra,Yra,Yra,Shahrake Gharb,7000000000,233333.33
+87,2,Yra,Yra,Yra,Shahrake Shahid Bagheri,2500000000,83333.33
+65,1,Yra,Yra,Yra,Shahran,1880000000,62666.67
+99,2,Yra,Yra,Yra,Moniriyeh,2277000000,75900
+105,2,Yra,Yra,Yra,Saadat Abad,7150000000,238333.33
+160,3,Yra,Yra,Yra,Velenjak,14945000000,498166.67
+77,2,Yra,Yra,Yra,Amirieh,1771000000,59033.33
+123,2,Yra,Yra,Yra,Pirouzi,4059000000,135300
+110,2,Yra,Yra,Yra,Southern Janatabad,630000000,21000
+100,2,Yra,Yra,Yra,West Ferdows Boulevard,3200000000,106666.67
+90,2,Nera,Yra,Nera,Salsabil,1500000000,50000
+49,1,Yra,Yra,Yra,West Ferdows Boulevard,2200000000,73333.33
+96,2,Yra,Yra,Yra,Zargandeh,7872000000,262400
+67,2,Yra,Yra,Nera,Feiz Garden,2350000000,78333.33
+68,2,Yra,Yra,Yra,West Ferdows Boulevard,2500000000,83333.33
+62,1,Yra,Nera,Yra,Water Organization,2150000000,71666.67
+55,1,Yra,Yra,Yra,West Ferdows Boulevard,2150000000,71666.67
+110,2,Yra,Yra,Yra,West Ferdows Boulevard,3750000000,125000
+129,2,Yra,Yra,Yra,West Ferdows Boulevard,5250000000,175000
+109,2,Yra,Yra,Yra,West Ferdows Boulevard,4830000000,161000
+58,1,Yra,Yra,Yra,Saadat Abad,3400000000,113333.33
+55,1,Yra,Yra,Yra,Saadat Abad,3850000000,128333.33
+150,2,Nera,Yra,Yra,Shahrake Qods,1200000000,40000
+60,2,Yra,Yra,Yra,,2650000000,88333.33
+130,3,Yra,Yra,Nera,ShahrAra,5000000000,166666.67
+88,2,Yra,Yra,Yra,Gisha,4750000000,158333.33
+51,1,Yra,Yra,Yra,Gisha,2980000000,99333.33
+113,3,Yra,Yra,Nera,Shahrake Gharb,7000000000,233333.33
+110,2,Yra,Yra,Yra,Ray,2035000000,67833.33
+60,1,Yra,Yra,Yra,Abbasabad,2460000000,82000
+98,2,Yra,Yra,Yra,Pardis,540000000,18000
+62,2,Nera,Nera,Yra,Ostad Moein,1450000000,48333.33
+150,3,Yra,Yra,Yra,Farmanieh,10000000000,333333.33
+75,2,Nera,Nera,Nera,Parand,635000000,21166.67
+61,1,Yra,Yra,Nera,Punak,2030000000,67666.67
+61,1,Yra,Yra,Nera,Punak,2030000000,67666.67
+72,2,Yra,Yra,Yra,Shahran,2350000000,78333.33
+100,2,Yra,Yra,Yra,Qasr-od-Dasht,3000000000,100000
+122,3,Yra,Yra,Yra,Aqdasieh,7200000000,240000
+215,3,Yra,Yra,Yra,Pakdasht,1750000000,58333.33
+101,2,Yra,Yra,Yra,Railway,3300000000,110000
+67,2,Yra,Yra,Yra,Punak,2800000000,93333.33
+72,2,Yra,Yra,Nera,Punak,2200000000,73333.33
+63,1,Yra,Yra,Nera,Punak,2200000000,73333.33
+75,2,Yra,Yra,Nera,Punak,2200000000,73333.33
+109,2,Yra,Yra,Yra,Shahran,3500000000,116666.67
+122,2,Yra,Yra,Yra,Aqdasieh,7000000000,233333.33
+70,1,Yra,Yra,Yra,CeNeral Janatabad,3100000000,103333.33
+60,1,Yra,Yra,Yra,West Ferdows Boulevard,2450000000,81666.67
+53,1,Yra,Yra,Nera,East Ferdows Boulevard,1920000000,64000
+90,1,Nera,Yra,Nera,Pakdasht KhatunAbad,850000000,28333.33
+72,2,Yra,Yra,Yra,Amirieh,1650000000,55000
+74,2,Yra,Yra,Yra,Amirieh,1700000000,56666.67
+88,3,Nera,Nera,Yra,Parand,560000000,18666.67
+63,1,Yra,Yra,Yra,Punak,2150000000,71666.67
+114,3,Yra,Yra,Yra,Sattarkhan,5500000000,183333.33
+151,3,Yra,Yra,Yra,Saadat Abad,10200000000,340000
+42,1,Yra,Nera,Yra,Shahran,1760000000,58666.67
+74,2,Yra,Yra,Yra,Amirieh,1700000000,56666.67
+88,3,Nera,Nera,Yra,Parand,560000000,18666.67
+63,1,Yra,Yra,Yra,Punak,2150000000,71666.67
+114,3,Yra,Yra,Yra,Sattarkhan,5500000000,183333.33
+151,3,Yra,Yra,Yra,Saadat Abad,10200000000,340000
+42,1,Yra,Nera,Yra,Shahran,1760000000,58666.67
+300,3,Yra,Yra,Nera,Baghestan,1500000000,50000
+110,2,Yra,Yra,Yra,West Ferdows Boulevard,3730000000,124333.33
+100,2,Nera,Nera,Nera,Shahrake Qods,620000000,20666.67
+140,1,Nera,Nera,Nera,Shahryar,580000000,19333.33
+70,2,Yra,Yra,Yra,Northern Janatabad,3050000000,101666.67
+60,2,Yra,Yra,Nera,West Ferdows Boulevard,2000000000,66666.67
+76,2,Yra,Yra,Yra,North Program Organization,2600000000,86666.67
+148,3,Yra,Yra,Yra,Daryan No,5990000000,199666.67
+75,2,Yra,Yra,Yra,North Program Organization,2300000000,76666.67
+40,1,Yra,Yra,Nera,Pirouzi,1300000000,43333.33
+65,2,Yra,Yra,Yra,Southern Program Organization,2270000000,75666.67
+140,3,Yra,Yra,Yra,Rudhen,4000000000,133333.33
+110,2,Yra,Yra,Yra,West Pars,4000000000,133333.33
+70,2,Yra,Nera,Yra,Afsarieh,1650000000,55000
+128,3,Yra,Yra,Yra,Marzdaran,6700000000,223333.33
+94,2,Yra,Yra,Yra,Parand,580000000,19333.33
+67,1,Yra,Yra,Yra,Punak,2300000000,76666.67
+75,1,Yra,Yra,Yra,Shahrake Qods,650000000,21666.67
+130,2,Yra,Yra,Yra,Dorous,16900000000,563333.33
+97,2,Yra,Yra,Yra,Pardis,510000000,17000
+110,2,Yra,Yra,Yra,Shahran,3850000000,128333.33
+150,3,Yra,Yra,Yra,Sadeghieh,6000000000,200000
+75,2,Nera,Nera,Nera,Chahardangeh,780000000,26000
+137,3,Yra,Yra,Yra,ShahrAra,7200000000,240000
+85,2,Yra,Yra,Yra,Parand,410000000,13666.67
+68,2,Nera,Yra,Nera,Pakdasht,430000000,14333.33
+78,2,Nera,Yra,Nera,Baqershahr,800000000,26666.67
+85,2,Yra,Yra,Yra,Parand,545000000,18166.67
+100,2,Yra,Yra,Nera,Parand,1280000000,42666.67
+71,2,Yra,Yra,Yra,Punak,2800000000,93333.33
+140,3,Yra,Yra,Yra,Gisha,11200000000,373333.33
+136,3,Yra,Yra,Nera,Parand,750000000,25000
+48,1,Nera,Nera,Nera,Jeyhoon,850000000,28333.33
+100,2,Yra,Yra,Yra,Lavizan,3300000000,110000
+82,2,Yra,Nera,Yra,Shams Abad,3280000000,109333.33
+120,3,Yra,Yra,Yra,Fatemi,4800000000,160000
+139,3,Yra,Yra,Yra,Gisha,7300000000,243333.33
+110,3,Yra,Yra,Yra,Keshavarz Boulevard,3950000000,131666.67
+78,2,Nera,Nera,Yra,Parand,370000000,12333.33
+79,2,Nera,Nera,Nera,Baghestan,750000000,25000
+66,2,Yra,Yra,Yra,Salsabil,1725000000,57500
+78,2,Yra,Yra,Yra,Kahrizak,780000000,26000
+85,2,Yra,Yra,Yra,Shahryar,1419000000,47300
+100,2,Yra,Yra,Nera,Qarchak,1200000000,40000
+80,2,Yra,Yra,Yra,Northren Jamalzadeh,3600000000,120000
+44,1,Yra,Yra,Nera,Salsabil,1050000000,35000
+120,2,Yra,Yra,Nera,Shahryar,1200000000,40000
+50,1,Nera,Yra,Nera,Shahrake Qods,340000000,11333.33
+121,3,Yra,Yra,Nera,Ostad Moein,3300000000,110000
+80,2,Yra,Yra,Yra,Azarbaijan,2800000000,93333.33
+70,2,Nera,Yra,Yra,Bahar,1200000000,40000
+160,1,Nera,Nera,Nera,Qarchak,3600000,120
+88,2,Yra,Yra,Yra,Railway,2860000000,95333.33
+141,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3810000000,127000
+140,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,1790000000,59666.67
+120,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,1530000000,51000
+66,2,Nera,Yra,Nera,Beryanak,1000000000,33333.33
+70,2,Yra,Yra,Yra,Punak,3500000000,116666.67
+75,2,Yra,Nera,Yra,Heshmatieh,3000000000,100000
+70,2,Nera,Yra,Yra,Elm-o-Sanat,1800000000,60000
+150,3,Yra,Yra,Yra,Saadat Abad,20000000000,666666.67
+95,2,Yra,Yra,Yra,Golestan,950000000,31666.67
+127,2,Yra,Yra,Yra,Southern Janatabad,6000000000,200000
+123,3,Yra,Yra,Yra,Shahr-e-Ziba,3700000000,123333.33
+63,2,Yra,Yra,Yra,Southern Janatabad,2000000000,66666.67
+90,2,Yra,Yra,Yra,Punak,3050000000,101666.67
+105,2,Yra,Yra,Yra,Pardis,605000000,20166.67
+180,3,Yra,Yra,Yra,Pasdaran,9900000000,330000
+120,3,Yra,Nera,Yra,Pirouzi,3700000000,123333.33
+65,2,Yra,Yra,Yra,Feiz Garden,2500000000,83333.33
+158,3,Yra,Yra,Yra,Farmanieh,10480000000,349333.33
+144,3,Yra,Yra,Yra,Chardivari,7632000000,254400
+144,3,Yra,Yra,Yra,Punak,7632000000,254400
+130,3,Yra,Yra,Yra,Gheitarieh,12300000000,410000
+245,3,Yra,Yra,Yra,Farmanieh,26950000000,898333.33
+190,3,Yra,Yra,Yra,Kamranieh,24300000000,810000
+63,2,Yra,Yra,Yra,CeNeral Janatabad,3000000000,100000
+75,2,Yra,Yra,Yra,East Ferdows Boulevard,2100000000,70000
+88,2,Yra,Nera,Yra,Gholhak,4700000000,156666.67
+108,2,Yra,Yra,Yra,Pasdaran,9180000000,306000
+117,2,Yra,Yra,Yra,Islamshahr,1579500000,52650
+200,3,Yra,Yra,Yra,Pasdaran,12000000000,400000
+65,1,Yra,Yra,Nera,Pirouzi,1750000000,58333.33
+90,2,Yra,Yra,Yra,CeNeral Janatabad,3780000000,126000
+125,2,Yra,Yra,Yra,Heravi,8100000000,270000
+140,3,Yra,Yra,Yra,Heravi,9100000000,303333.33
+71,2,Nera,Yra,Yra,Hashemi,1550000000,51666.67
+71,2,Nera,Yra,Yra,Jeyhoon,1640000000,54666.67
+236,4,Yra,Yra,Yra,Gheitarieh,20000000000,666666.67
+67,2,Yra,Yra,Yra,CeNeral Janatabad,2750000000,91666.67
+60,1,Yra,Yra,Yra,Punak,1750000000,58333.33
+220,3,Yra,Yra,Yra,Heravi,15400000000,513333.33
+44,1,Yra,Yra,Nera,Andisheh,350000000,11666.67
+68,1,Yra,Yra,Yra,Heravi,4115000000,137166.67
+100,2,Yra,Yra,Yra,Pasdaran,8000000000,266666.67
+86,2,Yra,Yra,Yra,Pardis,580000000,19333.33
+84,2,Yra,Yra,Yra,Pardis,560000000,18666.67
+94,2,Yra,Yra,Yra,Heravi,4800000000,160000
+55,1,Nera,Yra,Nera,West Ferdows Boulevard,1550000000,51666.67
+113,2,Yra,Yra,Yra,Saadat Abad,7500000000,250000
+71,2,Yra,Yra,Yra,Islamshahr,630000000,21000
+70,2,Yra,Yra,Nera,Dehkade Olampic,2000000000,66666.67
+200,3,Yra,Yra,Yra,Golestan,2400000000,80000
+106,2,Yra,Yra,Yra,Golestan,1100000000,36666.67
+320,4,Yra,Yra,Yra,Saadat Abad,24000000000,800000
+114,2,Yra,Yra,Yra,West Pars,3820000000,127333.33
+100,2,Yra,Yra,Yra,Punak,6000000000,200000
+122,2,Yra,Yra,Yra,Saadat Abad,5800000000,193333.33
+200,2,Yra,Yra,Nera,Damavand,3500000000,116666.67
+154,3,Yra,Yra,Yra,Saadat Abad,12300000000,410000
+210,3,Yra,Yra,Yra,Pasdaran,15750000000,525000
+200,3,Yra,Yra,Yra,East Ferdows Boulevard,11000000000,366666.67
+65,1,Yra,Yra,Yra,Southern Janatabad,3000000000,100000
+124,3,Yra,Yra,Yra,Pirouzi,3968000000,132266.67
+83,2,Yra,Yra,Yra,Republic,1909000000,63633.33
+270,4,Yra,Yra,Yra,Farmanieh,37800000000,1260000
+104,2,Yra,Yra,Yra,East Ferdows Boulevard,5700000000,190000
+150,3,Yra,Yra,Yra,Zaferanieh,10490000000,349666.67
+103,3,Yra,Yra,Yra,West Ferdows Boulevard,3200000000,106666.67
+48,1,Yra,Yra,Yra,West Ferdows Boulevard,1920000000,64000
+165,3,Yra,Yra,Yra,Gheitarieh,12300000000,410000
+135,2,Yra,Yra,Nera,Gheitarieh,7400000000,246666.67
+86,2,Yra,Yra,Yra,Saadat Abad,6200000000,206666.67
+75,2,Yra,Yra,Yra,East Ferdows Boulevard,2350000000,78333.33
+58,1,Yra,Yra,Yra,East Ferdows Boulevard,1850000000,61666.67
+125,2,Yra,Yra,Yra,Shahrake Gharb,21500000000,716666.67
+82,2,Yra,Yra,Yra,Qazvin Imamzadeh Hassan,1886000000,62866.67
+58,2,Yra,Yra,Yra,Shahran,2200000000,73333.33
+101,2,Yra,Yra,Yra,Beryanak,2323000000,77433.33
+90,2,Yra,Yra,Yra,Niavaran,6800000000,226666.67
+180,3,Yra,Yra,Yra,Farmanieh,20700000000,690000
+132,3,Yra,Yra,Yra,Gheitarieh,6250000000,208333.33
+81,2,Yra,Yra,Yra,Valiasr,1863000000,62100
+153,3,Yra,Yra,Yra,Pasdaran,13000000000,433333.33
+166,3,Yra,Yra,Yra,Qalandari,12500000000,416666.67
+200,3,Yra,Yra,Yra,Pasdaran,17000000000,566666.67
+113,2,Yra,Yra,Yra,Pasdaran,8500000000,283333.33
+100,2,Yra,Yra,Yra,Valiasr,2300000000,76666.67
+80,2,Yra,Yra,Yra,CeNeral Janatabad,3350000000,111666.67
+76,2,Yra,Yra,Yra,Jeyhoon,2000000000,66666.67
+128,3,Yra,Yra,Yra,Punak,5700000000,190000
+210,3,Yra,Yra,Yra,Shahrake Gharb,27000000000,900000
+140,2,Yra,Yra,Yra,Shahrake Gharb,12600000000,420000
+74,2,Yra,Yra,Yra,Amir Bahador,1702000000,56733.33
+75,1,Yra,Yra,Yra,CeNeral Janatabad,3000000000,100000
+120,2,Yra,Yra,Yra,Pasdaran,7500000000,250000
+120,2,Yra,Yra,Yra,Pasdaran,7500000000,250000
+85,2,Yra,Yra,Yra,Ekhtiarieh,5000000000,166666.67
+105,2,Yra,Yra,Yra,Pardis,700000000,23333.33
+175,3,Yra,Yra,Yra,Farmanieh,15600000000,520000
+170,3,Yra,Yra,Yra,Farmanieh,15350000000,511666.67
+58,1,Yra,Yra,Yra,Ekbatan,2810000000,93666.67
+75,2,Yra,Yra,Yra,Parand,395000000,13166.67
+160,3,Yra,Yra,Yra,Gheitarieh,15100000000,503333.33
+62,1,Yra,Yra,Yra,Shahran,1850000000,61666.67
+93,2,Yra,Yra,Yra,Rudhen,1450000000,48333.33
+75,2,Yra,Yra,Yra,Islamshahr,715000000,23833.33
+86,2,Yra,Yra,Nera,Islamshahr,1200000000,40000
+120,2,Yra,Yra,Yra,Southern Program Organization,4260000000,142000
+95,2,Yra,Yra,Yra,Andisheh,1500000000,50000
+70,2,Yra,Yra,Nera,West Ferdows Boulevard,2120000000,70666.67
+75,2,Yra,Yra,Nera,East Ferdows Boulevard,2000000000,66666.67
+81,2,Yra,Nera,Yra,Pardis,590000000,19666.67
+65,1,Yra,Yra,Nera,West Ferdows Boulevard,1930000000,64333.33
+75,2,Yra,Yra,Yra,East Ferdows Boulevard,2730000000,91000
+106,2,Yra,Yra,Nera,East Ferdows Boulevard,3150000000,105000
+115,2,Yra,Yra,Yra,East Ferdows Boulevard,4600000000,153333.33
+100,2,Yra,Yra,Yra,Shahr-e-Ziba,3000000000,100000
+118,2,Yra,Yra,Yra,East Ferdows Boulevard,4500000000,150000
+116,2,Yra,Yra,Yra,East Ferdows Boulevard,5100000000,170000
+76,2,Yra,Yra,Yra,Shahr-e-Ziba,2200000000,73333.33
+74,2,Yra,Yra,Nera,East Ferdows Boulevard,2300000000,76666.67
+96,2,Yra,Yra,Yra,Saadat Abad,4500000000,150000
+87,2,Yra,Yra,Yra,Pardis,625000000,20833.33
+43,1,Yra,Yra,Nera,Northern Janatabad,1620000000,54000
+155,3,Yra,Yra,Yra,Niavaran,17050000000,568333.33
+53,1,Yra,Yra,Yra,East Ferdows Boulevard,1920000000,64000
+160,3,Yra,Yra,Yra,Farmanieh,17600000000,586666.67
+78,2,Yra,Yra,Yra,Shahr-e-Ziba,2250000000,75000
+230,3,Yra,Yra,Yra,Niavaran,25300000000,843333.33
+55,1,Yra,Yra,Yra,West Ferdows Boulevard,1850000000,61666.67
+120,2,Yra,Yra,Nera,Saadat Abad,11700000000,390000
+78,2,Yra,Yra,Yra,Southern Janatabad,3600000000,120000
+95,2,Yra,Yra,Yra,Southern Janatabad,4400000000,146666.67
+170,3,Yra,Yra,Yra,Gheitarieh,15400000000,513333.33
+175,3,Yra,Yra,Yra,Shahrake Gharb,22750000000,758333.33
+115,3,Yra,Yra,Yra,Punak,4500000000,150000
+113,2,Yra,Yra,Yra,Punak,4300000000,143333.33
+85,2,Yra,Yra,Yra,Punak,3380000000,112666.67
+140,3,Yra,Yra,Yra,Saadat Abad,10000000000,333333.33
+90,2,Yra,Yra,Yra,Saadat Abad,6500000000,216666.67
+63,1,Yra,Nera,Nera,Punak,2200000000,73333.33
+75,2,Yra,Yra,Yra,CeNeral Janatabad,3220000000,107333.33
+130,3,Yra,Yra,Yra,Punak,6240000000,208000
+91,2,Yra,Yra,Yra,Punak,3350000000,111666.67
+121,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3650000000,121666.67
+140,3,Yra,Yra,Yra,Saadat Abad,15500000000,516666.67
+126,2,Yra,Yra,Yra,East Ferdows Boulevard,5500000000,183333.33
+450,2,Yra,Yra,Nera,Absard,4200000000,140000
+500,2,Yra,Yra,Nera,Absard,3900000000,130000
+110,1,Yra,Yra,Yra,Pasdaran,6600000000,220000
+145,3,Yra,Yra,Yra,Haft Tir,4700000000,156666.67
+81,2,Yra,Yra,Yra,Shahrake Qods,810000000,27000
+64,2,Yra,Yra,Yra,Shahr-e-Ziba,2200000000,73333.33
+112,2,Yra,Yra,Yra,Shahr-e-Ziba,3680000000,122666.67
+192,3,Yra,Yra,Yra,Marzdaran,12670000000,422333.33
+164,3,Yra,Yra,Yra,Marzdaran,10000000000,333333.33
+135,3,Yra,Yra,Yra,Pasdaran,8100000000,270000
+170,3,Yra,Yra,Yra,Mahallati,9200000000,306666.67
+130,3,Yra,Yra,Yra,Mahallati,5200000000,173333.33
+84,2,Yra,Yra,Yra,Shahran,3400000000,113333.33
+82,2,Yra,Yra,Yra,Shahran,3550000000,118333.33
+265,3,Yra,Yra,Yra,Farmanieh,20000000000,666666.67
+60,1,Yra,Yra,Yra,Southern Janatabad,1950000000,65000
+145,3,Yra,Yra,Yra,Pasdaran,15500000000,516666.67
+65,1,Nera,Yra,Yra,Southern Janatabad,2000000000,66666.67
+60,1,Yra,Yra,Nera,Southern Janatabad,2280000000,76000
+63,2,Yra,Yra,Yra,Southern Janatabad,2000000000,66666.67
+70,2,Yra,Yra,Yra,Southern Janatabad,1950000000,65000
+92,2,Yra,Yra,Yra,Feiz Garden,3900000000,130000
+98,2,Yra,Yra,Yra,Pasdaran,7800000000,260000
+62,1,Yra,Yra,Yra,Southern Janatabad,2280000000,76000
+65,1,Yra,Yra,Yra,Punak,2900000000,96666.67
+90,2,Yra,Yra,Yra,Ozgol,5000000000,166666.67
+59,2,Yra,Yra,Yra,Southern Janatabad,1900000000,63333.33
+63,2,Yra,Yra,Yra,Southern Janatabad,2000000000,66666.67
+60,2,Yra,Yra,Yra,Southern Janatabad,2200000000,73333.33
+70,2,Yra,Yra,Yra,Southern Janatabad,2500000000,83333.33
+60,1,Yra,Yra,Yra,Southern Janatabad,2200000000,73333.33
+165,3,Yra,Yra,Yra,Pasdaran,10500000000,350000
+135,2,Yra,Yra,Yra,Zaferanieh,17500000000,583333.33
+65,1,Yra,Yra,Yra,Southern Janatabad,2000000000,66666.67
+60,1,Yra,Yra,Yra,Southern Janatabad,2250000000,75000
+60,1,Yra,Yra,Yra,Southern Janatabad,2250000000,75000
+86,2,Yra,Yra,Yra,Southern Janatabad,3600000000,120000
+109,2,Yra,Yra,Yra,Heravi,6000000000,200000
+98,2,Yra,Yra,Nera,Narmak,2842000000,94733.33
+80,2,Yra,Yra,Yra,CeNeral Janatabad,3120000000,104000
+143,3,Yra,Yra,Yra,Gheitarieh,8860000000,295333.33
+95,2,Yra,Yra,Yra,Saadat Abad,4550000000,151666.67
+86,2,Yra,Yra,Yra,Punak,3700000000,123333.33
+160,3,Yra,Yra,Yra,Gheitarieh,10000000000,333333.33
+200,3,Yra,Yra,Yra,Pasdaran,16580000000,552666.67
+74,1,Yra,Yra,Yra,Punak,3250000000,108333.33
+350,3,Yra,Yra,Yra,Zaferanieh,52500000000,1750000
+87,2,Yra,Yra,Yra,Northern Janatabad,3550000000,118333.33
+82,2,Yra,Yra,Yra,West Ferdows Boulevard,3450000000,115000
+55,1,Yra,Yra,Yra,Shahr-e-Ziba,2490000000,83000
+148,3,Yra,Yra,Yra,Ekhtiarieh,8400000000,280000
+55,1,Yra,Nera,Yra,Shahr-e-Ziba,2020000000,67333.33
+100,2,Yra,Yra,Nera,Southern Janatabad,3800000000,126666.67
+55,1,Nera,Yra,Nera,West Ferdows Boulevard,1550000000,51666.67
+130,3,Yra,Yra,Yra,CeNeral Janatabad,5300000000,176666.67
+335,4,Yra,Yra,Yra,Saadat Abad,33500000000,1116666.67
+320,4,Yra,Yra,Yra,Saadat Abad,40000000000,1333333.33
+192,3,Yra,Yra,Yra,Saadat Abad,19500000000,650000
+100,2,Yra,Yra,Yra,Gheitarieh,8000000000,266666.67
+148,3,Yra,Yra,Yra,Saadat Abad,14800000000,493333.33
+145,2,Yra,Yra,Yra,Shahrake Gharb,14700000000,490000
+192,4,Yra,Yra,Yra,Saadat Abad,22000000000,733333.33
+235,3,Yra,Yra,Yra,North Program Organization,16450000000,548333.33
+225,3,Yra,Yra,Yra,Heravi,15750000000,525000
+221,4,Yra,Yra,Yra,Saadat Abad,25000000000,833333.33
+312,4,Yra,Yra,Yra,Farmanieh,45000000000,1500000
+188,3,Yra,Yra,Yra,Ozgol,17672000000,589066.67
+170,2,Yra,Yra,Yra,Farmanieh,12400000000,413333.33
+198,3,Yra,Yra,Yra,Farmanieh,27720000000,924000
+80,2,Yra,Yra,Yra,North Program Organization,3100000000,103333.33
+170,3,Yra,Yra,Yra,Niavaran,18700000000,623333.33
+110,2,Yra,Yra,Yra,Tajrish,6600000000,220000
+650,2,Yra,Yra,Nera,Absard,5200000000,173333.33
+200,3,Yra,Yra,Yra,Saadat Abad,12000000000,400000
+101,3,Yra,Yra,Yra,Ekhtiarieh,6500000000,216666.67
+104,2,Yra,Yra,Yra,Feiz Garden,3850000000,128333.33
+70,2,Yra,Yra,Yra,Northern Janatabad,3200000000,106666.67
+76,2,Yra,Yra,Nera,Shahr-e-Ziba,2570000000,85666.67
+110,2,Yra,Yra,Yra,Feiz Garden,4300000000,143333.33
+160,2,Yra,Yra,Yra,Pasdaran,16200000000,540000
+179,3,Yra,Yra,Yra,Dorous,13800000000,460000
+256,3,Yra,Yra,Yra,Dorous,18500000000,616666.67
+90,2,Yra,Yra,Yra,Feiz Garden,3850000000,128333.33
+77,2,Yra,Yra,Yra,Shahr-e-Ziba,2570000000,85666.67
+96,2,Yra,Yra,Yra,Pasdaran,5600000000,186666.67
+75,1,Yra,Yra,Yra,CeNeral Janatabad,3250000000,108333.33
+79,2,Yra,Yra,Yra,Abazar,3000000000,100000
+67,1,Yra,Yra,Yra,Saadat Abad,3400000000,113333.33
+125,2,Yra,Yra,Yra,Shahr-e-Ziba,6400000000,213333.33
+75,2,Yra,Yra,Nera,Shahr-e-Ziba,1890000000,63000
+75,2,Yra,Yra,Nera,Shahr-e-Ziba,1890000000,63000
+91,2,Yra,Yra,Yra,Saadat Abad,5400000000,180000
+105,2,Yra,Yra,Yra,Parand,1417500000,47250
+66,2,Yra,Yra,Yra,Ostad Moein,1585000000,52833.33
+86,2,Yra,Yra,Yra,Southern Janatabad,3270000000,109000
+72,2,Yra,Yra,Nera,Northern Janatabad,2380000000,79333.33
+148,2,Yra,Nera,Yra,Koohsar,4500000000,150000
+84,2,Yra,Yra,Yra,Saadat Abad,4600000000,153333.33
+128,2,Yra,Yra,Yra,Niavaran,12800000000,426666.67
+65,1,Yra,Yra,Yra,West Ferdows Boulevard,3900000000,130000
+140,3,Yra,Yra,Yra,Pasdaran,11800000000,393333.33
+115,2,Yra,Yra,Yra,Ekhtiarieh,7400000000,246666.67
+105,2,Yra,Yra,Yra,Saadat Abad,5700000000,190000
+87,2,Yra,Yra,Yra,Pardis,650000000,21666.67
+75,2,Yra,Yra,Nera,Shahr-e-Ziba,1890000000,63000
+60,1,Yra,Yra,Yra,Persian Gulf Martyrs Lake,875000000,29166.67
+68,1,Yra,Yra,Yra,Southern Program Organization,2630000000,87666.67
+49,1,Yra,Yra,Yra,West Ferdows Boulevard,2200000000,73333.33
+103,2,Yra,Yra,Yra,Hekmat,9270000000,309000
+55,1,Yra,Yra,Yra,West Ferdows Boulevard,2200000000,73333.33
+140,3,Yra,Yra,Yra,Punak,7700000000,256666.67
+257,4,Yra,Yra,Yra,Persian Gulf Martyrs Lake,12850000000,428333.33
+82,2,Yra,Yra,Yra,Punak,4018000000,133933.33
+167,3,Yra,Yra,Yra,Punak,10688000000,356266.67
+53,1,Nera,Yra,Nera,West Ferdows Boulevard,1640000000,54666.67
+51,1,Nera,Yra,Nera,West Ferdows Boulevard,1550000000,51666.67
+54,1,Yra,Yra,Nera,West Ferdows Boulevard,2130000000,71000
+82,2,Yra,Yra,Yra,Sattarkhan,4100000000,136666.67
+75,2,Yra,Yra,Yra,West Ferdows Boulevard,2800000000,93333.33
+98,2,Yra,Yra,Yra,West Ferdows Boulevard,4520000000,150666.67
+75,2,Yra,Yra,Nera,Shahr-e-Ziba,1890000000,63000
+70,1,Yra,Yra,Yra,Niavaran,5600000000,186666.67
+75,2,Yra,Yra,Nera,Shahr-e-Ziba,1890000000,63000
+64,1,Yra,Yra,Yra,Ekbatan,3700000000,123333.33
+85,2,Yra,Yra,Yra,Jeyhoon,2100000000,70000
+48,1,Nera,Yra,Nera,Parastar,980000000,32666.67
+75,2,Yra,Yra,Nera,Shahr-e-Ziba,1890000000,63000
+246,3,Yra,Yra,Yra,Ekhtiarieh,22500000000,750000
+168,3,Yra,Yra,Yra,Gheitarieh,14000000000,466666.67
+280,4,Yra,Yra,Yra,Saadat Abad,38500000000,1283333.33
+75,2,Yra,Yra,Nera,Shahr-e-Ziba,1890000000,63000
+84,2,Yra,Yra,Yra,Pardis,680000000,22666.67
+75,2,Yra,Yra,Nera,Shahr-e-Ziba,1890000000,63000
+108,2,Yra,Yra,Yra,Gisha,5180000000,172666.67
+62,1,Yra,Yra,Yra,Shahr-e-Ziba,2580000000,86000
+70,2,Yra,Yra,Yra,Southern Janatabad,3370000000,112333.33
+180,3,Yra,Yra,Yra,Pasdaran,9900000000,330000
+135,3,Yra,Yra,Yra,Abazar,6480000000,216000
+75,2,Yra,Yra,Nera,Shahr-e-Ziba,1890000000,63000
+108,2,Yra,Yra,Yra,Farmanieh,6200000000,206666.67
+91,2,Yra,Yra,Yra,Ekhtiarieh,5180000000,172666.67
+120,2,Yra,Yra,Yra,Gheitarieh,8900000000,296666.67
+112,2,Yra,Yra,Nera,Gheitarieh,7500000000,250000
+75,2,Yra,Yra,Nera,Shahr-e-Ziba,1890000000,63000
+123,2,Yra,Yra,Yra,Pirouzi,4059000000,135300
+69,2,Yra,Yra,Yra,Pirouzi,1800000000,60000
+400,5,Yra,Yra,Nera,Lavasan,85000000000,2833333.33
+660,5,Yra,Yra,Nera,Lavasan,55000000000,1833333.33
+66,1,Yra,Nera,Yra,Pirouzi,1850000000,61666.67
+80,2,Yra,Yra,Yra,Ostad Moein,2150000000,71666.67
+44,1,Yra,Yra,Nera,Pirouzi,880000000,29333.33
+180,3,Yra,Yra,Yra,East Ferdows Boulevard,9360000000,312000
+164,3,Yra,Yra,Yra,East Ferdows Boulevard,9840000000,328000
+213,3,Yra,Yra,Yra,East Ferdows Boulevard,14484000000,482800
+100,2,Yra,Yra,Yra,Shahr-e-Ziba,3400000000,113333.33
+75,2,Yra,Yra,Nera,Shahr-e-Ziba,1890000000,63000
+300,3,Yra,Yra,Yra,Niavaran,55500000000,1850000
+126,3,Yra,Yra,Yra,Ostad Moein,3000000000,100000
+85,2,Yra,Yra,Yra,Majidieh,2500000000,83333.33
+75,2,Yra,Yra,Nera,Shahr-e-Ziba,1890000000,63000
+57,1,Nera,Yra,Yra,Parastar,1270000000,42333.33
+61,1,Nera,Yra,Nera,Shahr-e-Ziba,1990000000,66333.33
+79,2,Yra,Yra,Yra,Jeyhoon,1817000000,60566.67
+68,1,Yra,Yra,Yra,Pirouzi,2450000000,81666.67
+105,2,Yra,Yra,Yra,Pardis,1000000000,33333.33
+105,2,Yra,Yra,Yra,Saadat Abad,7700000000,256666.67
+160,2,Yra,Yra,Yra,Pardis,1930000000,64333.33
+100,2,Yra,Yra,Yra,Pardis,585000000,19500
+125,3,Yra,Yra,Yra,Saadat Abad,12500000000,416666.67
+94,2,Yra,Nera,Yra,Pardis,990000000,33000
+80,2,Nera,Yra,Nera,Northern Janatabad,2200000000,73333.33
+75,2,Yra,Nera,Yra,Parastar,2300000000,76666.67
+99,3,Yra,Yra,Yra,North Program Organization,4190000000,139666.67
+90,2,Yra,Yra,Yra,Shahr-e-Ziba,4099000000,136633.33
+129,3,Yra,Yra,Yra,Shahr-e-Ziba,4500000000,150000
+245,3,Yra,Yra,Yra,Aqdasieh,36500000000,1216666.67
+102,2,Yra,Yra,Nera,Parastar,2030000000,67666.67
+141,3,Yra,Yra,Yra,Pakdasht,1225000000,40833.33
+96,2,Yra,Yra,Yra,Shahr-e-Ziba,3840000000,128000
+155,3,Yra,Yra,Yra,Heravi,8600000000,286666.67
+300,3,Yra,Yra,Yra,Farmanieh,55500000000,1850000
+87,2,Yra,Yra,Yra,Gheitarieh,6264000000,208800
+87,2,Yra,Yra,Yra,Gheitarieh,6264000000,208800
+105,2,Yra,Yra,Yra,Gheitarieh,6200000000,206666.67
+61,1,Yra,Yra,Yra,Shahran,1850000000,61666.67
+88,2,Yra,Yra,Yra,East Ferdows Boulevard,3700000000,123333.33
+101,2,Yra,Yra,Yra,West Ferdows Boulevard,3700000000,123333.33
+160,2,Yra,Yra,Yra,Pardis,1930000000,64333.33
+130,2,Yra,Yra,Yra,Southern Chitgar,3250000000,108333.33
+150,3,Yra,Yra,Yra,Karimkhan,7800000000,260000
+144,2,Yra,Yra,Yra,Railway,6600000000,220000
+91,2,Yra,Yra,Yra,Southern Janatabad,4500000000,150000
+68,2,Yra,Yra,Yra,West Ferdows Boulevard,2200000000,73333.33
+133,3,Yra,Yra,Yra,Rudhen,2260000000,75333.33
+71,2,Yra,Yra,Yra,Si Metri Ji,1633000000,54433.33
+64,1,Yra,Yra,Yra,Pardis,680000000,22666.67
+132,2,Yra,Yra,Yra,Rudhen,2244000000,74800
+95,2,Yra,Yra,Yra,Abazar,5600000000,186666.67
+95,2,Yra,Yra,Yra,Abazar,4500000000,150000
+102,2,Yra,Yra,Yra,Abazar,5200000000,173333.33
+120,2,Yra,Yra,Yra,Abazar,6250000000,208333.33
+117,3,Yra,Yra,Yra,East Ferdows Boulevard,4600000000,153333.33
+55,1,Yra,Yra,Yra,Karoon,1570000000,52333.33
+60,1,Yra,Yra,Yra,Northern Chitgar,295000000,9833.33
+85,2,Yra,Yra,Yra,Jeyhoon,1900000000,63333.33
+80,2,Nera,Yra,Yra,Jeyhoon,1750000000,58333.33
+54,1,Yra,Yra,Yra,Jeyhoon,1500000000,50000
+57,1,Yra,Yra,Yra,Feiz Garden,1880000000,62666.67
+101,2,Yra,Nera,Yra,Pirouzi,3130000000,104333.33
+65,2,Yra,Yra,Nera,Feiz Garden,1960000000,65333.33
+91,2,Yra,Yra,Yra,Punak,3230000000,107666.67
+105,2,Yra,Yra,Yra,Pardis,690000000,23000
+86,2,Yra,Yra,Yra,CeNeral Janatabad,3480000000,116000
+200,3,Yra,Yra,Yra,Farmanieh,35000000000,1166666.67
+87,2,Yra,Yra,Yra,Pardis,760000000,25333.33
+103,2,Yra,Yra,Yra,Shahran,3550000000,118333.33
+81,2,Yra,Yra,Yra,East Pars,2891700000,96390
+73,2,Yra,Yra,Yra,Feiz Garden,2600000000,86666.67
+90,2,Yra,Yra,Yra,Northern Chitgar,455000000,15166.67
+134,3,Yra,Yra,Yra,Andisheh,1600000000,53333.33
+60,1,Yra,Yra,Yra,Shahran,1850000000,61666.67
+51,1,Yra,Yra,Nera,Shahran,2020000000,67333.33
+108,2,Yra,Yra,Nera,Pardis,1300000000,43333.33
+86,2,Yra,Yra,Yra,Pardis,610000000,20333.33
+110,2,Yra,Yra,Nera,Pardis,1870000000,62333.33
+88,2,Yra,Yra,Yra,Pardis,740000000,24666.67
+85,2,Yra,Yra,Yra,Pardis,780000000,26000
+100,2,Yra,Yra,Yra,Pirouzi,3000000000,100000
+87,2,Yra,Yra,Yra,Pardis,715000000,23833.33
+191,3,Yra,Yra,Yra,Farmanieh,18145000000,604833.33
+91,2,Yra,Yra,Yra,Salsabil,2093000000,69766.67
+282,3,Yra,Yra,Yra,Farmanieh,36660000000,1222000
+282,2,Yra,Yra,Yra,Niavaran,30000000000,1000000
+210,3,Yra,Yra,Yra,Farmanieh,23100000000,770000
+87,2,Yra,Yra,Yra,Pardis,650000000,21666.67
+170,2,Yra,Yra,Yra,Kook,7140000000,238000
+89,2,Yra,Yra,Yra,Moniriyeh,2047000000,68233.33
+64,2,Yra,Yra,Yra,Saadat Abad,3200000000,106666.67
+89,2,Yra,Yra,Yra,Northern Janatabad,3100000000,103333.33
+135,3,Yra,Yra,Yra,Zaferanieh,11800000000,393333.33
+75,2,Nera,Nera,Nera,Air force,1650000000,55000
+105,2,Yra,Yra,Yra,Air force,3990000000,133000
+320,4,Yra,Yra,Yra,Saadat Abad,40000000000,1333333.33
+111,2,Yra,Yra,Yra,Saadat Abad,6800000000,226666.67
+133,3,Yra,Yra,Yra,Sohanak,7448000000,248266.67
+65,1,Yra,Yra,Nera,Saadat Abad,3250000000,108333.33
+65,1,Nera,Yra,Yra,Lavizan,2650000000,88333.33
+112,2,Yra,Yra,Yra,Gheitarieh,8200000000,273333.33
+147,3,Yra,Yra,Yra,Ekhtiarieh,8400000000,280000
+150,3,Yra,Yra,Yra,Saadat Abad,12000000000,400000
+67,1,Yra,Yra,Yra,Southern Janatabad,3450000000,115000
+220,3,Yra,Yra,Yra,Ekhtiarieh,15000000000,500000
+66,2,Yra,Yra,Yra,Narmak,2510000000,83666.67
+75,2,Yra,Yra,Nera,Shahr-e-Ziba,1880000000,62666.67
+180,3,Yra,Yra,Yra,Aqdasieh,12600000000,420000
+103,2,Yra,Yra,Yra,Saadat Abad,5200000000,173333.33
+68,1,Yra,Yra,Yra,West Ferdows Boulevard,3570000000,119000
+115,2,Yra,Yra,Yra,Pasdaran,11000000000,366666.67
+115,2,Yra,Yra,Yra,Andisheh,1900000000,63333.33
+150,3,Yra,Yra,Yra,Narmak,8400000000,280000
+78,2,Yra,Yra,Yra,Qasr-od-Dasht,2000000000,66666.67
+100,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,1000000000,33333.33
+58,1,Yra,Yra,Yra,Punak,2650000000,88333.33
+90,2,Yra,Yra,Yra,Punak,4200000000,140000
+235,3,Yra,Yra,Yra,Gheitarieh,24000000000,800000
+48,1,Yra,Yra,Yra,Punak,2250000000,75000
+70,2,Yra,Yra,Yra,Punak,2800000000,93333.33
+86,2,Yra,Yra,Yra,Punak,4200000000,140000
+79,2,Yra,Yra,Yra,Pardis,550000000,18333.33
+88,2,Yra,Yra,Yra,CeNeral Janatabad,3600000000,120000
+145,3,Yra,Yra,Yra,Qalandari,13000000000,433333.33
+64,2,Yra,Yra,Nera,Jeyhoon,1500000000,50000
+135,3,Yra,Yra,Yra,Saadat Abad,11475000000,382500
+50,1,Nera,Yra,Nera,Pirouzi,1260000000,42000
+87,2,Yra,Yra,Yra,Pardis,540000000,18000
+84,2,Yra,Yra,Yra,Pardis,550000000,18333.33
+300,4,Yra,Yra,Yra,Zaferanieh,42000000000,1400000
+137,3,Yra,Yra,Yra,Zaferanieh,10000000000,333333.33
+105,2,Yra,Yra,Yra,Velenjak,9500000000,316666.67
+145,2,Yra,Yra,Yra,Zaferanieh,11000000000,366666.67
+84,2,Yra,Yra,Yra,Pardis,560000000,18666.67
+170,2,Yra,Yra,Yra,Zaferanieh,32000000000,1066666.67
+157,3,Yra,Yra,Yra,Zaferanieh,14800000000,493333.33
+170,3,Yra,Yra,Yra,Zaferanieh,19000000000,633333.33
+283,3,Yra,Yra,Yra,Zaferanieh,29700000000,990000
+84,2,Yra,Yra,Yra,Pardis,540000000,18000
+331,2,Yra,Yra,Yra,Ostad Moein,3310000000,110333.33
+84,2,Yra,Yra,Yra,Pardis,550000000,18333.33
+80,2,Yra,Yra,Nera,Northern Janatabad,3250000000,108333.33
+863,2,Yra,Yra,Yra,Gheitarieh,7830000000,261000
+125,2,Yra,Yra,Yra,Kamranieh,8700000000,290000
+65,2,Yra,Yra,Yra,Punak,2350000000,78333.33
+105,2,Yra,Yra,Yra,Southern Janatabad,5300000000,176666.67
+170,3,Yra,Yra,Yra,Farmanieh,18700000000,623333.33
+230,3,Yra,Yra,Yra,Ekhtiarieh,19300000000,643333.33
+200,3,Yra,Yra,Yra,Pasdaran,22000000000,733333.33
+150,3,Yra,Yra,Yra,Pasdaran,13000000000,433333.33
+93,2,Yra,Yra,Yra,CeNeral Janatabad,4650000000,155000
+110,2,Yra,Yra,Yra,CeNeral Janatabad,4500000000,150000
+415,5,Yra,Yra,Yra,Niavaran,53950000000,1798333.33
+95,2,Yra,Yra,Yra,Saadat Abad,5700000000,190000
+128,3,Yra,Yra,Yra,Ekhtiarieh,8960000000,298666.67
+140,2,Yra,Yra,Yra,Saadat Abad,8400000000,280000
+86,2,Yra,Yra,Yra,Southern Janatabad,3200000000,106666.67
+70,2,Yra,Yra,Yra,Saadat Abad,3900000000,130000
+173,3,Yra,Yra,Yra,East Ferdows Boulevard,9515000000,317166.67
+72,2,Yra,Yra,Yra,Southern Janatabad,3150000000,105000
+73,2,Yra,Yra,Yra,Saadat Abad,3900000000,130000
+75,1,Yra,Yra,Yra,CeNeral Janatabad,3200000000,106666.67
+67,2,Yra,Yra,Yra,West Ferdows Boulevard,2200000000,73333.33
+68,2,Yra,Yra,Yra,East Ferdows Boulevard,2700000000,90000
+88,2,Yra,Yra,Yra,Pardis,1900000000,63333.33
+111,2,Yra,Yra,Yra,Saadat Abad,5661000000,188700
+98,2,Yra,Yra,Nera,West Ferdows Boulevard,3750000000,125000
+62,2,Yra,Yra,Yra,West Ferdows Boulevard,2750000000,91666.67
+80,2,Yra,Yra,Yra,CeNeral Janatabad,4240000000,141333.33
+200,4,Yra,Yra,Yra,Saadat Abad,15000000000,500000
+210,4,Yra,Yra,Yra,Saadat Abad,15500000000,516666.67
+162,3,Yra,Yra,Yra,Shahrake Gharb,12150000000,405000
+150,3,Yra,Yra,Yra,Ekhtiarieh,12000000000,400000
+82,2,Yra,Yra,Yra,Pardis,1100000000,36666.67
+130,3,Yra,Yra,Yra,Pasdaran,11100000000,370000
+76,2,Yra,Yra,Yra,Saadat Abad,4000000000,133333.33
+96,2,Yra,Yra,Yra,Shahrake Gharb,4800000000,160000
+103,2,Yra,Yra,Yra,Saadat Abad,5200000000,173333.33
+135,3,Yra,Nera,Yra,Saadat Abad,8700000000,290000
+140,2,Yra,Yra,Yra,Shahrake Gharb,12600000000,420000
+165,3,Yra,Yra,Yra,Shahrake Gharb,14800000000,493333.33
+120,2,Yra,Yra,Yra,Shahrake Qods,1050000000,35000
+160,2,Yra,Yra,Yra,Pardis,2000000000,66666.67
+150,3,Yra,Yra,Yra,Gheitarieh,9000000000,300000
+51,1,Nera,Yra,Yra,Pirouzi,1300000000,43333.33
+75,1,Yra,Yra,Yra,Ekhtiarieh,3900000000,130000
+180,3,Yra,Yra,Yra,East Ferdows Boulevard,9900000000,330000
+93,2,Yra,Yra,Yra,Shahrake Qods,1181100000,39370
+84,2,Yra,Yra,Yra,Shahrake Qods,1150800000,38360
+92,2,Nera,Yra,Yra,Shahrake Qods,1012000000,33733.33
+105,2,Yra,Yra,Yra,Shahrake Qods,1365000000,45500
+67,2,Yra,Yra,Nera,CeNeral Janatabad,2400000000,80000
+100,2,Yra,Yra,Yra,Ekhtiarieh,5500000000,183333.33
+170,3,Yra,Yra,Yra,Pasdaran,10800000000,360000
+162,3,Yra,Yra,Yra,Pasdaran,7600000000,253333.33
+43,1,Yra,Yra,Yra,Shahran,2080000000,69333.33
+150,3,Yra,Yra,Yra,Gheitarieh,12500000000,416666.67
+245,3,Yra,Yra,Yra,Farmanieh,22050000000,735000
+93,2,Yra,Yra,Yra,Northern Janatabad,4140000000,138000
+60,1,Yra,Yra,Yra,Persian Gulf Martyrs Lake,295000000,9833.33
+128,3,Yra,Yra,Yra,Gheitarieh,9300000000,310000
+87,2,Yra,Yra,Yra,Pardis,795000000,26500
+100,2,Yra,Yra,Yra,Heravi,5500000000,183333.33
+124,2,Yra,Yra,Yra,Heravi,7040000000,234666.67
+156,3,Yra,Yra,Yra,Abazar,9400000000,313333.33
+171,3,Yra,Yra,Yra,Gheitarieh,14000000000,466666.67
+58,2,Yra,Yra,Nera,CeNeral Janatabad,2080000000,69333.33
+88,2,Yra,Yra,Yra,Amirieh,2024000000,67466.67
+190,3,Yra,Yra,Yra,Niavaran,24700000000,823333.33
+61,1,Yra,Yra,Nera,CeNeral Janatabad,2180000000,72666.67
+165,3,Yra,Yra,Yra,Niavaran,17200000000,573333.33
+235,3,Yra,Yra,Yra,Gheitarieh,26500000000,883333.33
+87,2,Yra,Yra,Yra,Pardis,670000000,22333.33
+121,3,Yra,Yra,Yra,Pardis,630000000,21000
+105,2,Yra,Yra,Yra,Pardis,955000000,31833.33
+100,3,Yra,Yra,Yra,Pardis,500000000,16666.67
+105,2,Yra,Yra,Yra,Pardis,980000000,32666.67
+69,2,Yra,Yra,Yra,Shahr-e-Ziba,2050000000,68333.33
+115,2,Yra,Yra,Yra,Shahrake Gharb,13000000000,433333.33
+157,3,Yra,Yra,Yra,Shahrake Gharb,18500000000,616666.67
+145,3,Yra,Yra,Yra,Heravi,7541000000,251366.67
+160,3,Yra,Yra,Yra,Velenjak,10700000000,356666.67
+261,4,Yra,Yra,Yra,Zaferanieh,26000000000,866666.67
+145,3,Yra,Yra,Yra,Zaferanieh,11000000000,366666.67
+51,1,Nera,Yra,Yra,Pirouzi,1275000000,42500
+87,2,Yra,Yra,Yra,Pardis,490000000,16333.33
+116,2,Yra,Yra,Yra,Dehkade Olampic,4350000000,145000
+95,2,Yra,Yra,Yra,Jeyhoon,2280000000,76000
+75,2,Yra,Yra,Yra,Jeyhoon,2250000000,75000
+86,2,Yra,Yra,Yra,Komeil,1978000000,65933.33
+95,2,Yra,Yra,Yra,Punak,4200000000,140000
+85,2,Yra,Yra,Yra,,1955000000,65166.67
+88,2,Yra,Yra,Yra,Valiasr,2024000000,67466.67
+93,2,Yra,Yra,Yra,Amir Bahador,2139000000,71300
+70,2,Yra,Yra,Yra,Amirieh,1630000000,54333.33
+140,3,Yra,Yra,Yra,Saadat Abad,9800000000,326666.67
+81,2,Yra,Yra,Yra,CeNeral Janatabad,4000000000,133333.33
+109,2,Yra,Yra,Yra,Shahran,3500000000,116666.67
+122,2,Yra,Yra,Yra,Aqdasieh,7000000000,233333.33
+70,1,Yra,Yra,Yra,CeNeral Janatabad,3100000000,103333.33
+60,1,Yra,Yra,Yra,West Ferdows Boulevard,2450000000,81666.67
+53,1,Yra,Yra,Nera,East Ferdows Boulevard,1920000000,64000
+45,1,Nera,Nera,Nera,Ostad Moein,1200000000,40000
+58,1,Yra,Yra,Nera,Punak,1900000000,63333.33
+140,3,Yra,Yra,Yra,Dehkade Olampic,4400000000,146666.67
+100,2,Yra,Yra,Yra,Kook,3580000000,119333.33
+96,2,Yra,Yra,Yra,Azadshahr,3750000000,125000
+79,2,Yra,Yra,Yra,East Ferdows Boulevard,2850000000,95000
+125,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3750000000,125000
+75,2,Yra,Yra,Yra,Northern Janatabad,3050000000,101666.67
+145,2,Yra,Yra,Yra,Azadshahr,4500000000,150000
+102,2,Yra,Yra,Nera,Railway,4520000000,150666.67
+115,2,Yra,Yra,Yra,Zibadasht,4350000000,145000
+140,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,8500000000,283333.33
+66,1,Yra,Yra,Yra,Punak,3300000000,110000
+161,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,8350000000,278333.33
+102,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,4500000000,150000
+145,4,Yra,Yra,Yra,Persian Gulf Martyrs Lake,5100000000,170000
+95,2,Yra,Yra,Yra,Shahr-e-Ziba,2970000000,99000
+78,2,Yra,Yra,Yra,Parand,460000000,15333.33
+90,2,Yra,Yra,Yra,East Ferdows Boulevard,3150000000,105000
+66,1,Yra,Yra,Nera,Ostad Moein,1090000000,36333.33
+48,1,Yra,Yra,Yra,Jeyhoon,810000000,27000
+85,2,Yra,Yra,Yra,Shahran,3200000000,106666.67
+63,1,Yra,Yra,Yra,Salsabil,2000000000,66666.67
+105,2,Yra,Yra,Yra,Dehkade Olampic,1035000000,34500
+55,1,Yra,Yra,Nera,Komeil,1090000000,36333.33
+103,2,Yra,Yra,Yra,Northern Chitgar,1035000000,34500
+155,3,Yra,Yra,Yra,Shahrake Gharb,10000000000,333333.33
+101,2,Yra,Yra,Yra,Southern Chitgar,1035000000,34500
+106,2,Yra,Yra,Nera,Islamshahr,1245000000,41500
+100,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,1035000000,34500
+77,2,Yra,Yra,Yra,Shahran,2650000000,88333.33
+66,2,Yra,Yra,Yra,CeNeral Janatabad,2700000000,90000
+105,3,Yra,Yra,Yra,Shahr-e-Ziba,3600000000,120000
+117,2,Yra,Yra,Yra,,6500000000,216666.67
+118,2,Yra,Yra,Yra,Shahran,3900000000,130000
+151,3,Yra,Yra,Yra,Shahrake Qods,1510000000,50333.33
+331,3,Yra,Yra,Yra,Pasdaran,16160000000,538666.67
+86,2,Yra,Yra,Yra,Pardis,500000000,16666.67
+85,2,Yra,Yra,Yra,Pardis,600000000,20000
+86,2,Yra,Yra,Yra,Pardis,750000000,25000
+86,2,Yra,Yra,Yra,Pardis,600000000,20000
+75,2,Yra,Yra,Yra,CeNeral Janatabad,3300000000,110000
+200,3,Yra,Yra,Yra,Farmanieh,20000000000,666666.67
+46,1,Yra,Yra,Nera,Andisheh,450000000,15000
+98,2,Yra,Yra,Yra,Pardis,570000000,19000
+90,2,Yra,Yra,Yra,Zaferanieh,6700000000,223333.33
+70,2,Yra,Yra,Yra,Southern Janatabad,2950000000,98333.33
+40,1,Yra,Yra,Yra,Andisheh,350000000,11666.67
+58,1,Yra,Yra,Yra,North Program Organization,2750000000,91666.67
+90,2,Yra,Yra,Yra,Amirabad,4590000000,153000
+78,2,Yra,Yra,Yra,East Ferdows Boulevard,3300000000,110000
+200,3,Yra,Yra,Yra,Niavaran,20000000000,666666.67
+82,2,Yra,Yra,Yra,Dorous,4200000000,140000
+115,3,Yra,Yra,Yra,Gheitarieh,7485000000,249500
+125,2,Yra,Yra,Yra,Dezashib,11250000000,375000
+107,2,Yra,Yra,Yra,Pasdaran,9200000000,306666.67
+55,1,Nera,Yra,Nera,Karoon,850000000,28333.33
+50,1,Yra,Yra,Yra,Salsabil,1500000000,50000
+75,2,Yra,Yra,Yra,Pardis,60000000,2000
+420,5,Yra,Yra,Nera,Andisheh,11000000000,366666.67
+225,4,Yra,Yra,Nera,Andisheh,5500000000,183333.33
+230,3,Yra,Yra,Yra,Heravi,13800000000,460000
+147,3,Yra,Yra,Yra,Elahieh,11500000000,383333.33
+97,2,Yra,Yra,Yra,Pardis,900000000,30000
+145,3,Yra,Yra,Yra,Dezashib,12300000000,410000
+50,1,Yra,Yra,Nera,Narmak,1750000000,58333.33
+117,2,Yra,Yra,Yra,Heravi,6100000000,203333.33
+72,1,Yra,Yra,Nera,Andisheh,730000000,24333.33
+161,3,Yra,Yra,Yra,Dorous,13000000000,433333.33
+400,5,Yra,Yra,Yra,Ekhtiarieh,18500000000,616666.67
+230,3,Yra,Yra,Yra,Farmanieh,23000000000,766666.67
+170,3,Yra,Yra,Yra,Heravi,7950000000,265000
+58,1,Yra,Yra,Yra,West Ferdows Boulevard,2050000000,68333.33
+57,1,Yra,Yra,Yra,Shahran,1950000000,65000
+115,3,Yra,Yra,Yra,Farmanieh,8100000000,270000
+50,1,Yra,Yra,Yra,Pirouzi,1200000000,40000
+84,2,Yra,Yra,Nera,Parand,850000000,28333.33
+78,2,Nera,Yra,Nera,Shahrake Qods,580000000,19333.33
+64,2,Yra,Yra,Nera,Andisheh,960000000,32000
+113,2,Yra,Yra,Yra,Punak,6500000000,216666.67
+175,3,Yra,Yra,Yra,Heravi,9450000000,315000
+111,2,Yra,Yra,Yra,Heravi,6050000000,201666.67
+128,3,Yra,Yra,Yra,Heravi,6500000000,216666.67
+200,4,Yra,Yra,Yra,Gheitarieh,14000000000,466666.67
+131,2,Yra,Yra,Yra,Saadat Abad,7980000000,266000
+105,3,Yra,Yra,Yra,Heravi,6000000000,200000
+87,2,Yra,Yra,Yra,Pardis,650000000,21666.67
+61,2,Yra,Yra,Nera,Salsabil,1100000000,36666.67
+140,3,Yra,Yra,Yra,Ozgol,6300000000,210000
+185,3,Yra,Yra,Yra,Zargandeh,9000000000,300000
+122,2,Yra,Yra,Yra,Saadat Abad,7900000000,263333.33
+69,2,Yra,Yra,Yra,Mirdamad,3795000000,126500
+95,2,Yra,Yra,Yra,Punak,6700000000,223333.33
+90,2,Yra,Yra,Yra,Abbasabad,4000000000,133333.33
+57,1,Yra,Yra,Yra,Ostad Moein,1600000000,53333.33
+400,3,Yra,Yra,Nera,Amirabad,2000000000,66666.67
+81,2,Yra,Yra,Nera,Andisheh,1109700000,36990
+94,2,Yra,Yra,Yra,Andisheh,1250000000,41666.67
+134,2,Yra,Yra,Yra,Kahrizak,1608000000,53600
+74,2,Nera,Nera,Yra,Parand,315000000,10500
+44,1,Yra,Yra,Nera,Andisheh,585000000,19500
+100,2,Yra,Yra,Yra,Qasr-od-Dasht,3250000000,108333.33
+175,3,Yra,Yra,Yra,Shahrake Gharb,9300000000,310000
+54,2,Yra,Yra,Nera,Shahran,1850000000,61666.67
+96,2,Yra,Yra,Yra,Amirieh,2210000000,73666.67
+90,2,Yra,Yra,Yra,Karoon,2400000000,80000
+90,2,Yra,Yra,Yra,Shahran,3170000000,105666.67
+68,2,Nera,Nera,Nera,Karoon,1100000000,36666.67
+68,2,Nera,Nera,Nera,Karoon,1100000000,36666.67
+90,2,Yra,Yra,Yra,Shahran,3200000000,106666.67
+97,2,Yra,Yra,Yra,Punak,4700000000,156666.67
+78,2,Yra,Yra,Nera,Punak,2730000000,91000
+125,3,Yra,Yra,Yra,Shahran,5550000000,185000
+97,2,Yra,Yra,Yra,Farmanieh,5950000000,198333.33
+100,2,Yra,Yra,Yra,Farmanieh,6200000000,206666.67
+63,2,Yra,Yra,Yra,Feiz Garden,2100000000,70000
+57,1,Yra,Yra,Yra,Punak,2000000000,66666.67
+80,2,Yra,Yra,Yra,Razi,1390000000,46333.33
+88,2,Yra,Yra,Yra,Razi,1574000000,52466.67
+94,2,Yra,Yra,Yra,Razi,1712000000,57066.67
+109,3,Yra,Yra,Yra,Feiz Garden,4230000000,141000
+78,2,Yra,Yra,Yra,Heravi,3300000000,110000
+250,3,Yra,Yra,Yra,Niavaran,32500000000,1083333.33
+140,3,Yra,Yra,Yra,Heravi,6800000000,226666.67
+100,2,Yra,Yra,Yra,Pardis,500000000,16666.67
+95,2,Yra,Yra,Yra,Shahr-e-Ziba,3150000000,105000
+85,2,Yra,Yra,Yra,Parand,1150000000,38333.33
+83,2,Yra,Yra,Yra,East Pars,2575000000,85833.33
+100,2,Yra,Yra,Yra,Pasdaran,5500000000,183333.33
+60,2,Yra,Yra,Yra,Pasdaran,3450000000,115000
+82,2,Yra,Yra,Yra,Narmak,3050000000,101666.67
+150,3,Yra,Yra,Yra,Beryanak,2800000000,93333.33
+49,1,Yra,Yra,Nera,Islamshahr,460000000,15333.33
+216,4,Yra,Yra,Nera,Andisheh,5700000000,190000
+1000,2,Yra,Yra,Nera,Damavand,7000000000,233333.33
+77,2,Nera,Nera,Nera,Parand,440000000,14666.67
+63,1,Yra,Yra,Yra,Shahr-e-Ziba,2080000000,69333.33
+125,3,Yra,Yra,Nera,Parand,1300000000,43333.33
+45,1,Yra,Yra,Yra,East Ferdows Boulevard,1900000000,63333.33
+135,3,Yra,Yra,Yra,Qalandari,7500000000,250000
+80,2,Yra,Nera,Yra,Qalandari,4700000000,156666.67
+155,3,Yra,Yra,Yra,Gheitarieh,9800000000,326666.67
+125,3,Yra,Yra,Yra,Punak,6300000000,210000
+95,2,Yra,Yra,Yra,Qalandari,6250000000,208333.33
+85,2,Yra,Yra,Yra,Qalandari,4500000000,150000
+110,2,Yra,Yra,Yra,Qalandari,8100000000,270000
+680,5,Yra,Yra,Nera,Ekhtiarieh,81600000000,2720000
+63,1,Yra,Yra,Yra,Shahr-e-Ziba,2350000000,78333.33
+60,1,Yra,Yra,Yra,Saadat Abad,3600000000,120000
+210,3,Yra,Yra,Yra,Gheitarieh,14000000000,466666.67
+145,3,Yra,Yra,Yra,Gheitarieh,11600000000,386666.67
+171,3,Yra,Yra,Yra,Jordan,8900000000,296666.67
+55,1,Yra,Yra,Yra,East Ferdows Boulevard,1830000000,61000
+140,3,Yra,Yra,Yra,Jordan,7700000000,256666.67
+147,3,Yra,Yra,Yra,Jordan,8700000000,290000
+83,2,Yra,Yra,Yra,Shahr-e-Ziba,2400000000,80000
+105,2,Yra,Yra,Yra,Pardis,514000000,17133.33
+55,1,Yra,Yra,Yra,East Ferdows Boulevard,2000000000,66666.67
+750,5,Yra,Yra,Yra,Mahmoudieh,75000000000,2500000
+62,2,Yra,Yra,Yra,Punak,2100000000,70000
+55,1,Yra,Yra,Yra,Persian Gulf Martyrs Lake,1900000000,63333.33
+75,2,Yra,Yra,Nera,West Ferdows Boulevard,1950000000,65000
+95,2,Yra,Yra,Yra,West Ferdows Boulevard,4200000000,140000
+89,2,Yra,Yra,Yra,CeNeral Janatabad,3620000000,120666.67
+202,3,Yra,Yra,Yra,Air force,7474000000,249133.33
+51,1,Yra,Yra,Nera,Southern Janatabad,1720000000,57333.33
+400,1,Yra,Nera,Nera,Shahedshahr,3000000000,100000
+145,3,Yra,Yra,Yra,Punak,7600000000,253333.33
+115,3,Yra,Yra,Yra,Punak,5000000000,166666.67
+130,3,Yra,Yra,Yra,Shahrake Gharb,8450000000,281666.67
+62,1,Nera,Yra,Nera,Qasr-od-Dasht,950000000,31666.67
+94,2,Yra,Yra,Yra,Shahr-e-Ziba,3160000000,105333.33
+87,2,Yra,Yra,Yra,Pardis,726000000,24200
+51,2,Nera,Yra,Yra,Komeil,1050000000,35000
+95,2,Yra,Yra,Yra,Shahr-e-Ziba,2870000000,95666.67
+80,2,Yra,Yra,Yra,Jeyhoon,2150000000,71666.67
+145,3,Yra,Yra,Yra,Punak,4300000000,143333.33
+155,3,Yra,Yra,Yra,Shahrake Gharb,9300000000,310000
+88,2,Yra,Yra,Yra,Ekbatan,3940000000,131333.33
+175,3,Yra,Yra,Yra,Gheitarieh,15225000000,507500
+94,2,Yra,Yra,Yra,Shahran,4700000000,156666.67
+89,2,Yra,Yra,Yra,Ekhtiarieh,3300000000,110000
+62,2,Yra,Yra,Nera,Pasdaran,3400000000,113333.33
+136,3,Yra,Yra,Yra,Punak,7550000000,251666.67
+60,1,Yra,Yra,Yra,Feiz Garden,2450000000,81666.67
+120,3,Yra,Yra,Yra,Southern Janatabad,5000000000,166666.67
+137,3,Yra,Yra,Yra,Pakdasht,1750000000,58333.33
+160,3,Yra,Yra,Yra,Shahrake Gharb,12500000000,416666.67
+110,2,Yra,Yra,Yra,Saadat Abad,8800000000,293333.33
+71,2,Yra,Yra,Nera,Andisheh,940000000,31333.33
+155,3,Yra,Yra,Yra,Shahrake Gharb,10000000000,333333.33
+80,2,Yra,Yra,Nera,Andisheh,1110000000,37000
+84,3,Yra,Yra,Yra,Andisheh,1590000000,53000
+77,2,Yra,Yra,Yra,Gheitarieh,5544000000,184800
+74,2,Yra,Yra,Yra,Shahran,4100000000,136666.67
+130,3,Yra,Yra,Yra,Shahr-e-Ziba,5400000000,180000
+70,2,Yra,Yra,Yra,Southern Janatabad,2400000000,80000
+75,2,Nera,Yra,Yra,Parand,389000000,12966.67
+83,2,Yra,Nera,Yra,Pasdaran,5000000000,166666.67
+65,1,Yra,Yra,Yra,CeNeral Janatabad,3500000000,116666.67
+62,1,Nera,Yra,Nera,Qasr-od-Dasht,1100000000,36666.67
+140,3,Yra,Yra,Yra,Southern Chitgar,1484000000,49466.67
+235,3,Yra,Yra,Yra,Gheitarieh,25900000000,863333.33
+102,2,Yra,Yra,Yra,Gheitarieh,8100000000,270000
+138,3,Yra,Yra,Yra,Kahrizak,1242000000,41400
+49,1,Yra,Yra,Nera,Andisheh,380000000,12666.67
+250,3,Yra,Yra,Nera,Niavaran,45000000000,1500000
+48,1,Yra,Yra,Nera,Salsabil,995000000,33166.67
+68,2,Yra,Yra,Nera,Pirouzi,1550000000,51666.67
+128,3,Yra,Yra,Yra,Marzdaran,5200000000,173333.33
+60,1,Yra,Yra,Yra,Pirouzi,1380000000,46000
+85,2,Yra,Yra,Yra,Northern Janatabad,3200000000,106666.67
+85,2,Yra,Yra,Yra,Islamshahr,565000000,18833.33
+78,2,Yra,Nera,Nera,Islamshahr,550000000,18333.33
+38,1,Yra,Yra,Nera,Pirouzi,850000000,28333.33
+92,2,Yra,Nera,Yra,Pirouzi,2760000000,92000
+95,2,Yra,Yra,Yra,Shahran,4650000000,155000
+105,3,Yra,Yra,Yra,East Ferdows Boulevard,3900000000,130000
+92,2,Nera,Nera,Yra,Pardis,550000000,18333.33
+76,2,Yra,Yra,Nera,West Ferdows Boulevard,2400000000,80000
+85,2,Yra,Yra,Yra,Yaftabad,1250000000,41666.67
+161,3,Yra,Yra,Yra,Gheitarieh,15350000000,511666.67
+85,2,Yra,Yra,Yra,Yaftabad,1250000000,41666.67
+50,1,Yra,Nera,Yra,Ray,750000000,25000
+78,2,Yra,Yra,Yra,West Ferdows Boulevard,2650000000,88333.33
+54,1,Yra,Yra,Yra,East Ferdows Boulevard,2150000000,71666.67
+100,2,Yra,Yra,Yra,Shahr-e-Ziba,3800000000,126666.67
+100,2,Yra,Yra,Yra,East Ferdows Boulevard,3500000000,116666.67
+110,3,Yra,Yra,Yra,Jeyhoon,2330000000,77666.67
+57,1,Yra,Yra,Yra,East Ferdows Boulevard,2050000000,68333.33
+63,2,Yra,Yra,Nera,Andisheh,870000000,29000
+100,2,Yra,Yra,Yra,Ostad Moein,3600000000,120000
+80,1,Nera,Yra,Nera,Shahrake Qods,560000000,18666.67
+115,2,Yra,Yra,Yra,East Ferdows Boulevard,4200000000,140000
+68,1,Yra,Yra,Nera,West Ferdows Boulevard,1950000000,65000
+75,2,Yra,Yra,Yra,East Ferdows Boulevard,2350000000,78333.33
+48,1,Yra,Yra,Nera,West Ferdows Boulevard,1900000000,63333.33
+75,2,Yra,Yra,Nera,West Ferdows Boulevard,2450000000,81666.67
+115,2,Yra,Yra,Yra,Shahran,5000000000,166666.67
+106,2,Yra,Yra,Yra,East Ferdows Boulevard,3500000000,116666.67
+56,1,Yra,Yra,Yra,East Ferdows Boulevard,1980000000,66000
+58,1,Yra,Yra,Yra,East Ferdows Boulevard,2080000000,69333.33
+95,2,Yra,Yra,Yra,CeNeral Janatabad,3700000000,123333.33
+50,1,Yra,Yra,Yra,West Ferdows Boulevard,1900000000,63333.33
+60,2,Yra,Yra,Nera,CeNeral Janatabad,2100000000,70000
+60,1,Yra,Yra,Yra,East Ferdows Boulevard,1920000000,64000
+92,2,Yra,Yra,Nera,Mehran,2500000000,83333.33
+57,1,Yra,Yra,Yra,West Ferdows Boulevard,2300000000,76666.67
+72,2,Yra,Yra,Nera,West Ferdows Boulevard,2300000000,76666.67
+71,2,Yra,Yra,Nera,East Ferdows Boulevard,2280000000,76000
+123,2,Yra,Yra,Yra,Northren Jamalzadeh,3600000000,120000
+50,1,Yra,Yra,Yra,West Ferdows Boulevard,1950000000,65000
+58,1,Yra,Yra,Yra,Shahr-e-Ziba,1850000000,61666.67
+54,1,Yra,Yra,Yra,East Ferdows Boulevard,2050000000,68333.33
+85,2,Yra,Yra,Yra,Shahr-e-Ziba,2350000000,78333.33
+85,2,Yra,Yra,Yra,West Ferdows Boulevard,3450000000,115000
+125,3,Nera,Yra,Yra,Nasim Shahr,1300000000,43333.33
+55,1,Yra,Yra,Yra,East Ferdows Boulevard,1920000000,64000
+72,2,Yra,Yra,Yra,West Ferdows Boulevard,2500000000,83333.33
+58,1,Yra,Yra,Yra,Shahr-e-Ziba,1850000000,61666.67
+115,2,Yra,Yra,Yra,East Ferdows Boulevard,5200000000,173333.33
+100,2,Yra,Yra,Yra,West Ferdows Boulevard,3450000000,115000
+116,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,4170000000,139000
+105,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3250000000,108333.33
+60,1,Yra,Yra,Nera,East Ferdows Boulevard,1800000000,60000
+53,1,Yra,Yra,Yra,Feiz Garden,2120000000,70666.67
+55,1,Yra,Yra,Yra,East Ferdows Boulevard,1780000000,59333.33
+76,2,Yra,Yra,Yra,East Ferdows Boulevard,2250000000,75000
+111,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3500000000,116666.67
+77,2,Yra,Yra,Yra,Golestan,2150000000,71666.67
+58,1,Yra,Yra,Yra,East Ferdows Boulevard,1860000000,62000
+94,2,Yra,Yra,Nera,Southern Program Organization,3200000000,106666.67
+58,1,Yra,Yra,Yra,Shahr-e-Ziba,1880000000,62666.67
+108,2,Yra,Yra,Yra,Golestan,3300000000,110000
+56,1,Yra,Yra,Yra,Feiz Garden,2000000000,66666.67
+84,2,Yra,Yra,Yra,North Program Organization,3250000000,108333.33
+60,2,Yra,Yra,Yra,Azarbaijan,1950000000,65000
+53,1,Nera,Yra,Yra,Pardis,470000000,15666.67
+73,2,Yra,Yra,Yra,Pirouzi,2555000000,85166.67
+73,2,Nera,Nera,Yra,Pirouzi,1970000000,65666.67
+150,3,Yra,Yra,Yra,Pirouzi,5100000000,170000
+114,2,Yra,Yra,Yra,Pirouzi,3762000000,125400
+66,2,Yra,Yra,Yra,Ostad Moein,1585000000,52833.33
+53,1,Nera,Yra,Yra,Pardis,540000000,18000
+125,3,Yra,Yra,Yra,Pirouzi,4000000000,133333.33
+145,3,Yra,Yra,Yra,Gheitarieh,13625000000,454166.67
+197,3,Yra,Yra,Yra,Dezashib,18715000000,623833.33
+105,2,Yra,Yra,Yra,Koohsar,4000000000,133333.33
+135,3,Yra,Yra,Yra,Tenant,4050000000,135000
+137,3,Yra,Yra,Yra,Shams Abad,4660000000,155333.33
+90,2,Yra,Yra,Nera,CeNeral Janatabad,3200000000,106666.67
+125,2,Yra,Yra,Yra,Southern Janatabad,6625000000,220833.33
+175,3,Yra,Yra,Yra,Gheitarieh,15500000000,516666.67
+52,1,Yra,Yra,Yra,East Ferdows Boulevard,2300000000,76666.67
+110,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3100000000,103333.33
+110,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3100000000,103333.33
+112,2,Yra,Nera,Yra,Persian Gulf Martyrs Lake,3300000000,110000
+65,2,Yra,Yra,Yra,Shahran,2150000000,71666.67
+48,1,Yra,Yra,Yra,Andisheh,400000000,13333.33
+105,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,2800000000,93333.33
+56,1,Yra,Yra,Yra,Shahr-e-Ziba,2240000000,74666.67
+108,2,Yra,Yra,Yra,Golestan,1900000000,63333.33
+78,2,Yra,Yra,Yra,Southern Janatabad,2920000000,97333.33
+85,2,Yra,Yra,Yra,Parand,520000000,17333.33
+105,2,Yra,Yra,Yra,Pardis,535000000,17833.33
+145,3,Yra,Yra,Yra,Saadat Abad,11000000000,366666.67
+145,3,Yra,Yra,Yra,Punak,8990000000,299666.67
+140,3,Yra,Yra,Yra,Punak,6200000000,206666.67
+66,2,Yra,Yra,Yra,Ostad Moein,1580000000,52666.67
+121,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3650000000,121666.67
+105,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3250000000,108333.33
+150,2,Nera,Yra,Yra,Chardangeh,1200000000,40000
+98,2,Yra,Yra,Yra,CeNeral Janatabad,4480000000,149333.33
+108,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3350000000,111666.67
+95,2,Yra,Yra,Yra,Ostad Moein,2600000000,86666.67
+64,1,Nera,Nera,Yra,Fallah,900000000,30000
+75,1,Yra,Nera,Yra,Fallah,1875000000,62500
+50,1,Yra,Yra,Yra,West Ferdows Boulevard,1950000000,65000
+90,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,2500000000,83333.33
+93,2,Yra,Yra,Yra,Fallah,1510000000,50333.33
+148,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,5750000000,191666.67
+64,1,Nera,Yra,Nera,Eskandari,1050000000,35000
+114,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3600000000,120000
+107,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3500000000,116666.67
+113,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3270000000,109000
+115,2,Yra,Yra,Yra,Gheitarieh,7400000000,246666.67
+115,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3600000000,120000
+120,2,Yra,Yra,Yra,Gholhak,8400000000,280000
+76,2,Yra,Yra,Yra,CeNeral Janatabad,2700000000,90000
+106,2,Yra,Yra,Yra,North Program Organization,4520000000,150666.67
+105,2,Yra,Yra,Yra,Gheitarieh,6900000000,230000
+87,2,Nera,Nera,Yra,Ray,1570000000,52333.33
+68,2,Yra,Yra,Yra,Ostad Moein,1970000000,65666.67
+70,2,Yra,Yra,Yra,Punak,2580000000,86000
+165,3,Yra,Yra,Yra,Ostad Moein,5250000000,175000
+365,4,Yra,Yra,Yra,Dorous,47450000000,1581666.67
+175,3,Yra,Yra,Yra,Pasdaran,15500000000,516666.67
+50,1,Yra,Yra,Yra,West Ferdows Boulevard,1950000000,65000
+70,2,Yra,Yra,Yra,Saadat Abad,4800000000,160000
+165,3,Yra,Yra,Yra,Marzdaran,10230000000,341000
+115,2,Yra,Yra,Yra,CeNeral Janatabad,5080000000,169333.33
+93,2,Yra,Nera,Yra,Shahr-e-Ziba,2900000000,96666.67
+181,3,Yra,Yra,Yra,Marzdaran,13000000000,433333.33
+57,1,Yra,Yra,Yra,Ostad Moein,1600000000,53333.33
+175,3,Yra,Yra,Yra,Marzdaran,11375000000,379166.67
+146,3,Yra,Yra,Yra,Marzdaran,8500000000,283333.33
+135,3,Yra,Yra,Yra,Marzdaran,6200000000,206666.67
+50,1,Yra,Yra,Yra,Southern Program Organization,1980000000,66000
+110,2,Yra,Yra,Yra,Pardis,535000000,17833.33
+108,2,Yra,Yra,Yra,Mahallati,7000000000,233333.33
+121,3,Yra,Yra,Yra,Pardis,610000000,20333.33
+220,3,Yra,Yra,Yra,Elahieh,35200000000,1173333.33
+240,4,Yra,Yra,Yra,Elahieh,38500000000,1283333.33
+90,2,Yra,Yra,Yra,Shahrakeh Naft,5500000000,183333.33
+117,2,Yra,Yra,Yra,Niavaran,12500000000,416666.67
+142,3,Yra,Yra,Yra,Punak,7550000000,251666.67
+55,1,Yra,Yra,Nera,West Ferdows Boulevard,1950000000,65000
+85,2,Yra,Yra,Yra,Shahran,3300000000,110000
+162,3,Yra,Yra,Yra,Niavaran,16300000000,543333.33
+100,2,Yra,Yra,Yra,Ajudaniye,6500000000,216666.67
+165,3,Yra,Yra,Yra,Shahrake Gharb,12400000000,413333.33
+150,3,Yra,Yra,Yra,Niavaran,15000000000,500000
+83,2,Yra,Yra,Yra,Qazvin Imamzadeh Hassan,1450000000,48333.33
+200,3,Yra,Nera,Yra,West Pars,10000000000,333333.33
+95,2,Yra,Yra,Yra,Abazar,6700000000,223333.33
+82,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,2350000000,78333.33
+112,3,Yra,Yra,Yra,Shahran,5600000000,186666.67
+96,2,Yra,Yra,Yra,Northern Janatabad,3900000000,130000
+86,3,Yra,Yra,Yra,Parand,425000000,14166.67
+105,2,Yra,Yra,Yra,Pardis,940000000,31333.33
+115,2,Yra,Yra,Yra,Ostad Moein,3280000000,109333.33
+87,2,Yra,Yra,Yra,Shahr-e-Ziba,3000000000,100000
+165,3,Yra,Yra,Yra,Farmanieh,11500000000,383333.33
+135,3,Yra,Yra,Yra,Marzdaran,7425000000,247500
+110,2,Yra,Yra,Yra,Feiz Garden,3670000000,122333.33
+80,2,Yra,Yra,Yra,Southern Janatabad,3500000000,116666.67
+66,2,Yra,Yra,Yra,Southern Janatabad,1800000000,60000
+88,2,Yra,Yra,Yra,Qazvin Imamzadeh Hassan,1550000000,51666.67
+70,1,Yra,Yra,Nera,Shahrake Qods,870000000,29000
+130,3,Yra,Yra,Yra,Feiz Garden,5600000000,186666.67
+87,2,Yra,Yra,Yra,North Program Organization,3000000000,100000
+86,2,Yra,Yra,Yra,Southern Janatabad,4500000000,150000
+62,1,Yra,Yra,Yra,Southern Program Organization,2400000000,80000
+125,3,Yra,Yra,Yra,Punak,6300000000,210000
+87,2,Yra,Yra,Yra,Pardis,725000000,24166.67
+70,2,Yra,Yra,Yra,Southern Janatabad,2000000000,66666.67
+65,2,Yra,Yra,Yra,Southern Janatabad,2700000000,90000
+64,2,Yra,Yra,Yra,Southern Janatabad,2100000000,70000
+62,2,Yra,Yra,Yra,Southern Janatabad,2200000000,73333.33
+70,2,Yra,Yra,Yra,Southern Janatabad,2500000000,83333.33
+140,3,Yra,Yra,Yra,Gheitarieh,8000000000,266666.67
+125,3,Yra,Yra,Yra,Gheitarieh,7100000000,236666.67
+68,2,Yra,Yra,Yra,Southern Janatabad,2100000000,70000
+67,2,Yra,Nera,Nera,West Ferdows Boulevard,2200000000,73333.33
+64,2,Yra,Yra,Yra,Southern Janatabad,2050000000,68333.33
+64,2,Yra,Yra,Nera,Jeyhoon,1500000000,50000
+95,2,Yra,Yra,Nera,Northern Janatabad,3900000000,130000
+97,2,Yra,Yra,Yra,Pardis,770000000,25666.67
+136,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,4300000000,143333.33
+70,1,Yra,Yra,Yra,West Ferdows Boulevard,2400000000,80000
+85,2,Yra,Yra,Yra,Qazvin Imamzadeh Hassan,1507000000,50233.33
+105,2,Yra,Yra,Yra,Pardis,950000000,31666.67
+50,1,Yra,Nera,Yra,North Program Organization,1900000000,63333.33
+57,1,Yra,Yra,Yra,Southern Program Organization,2750000000,91666.67
+121,3,Yra,Yra,Yra,Pardis,610000000,20333.33
+95,2,Yra,Yra,Yra,West Ferdows Boulevard,3300000000,110000
+65,2,Yra,Yra,Yra,West Ferdows Boulevard,2380000000,79333.33
+100,2,Nera,Yra,Nera,Tehransar,2000000000,66666.67
+128,3,Yra,Yra,Yra,Kook,3950000000,131666.67
+93,2,Yra,Yra,Yra,Gheitarieh,6000000000,200000
+75,2,Yra,Yra,Yra,Qazvin Imamzadeh Hassan,1275000000,42500
+133,4,Yra,Yra,Nera,Jeyhoon,4700000000,156666.67
+100,2,Yra,Yra,Yra,Northern Janatabad,4450000000,148333.33
+140,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,4800000000,160000
+92,2,Yra,Yra,Yra,CeNeral Janatabad,3570000000,119000
+120,2,Yra,Yra,Nera,Amirabad,4500000000,150000
+45,1,Yra,Yra,Nera,Jeyhoon,1030000000,34333.33
+130,2,Yra,Yra,Nera,Gheitarieh,6890000000,229666.67
+95,2,Nera,Yra,Yra,Nawab,2185000000,72833.33
+150,3,Nera,Nera,Nera,Gheitarieh,10500000000,350000
+72,2,Yra,Yra,Yra,Qazvin Imamzadeh Hassan,1206000000,40200
+60,1,Yra,Yra,Yra,CeNeral Janatabad,3350000000,111666.67
+190,3,Yra,Yra,Yra,Dorous,12000000000,400000
+125,2,Yra,Yra,Yra,Shahrake Gharb,9750000000,325000
+90,2,Yra,Yra,Yra,North Program Organization,3420000000,114000
+105,2,Yra,Yra,Yra,Shahr-e-Ziba,4100000000,136666.67
+90,2,Yra,Yra,Yra,Shahran,2850000000,95000
+102,2,Yra,Yra,Yra,Southern Janatabad,5600000000,186666.67
+50,1,Yra,Yra,Yra,Ostad Moein,1500000000,50000
+66,2,Yra,Yra,Nera,Punak,2250000000,75000
+125,3,Yra,Yra,Yra,Yousef Abad,8750000000,291666.67
+132,3,Yra,Yra,Yra,Parand,2050000000,68333.33
+103,2,Yra,Yra,Yra,CeNeral Janatabad,4300000000,143333.33
+270,5,Yra,Yra,Nera,Yousef Abad,13500000000,450000
+130,2,Yra,Yra,Yra,Shahran,4180000000,139333.33
+77,2,Yra,Yra,Nera,,2020000000,67333.33
+71,1,Yra,Yra,Yra,,2300000000,76666.67
+160,3,Yra,Yra,Yra,Amirabad,8320000000,277333.33
+110,2,Yra,Yra,Yra,Shahran,3410000000,113666.67
+75,2,Yra,Yra,Yra,Shahran,1980000000,66000
+75,2,Yra,Yra,Yra,Shahran,2400000000,80000
+85,2,Yra,Yra,Yra,Northern Suhrawardi,4500000000,150000
+225,3,Yra,Yra,Yra,Heravi,15750000000,525000
+130,3,Yra,Yra,Yra,Saadat Abad,8500000000,283333.33
+73,2,Yra,Yra,Yra,Qazvin Imamzadeh Hassan,1679000000,55966.67
+95,2,Yra,Yra,Yra,Saadat Abad,5500000000,183333.33
+250,4,Yra,Yra,Nera,Shahrake Gharb,35000000000,1166666.67
+65,2,Yra,Yra,Yra,Salsabil,1750000000,58333.33
+64,2,Yra,Yra,Yra,Azarbaijan,2090000000,69666.67
+94,2,Yra,Yra,Yra,Villa,4130000000,137666.67
+110,2,Yra,Yra,Yra,Pardis,375000000,12500
+105,2,Yra,Yra,Yra,Pardis,550000000,18333.33
+145,3,Yra,Yra,Yra,Heravi,9000000000,300000
+105,2,Yra,Yra,Yra,Pardis,875000000,29166.67
+120,2,Yra,Yra,Yra,Farmanieh,12000000000,400000
+100,2,Yra,Yra,Yra,Hakimiyeh,3100000000,103333.33
+115,2,Yra,Yra,Yra,Water Organization,3800000000,126666.67
+100,2,Nera,Yra,Yra,Shahr-e-Ziba,3300000000,110000
+63,1,Yra,Yra,Yra,Ostad Moein,1280000000,42666.67
+55,1,Nera,Nera,Nera,West Ferdows Boulevard,1900000000,63333.33
+220,3,Yra,Yra,Yra,Heravi,15400000000,513333.33
+123,3,Yra,Yra,Yra,Nezamabad,3300000000,110000
+81,2,Yra,Yra,Yra,Qazvin Imamzadeh Hassan,1420000000,47333.33
+130,3,Yra,Yra,Yra,Jeyhoon,2800000000,93333.33
+108,2,Yra,Yra,Yra,Pasdaran,7700000000,256666.67
+135,3,Yra,Yra,Yra,Qasr-od-Dasht,2950000000,98333.33
+82,2,Yra,Yra,Yra,West Ferdows Boulevard,3500000000,116666.67
+120,2,Yra,Yra,Yra,Southern Program Organization,4250000000,141666.67
+303,3,Yra,Yra,Yra,Ajudaniye,30000000000,1000000
+200,3,Yra,Yra,Yra,Ozgol,18000000000,600000
+50,1,Yra,Yra,Yra,Shahran,1850000000,61666.67
+80,2,Yra,Yra,Yra,Shahran,3550000000,118333.33
+100,2,Yra,Yra,Yra,Pardis,1100000000,36666.67
+85,2,Yra,Yra,Yra,Shahran,2380000000,79333.33
+44,1,Yra,Yra,Nera,Shahran,1390000000,46333.33
+115,2,Yra,Yra,Yra,Tajrish,8200000000,273333.33
+75,2,Yra,Yra,Yra,North Program Organization,2930000000,97666.67
+65,1,Yra,Yra,Yra,Shahran,2220000000,74000
+86,2,Yra,Yra,Yra,CeNeral Janatabad,3480000000,116000
+106,2,Yra,Yra,Yra,Yousef Abad,5700000000,190000
+203,3,Yra,Yra,Yra,Zaferanieh,36000000000,1200000
+92,2,Yra,Yra,Yra,Shahr-e-Ziba,2700000000,90000
+62,1,Yra,Yra,Yra,Southern Program Organization,2170000000,72333.33
+92,2,Yra,Yra,Yra,Pasdaran,6700000000,223333.33
+180,3,Yra,Yra,Yra,Pasdaran,9900000000,330000
+85,2,Yra,Yra,Yra,CeNeral Janatabad,3150000000,105000
+60,1,Yra,Yra,Yra,Saadat Abad,3300000000,110000
+100,2,Yra,Yra,Yra,East Ferdows Boulevard,3400000000,113333.33
+100,2,Yra,Yra,Yra,Northern Janatabad,5100000000,170000
+121,2,Yra,Yra,Yra,Garden of Saba,7500000000,250000
+63,1,Yra,Yra,Yra,Farmanieh,5600000000,186666.67
+98,2,Yra,Yra,Yra,West Ferdows Boulevard,4400000000,146666.67
+67,2,Yra,Yra,Yra,Pasdaran,3500000000,116666.67
+87,2,Yra,Yra,Yra,West Ferdows Boulevard,2830000000,94333.33
+115,3,Yra,Yra,Yra,Pasdaran,5300000000,176666.67
+49,1,Nera,Nera,Yra,Punak,2300000000,76666.67
+130,3,Yra,Yra,Yra,Yousef Abad,8000000000,266666.67
+144,3,Yra,Yra,Nera,Pasdaran,8000000000,266666.67
+66,2,Yra,Yra,Yra,Ostad Moein,1585000000,52833.33
+53,1,Yra,Yra,Yra,Southern Janatabad,2430000000,81000
+88,2,Yra,Yra,Yra,CeNeral Janatabad,3400000000,113333.33
+105,2,Yra,Yra,Yra,Southern Janatabad,3900000000,130000
+90,2,Yra,Yra,Yra,Qalandari,6560000000,218666.67
+125,2,Yra,Yra,Yra,Dezashib,11250000000,375000
+75,2,Yra,Yra,Yra,Tarasht,2150000000,71666.67
+170,3,Yra,Yra,Yra,Niavaran,17000000000,566666.67
+204,3,Yra,Yra,Yra,Elahieh,32640000000,1088000
+95,2,Yra,Yra,Yra,Feiz Garden,3600000000,120000
+54,1,Yra,Yra,Nera,Andisheh,500000000,16666.67
+98,2,Yra,Yra,Yra,Shahr-e-Ziba,3220000000,107333.33
+90,2,Yra,Yra,Yra,Feiz Garden,3600000000,120000
+97,2,Yra,Yra,Yra,Feiz Garden,3800000000,126666.67
+71,2,Yra,Yra,Yra,East Ferdows Boulevard,2530000000,84333.33
+150,3,Yra,Yra,Yra,Shahrake Gharb,12000000000,400000
+116,3,Yra,Yra,Yra,Pasdaran,8100000000,270000
+120,2,Yra,Yra,Yra,Saadat Abad,8600000000,286666.67
+79,2,Yra,Yra,Yra,West Ferdows Boulevard,2400000000,80000
+79,2,Yra,Yra,Yra,West Ferdows Boulevard,3100000000,103333.33
+135,2,Yra,Yra,Yra,Dorous,10000000000,333333.33
+110,2,Yra,Yra,Yra,West Ferdows Boulevard,3950000000,131666.67
+75,2,Yra,Yra,Nera,Shahr-e-Ziba,1890000000,63000
+110,3,Yra,Yra,Yra,Shahr-e-Ziba,4700000000,156666.67
+87,2,Yra,Yra,Yra,West Ferdows Boulevard,3800000000,126666.67
+75,2,Yra,Yra,Yra,Punak,3750000000,125000
+108,2,Yra,Yra,Yra,West Ferdows Boulevard,3950000000,131666.67
+110,2,Yra,Yra,Yra,CeNeral Janatabad,5700000000,190000
+100,2,Yra,Yra,Yra,Shahr-e-Ziba,5100000000,170000
+63,1,Yra,Yra,Yra,Ostad Moein,1280000000,42666.67
+140,3,Yra,Yra,Yra,Shahrake Gharb,9200000000,306666.67
+72,2,Yra,Yra,Nera,Southern Janatabad,2113000000,70433.33
+73,2,Yra,Yra,Nera,Southern Janatabad,2108000000,70266.67
+145,3,Yra,Yra,Yra,Dezashib,12325000000,410833.33
+75,2,Yra,Yra,Nera,Northern Janatabad,2385000000,79500
+92,2,Yra,Yra,Yra,Yousef Abad,6300000000,210000
+80,2,Yra,Yra,Yra,Si Metri Ji,2220000000,74000
+127,2,Yra,Yra,Yra,Ekhtiarieh,8890000000,296333.33
+66,2,Yra,Yra,Yra,Ostad Moein,1585000000,52833.33
+74,2,Yra,Yra,Yra,Yousef Abad,3920000000,130666.67
+105,3,Yra,Yra,Yra,Parand,1260000000,42000
+112,3,Yra,Yra,Nera,Parand,1400000000,46666.67
+120,2,Yra,Yra,Yra,Shahrake Gharb,7500000000,250000
+123,3,Yra,Yra,Yra,Pardis,500000000,16666.67
+140,3,Yra,Yra,Yra,Shahrake Gharb,10000000000,333333.33
+63,1,Yra,Yra,Yra,Punak,3500000000,116666.67
+56,1,Yra,Yra,Yra,Punak,1950000000,65000
+105,2,Yra,Yra,Yra,Feiz Garden,4350000000,145000
+97,2,Yra,Yra,Yra,Yousef Abad,5000000000,166666.67
+140,3,Yra,Yra,Yra,Jordan,9200000000,306666.67
+60,2,Yra,Yra,Nera,CeNeral Janatabad,1650000000,55000
+100,2,Yra,Yra,Yra,Pardis,500000000,16666.67
+54,1,Nera,Yra,Yra,Punak,2000000000,66666.67
+90,2,Yra,Yra,Yra,Ekhtiarieh,6000000000,200000
+92,2,Yra,Yra,Yra,Feiz Garden,3950000000,131666.67
+65,2,Nera,Yra,Nera,Feiz Garden,1900000000,63333.33
+76,2,Yra,Yra,Yra,Andisheh,896000000,29866.67
+72,2,Yra,Yra,Yra,Southern Janatabad,2600000000,86666.67
+135,3,Yra,Yra,Yra,Farmanieh,11500000000,383333.33
+54,1,Nera,Yra,Yra,Punak,2000000000,66666.67
+87,2,Yra,Yra,Yra,Pardis,500000000,16666.67
+255,3,Yra,Yra,Yra,Farmanieh,26000000000,866666.67
+100,2,Yra,Yra,Nera,Yousef Abad,4300000000,143333.33
+194,2,Yra,Yra,Yra,Niavaran,19845000000,661500
+600,2,Yra,Yra,Yra,Qalandari,9150000000,305000
+160,3,Yra,Yra,Yra,Saadat Abad,13500000000,450000
+98,2,Yra,Yra,Yra,Gheitarieh,6958000000,231933.33
+133,3,Nera,Nera,Nera,Andisheh,1600000000,53333.33
+108,2,Yra,Yra,Yra,West Ferdows Boulevard,5616000000,187200
+76,2,Yra,Yra,Yra,Shahr-e-Ziba,2800000000,93333.33
+73,2,Yra,Yra,Yra,Razi,1230000000,41000
+76,2,Yra,Yra,Yra,Southern Program Organization,3150000000,105000
+80,2,Yra,Yra,Yra,Southern Program Organization,3680000000,122666.67
+92,2,Yra,Yra,Yra,Gheitarieh,6600000000,220000
+130,2,Yra,Yra,Yra,Qalandari,8500000000,283333.33
+71,2,Yra,Yra,Yra,Azari,1640000000,54666.67
+56,1,Yra,Yra,Yra,Shahran,1900000000,63333.33
+105,2,Yra,Yra,Yra,Pardis,890000000,29666.67
+110,2,Yra,Yra,Yra,West Ferdows Boulevard,3750000000,125000
+93,2,Yra,Yra,Yra,CeNeral Janatabad,4370000000,145666.67
+179,3,Yra,Yra,Yra,Pasdaran,9645000000,321500
+100,2,Yra,Yra,Yra,Gholhak,6200000000,206666.67
+110,3,Yra,Yra,Yra,Saadat Abad,5200000000,173333.33
+98,2,Yra,Yra,Yra,Northern Janatabad,4850000000,161666.67
+101,2,Yra,Yra,Yra,Saadat Abad,5550000000,185000
+105,2,Yra,Yra,Yra,Pardis,800000000,26666.67
+157,3,Yra,Yra,Yra,Heravi,9850000000,328333.33
+180,3,Yra,Yra,Yra,Pasdaran,9900000000,330000
+90,2,Yra,Yra,Yra,Qazvin Imamzadeh Hassan,1620000000,54000
+97,2,Yra,Yra,Yra,Pardis,760000000,25333.33
+120,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,1272000000,42400
+303,4,Yra,Yra,Yra,Velenjak,48000000000,1600000
+60,1,Yra,Yra,Yra,Yousef Abad,3250000000,108333.33
+245,5,Yra,Yra,Yra,Dezashib,14500000000,483333.33
+100,2,Yra,Yra,Yra,Pardis,790000000,26333.33
+185,3,Yra,Yra,Yra,Pasdaran,10750000000,358333.33
+62,2,Yra,Yra,Yra,CeNeral Janatabad,3500000000,116666.67
+79,2,Yra,Yra,Yra,CeNeral Janatabad,2999000000,99966.67
+400,5,Yra,Yra,Nera,Mirdamad,56000000000,1866666.67
+200,3,Yra,Yra,Yra,Southern Chitgar,5000000000,166666.67
+105,2,Yra,Yra,Yra,Pardis,860000000,28666.67
+128,3,Yra,Yra,Yra,Shahrake Apadana,5700000000,190000
+115,3,Yra,Yra,Yra,Punak,6670000000,222333.33
+377,4,Yra,Yra,Yra,Elahieh,31668000000,1055600
+77,2,Yra,Yra,Nera,CeNeral Janatabad,2400000000,80000
+190,3,Yra,Yra,Yra,Punak,11400000000,380000
+65,1,Yra,Yra,Yra,Shahran,1880000000,62666.67
+97,2,Yra,Yra,Yra,Punak,4700000000,156666.67
+130,3,Yra,Yra,Yra,Yousef Abad,7800000000,260000
+133,3,Yra,Yra,Yra,Dorous,8600000000,286666.67
+143,3,Yra,Yra,Yra,Northern Janatabad,4400000000,146666.67
+76,2,Yra,Yra,Yra,CeNeral Janatabad,4150000000,138333.33
+155,3,Yra,Yra,Yra,West Ferdows Boulevard,5000000000,166666.67
+97,2,Yra,Yra,Yra,Pardis,760000000,25333.33
+96,2,Yra,Yra,Yra,Ekbatan,4200000000,140000
+190,3,Yra,Yra,Yra,Gheitarieh,14000000000,466666.67
+147,3,Yra,Yra,Yra,Heravi,9100000000,303333.33
+85,2,Yra,Yra,Yra,East Ferdows Boulevard,2800000000,93333.33
+76,2,Yra,Yra,Yra,Ekbatan,3600000000,120000
+103,2,Yra,Yra,Yra,Niavaran,7000000000,233333.33
+194,3,Yra,Yra,Yra,Niavaran,19858000000,661933.33
+95,2,Yra,Yra,Yra,Saadat Abad,6200000000,206666.67
+79,2,Nera,Yra,Nera,Northern Janatabad,3200000000,106666.67
+83,2,Yra,Yra,Yra,Parand,705500000,23516.67
+70,2,Yra,Yra,Yra,Southern Program Organization,2500000000,83333.33
+87,2,Yra,Yra,Yra,Niavaran,4600000000,153333.33
+87,2,Nera,Yra,Yra,Pardis,500000000,16666.67
+84,3,Yra,Yra,Yra,Andisheh,1554000000,51800
+91,2,Yra,Yra,Yra,Tarasht,3100000000,103333.33
+145,2,Yra,Yra,Yra,Gheitarieh,12000000000,400000
+68,2,Yra,Yra,Yra,North Program Organization,2450000000,81666.67
+127,3,Yra,Yra,Yra,Garden of Saba,5588000000,186266.67
+68,1,Yra,Yra,Yra,Ekbatan,3100000000,103333.33
+105,2,Yra,Yra,Yra,Pardis,539000000,17966.67
+89,2,Yra,Yra,Yra,Shahran,3190000000,106333.33
+82,2,Yra,Yra,Yra,Ostad Moein,2600000000,86666.67
+65,1,Yra,Yra,Nera,Punak,2250000000,75000
+80,2,Yra,Yra,Yra,Gholhak,4900000000,163333.33
+145,3,Yra,Yra,Yra,Niavaran,14500000000,483333.33
+235,3,Yra,Yra,Yra,Niavaran,20000000000,666666.67
+192,3,Yra,Yra,Yra,Kamranieh,33490000000,1116333.33
+160,3,Yra,Yra,Yra,Kamranieh,13120000000,437333.33
+160,3,Yra,Yra,Yra,Niavaran,18400000000,613333.33
+106,2,Yra,Yra,Yra,Pardis,800000000,26666.67
+75,2,Nera,Yra,Yra,Shahrake Qods,620000000,20666.67
+100,2,Yra,Yra,Yra,Shahrake Qods,800000000,26666.67
+58,1,Yra,Yra,Yra,Ekbatan,2850000000,95000
+97,2,Yra,Yra,Yra,Pardis,770000000,25666.67
+44,1,Nera,Yra,Nera,Pirouzi,790000000,26333.33
+108,2,Yra,Yra,Yra,Gheitarieh,9000000000,300000
+87,2,Yra,Yra,Yra,Amirabad,550000000,18333.33
+231,3,Yra,Yra,Yra,Zaferanieh,43197000000,1439900
+120,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,1750000000,58333.33
+103,2,Yra,Yra,Yra,Saadat Abad,5700000000,190000
+78,2,Nera,Nera,Nera,Parand,455000000,15166.67
+85,2,Yra,Yra,Yra,Gheitarieh,7200000000,240000
+195,3,Yra,Yra,Yra,Velenjak,19500000000,650000
+142,3,Yra,Yra,Yra,Amirabad,5500000000,183333.33
+90,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,1315000000,43833.33
+85,2,Yra,Yra,Yra,Gheitarieh,7300000000,243333.33
+350,4,Yra,Yra,Yra,Niavaran,80500000000,2683333.33
+210,4,Yra,Yra,Yra,Niavaran,21000000000,700000
+87,2,Yra,Yra,Yra,Pardis,890000000,29666.67
+85,2,Yra,Yra,Yra,Southern Janatabad,4400000000,146666.67
+92,2,Yra,Yra,Yra,Southern Janatabad,3990000000,133000
+90,2,Yra,Yra,Yra,Shahr-e-Ziba,4150000000,138333.33
+87,2,Yra,Yra,Yra,Shahr-e-Ziba,3050000000,101666.67
+108,2,Yra,Yra,Yra,West Ferdows Boulevard,3450000000,115000
+85,2,Yra,Yra,Nera,Southern Janatabad,3400000000,113333.33
+68,2,Yra,Yra,Yra,Southern Janatabad,2200000000,73333.33
+138,2,Yra,Yra,Yra,Zaferanieh,17250000000,575000
+78,2,Yra,Yra,Yra,Parand,210000000,7000
+94,2,Yra,Yra,Yra,Qazvin Imamzadeh Hassan,1712000000,57066.67
+168,3,Yra,Yra,Yra,Aqdasieh,16000000000,533333.33
+100,2,Yra,Yra,Yra,Niavaran,6200000000,206666.67
+100,2,Yra,Yra,Yra,Ajudaniye,6300000000,210000
+44,1,Nera,Yra,Nera,Parastar,1030000000,34333.33
+300,3,Nera,Nera,Nera,Lavasan,27000000000,900000
+280,4,Yra,Yra,Yra,Velenjak,30800000000,1026666.67
+65,2,Yra,Yra,Yra,West Ferdows Boulevard,2760000000,92000
+180,3,Yra,Yra,Yra,Ajudaniye,13500000000,450000
+176,2,Yra,Yra,Nera,Islamshahr,2800000000,93333.33
+83,2,Yra,Yra,Yra,CeNeral Janatabad,3859000000,128633.33
+300,4,Yra,Yra,Yra,Farmanieh,37000000000,1233333.33
+68,2,Nera,Yra,Nera,Pirouzi,1380000000,46000
+220,3,Yra,Yra,Yra,Aqdasieh,35000000000,1166666.67
+140,3,Yra,Yra,Yra,Andisheh,1484000000,49466.67
+290,4,Yra,Yra,Yra,Farmanieh,36000000000,1200000
+75,2,Nera,Yra,Yra,Kahrizak,862500000,28750
+133,3,Yra,Yra,Yra,East Ferdows Boulevard,8000000000,266666.67
+87,2,Yra,Yra,Yra,Abazar,5655000000,188500
+60,2,Nera,Yra,Yra,Pirouzi,1500000000,50000
+110,2,Yra,Yra,Yra,Pardis,535000000,17833.33
+149,3,Yra,Yra,Yra,West Ferdows Boulevard,8642000000,288066.67
+238,3,Yra,Yra,Yra,Velenjak,42840000000,1428000
+90,2,Yra,Yra,Yra,Punak,3500000000,116666.67
+100,2,Yra,Yra,Yra,Qazvin Imamzadeh Hassan,1850000000,61666.67
+94,2,Yra,Yra,Yra,CeNeral Janatabad,4512000000,150400
+80,2,Yra,Yra,Yra,Parastar,3360000000,112000
+55,2,Nera,Nera,Nera,Parastar,1280000000,42666.67
+114,3,Yra,Yra,Yra,Saadat Abad,6800000000,226666.67
+75,2,Yra,Yra,Nera,Shahr-e-Ziba,1890000000,63000
+146,3,Yra,Yra,Yra,Heravi,7600000000,253333.33
+70,2,Yra,Yra,Nera,Punak,2280000000,76000
+86,2,Yra,Yra,Yra,Amirabad,4730000000,157666.67
+69,1,Nera,Yra,Yra,Persian Gulf Martyrs Lake,2100000000,70000
+60,1,Yra,Yra,Yra,West Ferdows Boulevard,3300000000,110000
+101,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3500000000,116666.67
+97,2,Yra,Yra,Yra,Hashemi,2300000000,76666.67
+105,2,Yra,Yra,Yra,Hakimiyeh,3570000000,119000
+110,2,Yra,Yra,Nera,Saadat Abad,12500000000,416666.67
+75,2,Yra,Yra,Yra,Punak,2700000000,90000
+110,2,Yra,Yra,Yra,Punak,6490000000,216333.33
+149,3,Yra,Yra,Nera,Mirdamad,9238000000,307933.33
+105,2,Yra,Yra,Yra,Railway,5000000000,166666.67
+110,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3500000000,116666.67
+69,2,Yra,Yra,Yra,Pirouzi,1800000000,60000
+190,3,Yra,Yra,Yra,Kook,13000000000,433333.33
+160,2,Yra,Yra,Yra,Yousef Abad,8600000000,286666.67
+67,2,Nera,Yra,Yra,Pirouzi,2000000000,66666.67
+121,2,Yra,Yra,Yra,Narmak,5500000000,183333.33
+105,2,Yra,Yra,Yra,Gisha,7350000000,245000
+83,2,Yra,Yra,Nera,West Ferdows Boulevard,2400000000,80000
+62,1,Nera,Yra,Yra,Pirouzi,1380000000,46000
+55,1,Yra,Yra,Yra,Pirouzi,1750000000,58333.33
+88,2,Yra,Yra,Yra,Pirouzi,2450000000,81666.67
+86,2,Yra,Nera,Yra,Air force,3000000000,100000
+62,1,Yra,Yra,Yra,Narmak,2250000000,75000
+65,1,Yra,Yra,Nera,Araj,3100000000,103333.33
+135,2,Yra,Yra,Yra,Niavaran,14850000000,495000
+226,4,Yra,Yra,Yra,Mahmoudieh,17000000000,566666.67
+70,2,Yra,Yra,Yra,Tenant,2030000000,67666.67
+85,1,Yra,Yra,Yra,Kamranieh,7100000000,236666.67
+170,3,Yra,Yra,Yra,Punak,9350000000,311666.67
+170,3,Yra,Yra,Yra,Niavaran,14000000000,466666.67
+574,5,Yra,Yra,Nera,North Program Organization,60000000000,2000000
+360,4,Yra,Yra,Yra,Niavaran,38000000000,1266666.67
+120,2,Yra,Yra,Yra,Saadat Abad,7300000000,243333.33
+120,3,Yra,Yra,Yra,Punak,6660000000,222000
+97,2,Yra,Nera,Yra,Tenant,2330000000,77666.67
+150,3,Yra,Yra,Yra,Pasdaran,11456000000,381866.67
+140,2,Yra,Yra,Yra,Pasdaran,10500000000,350000
+85,2,Yra,Yra,Yra,Punak,3300000000,110000
+240,3,Yra,Yra,Yra,Velenjak,46000000000,1533333.33
+120,3,Yra,Yra,Yra,Pardis,670000000,22333.33
+100,2,Yra,Yra,Yra,Shahr-e-Ziba,4700000000,156666.67
+105,3,Yra,Yra,Nera,Andisheh,3400000000,113333.33
+75,2,Yra,Yra,Yra,Punak,2980000000,99333.33
+51,1,Yra,Yra,Yra,Tenant,1380000000,46000
+89,2,Yra,Yra,Yra,Shahr-e-Ziba,4100000000,136666.67
+130,3,Yra,Yra,Yra,Saadat Abad,10500000000,350000
+140,2,Yra,Yra,Yra,Pasdaran,10000000000,333333.33
+100,2,Yra,Yra,Yra,Punak,5650000000,188333.33
+290,3,Yra,Yra,Yra,Farmanieh,37000000000,1233333.33
+290,4,Yra,Yra,Yra,Farmanieh,34000000000,1133333.33
+200,3,Yra,Yra,Yra,Farmanieh,35000000000,1166666.67
+200,3,Yra,Yra,Yra,Aqdasieh,34800000000,1160000
+450,3,Yra,Nera,Nera,Damavand,3850000000,128333.33
+37,1,Nera,Yra,Nera,Andisheh,355000000,11833.33
+140,3,Yra,Yra,Yra,Gheitarieh,8900000000,296666.67
+150,3,Yra,Yra,Yra,Sadeghieh,5400000000,180000
+465,2,Yra,Nera,Nera,Damavand,3300000000,110000
+160,3,Yra,Yra,Yra,Gheitarieh,9800000000,326666.67
+403,5,Yra,Nera,Nera,Andisheh,13000000000,433333.33
+165,2,Yra,Yra,Yra,Pakdasht,1200000000,40000
+405,5,Yra,Yra,Nera,Andisheh,11000000000,366666.67
+400,5,Yra,Yra,Nera,Andisheh,11000000000,366666.67
+87,2,Yra,Yra,Yra,Pardis,550000000,18333.33
+88,2,Yra,Yra,Yra,West Ferdows Boulevard,3100000000,103333.33
+145,3,Yra,Yra,Yra,Heravi,9000000000,300000
+86,2,Yra,Yra,Yra,Air force,2924000000,97466.67
+350,3,Yra,Yra,Nera,Pasdaran,1000000000,33333.33
+200,3,Yra,Yra,Yra,Kook,12000000000,400000
+115,3,Yra,Yra,Yra,Velenjak,12650000000,421666.67
+90,2,Yra,Yra,Yra,Gheitarieh,7000000000,233333.33
+107,3,Yra,Yra,Yra,Gheitarieh,6420000000,214000
+84,2,Yra,Yra,Yra,Pirouzi,2688000000,89600
+112,2,Yra,Yra,Yra,Pardis,480000000,16000
+114,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3690000000,123000
+120,3,Yra,Yra,Yra,Pardis,650000000,21666.67
+113,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3800000000,126666.67
+84,2,Yra,Yra,Yra,West Pars,3100000000,103333.33
+45,1,Nera,Yra,Nera,Shahran,1580000000,52666.67
+53,1,Yra,Yra,Nera,East Ferdows Boulevard,1920000000,64000
+155,2,Yra,Yra,Yra,Pardis,1900000000,63333.33
+56,1,Yra,Yra,Yra,Shahran,2450000000,81666.67
+67,2,Yra,Yra,Yra,East Ferdows Boulevard,2380000000,79333.33
+79,2,Yra,Yra,Yra,East Ferdows Boulevard,2600000000,86666.67
+65,1,Yra,Yra,Yra,Gheitarieh,4225000000,140833.33
+113,2,Yra,Yra,Yra,Rudhen,1550000000,51666.67
+54,1,Yra,Yra,Nera,Aqdasieh,3500000000,116666.67
+170,3,Nera,Nera,Nera,Velenjak,15700000000,523333.33
+42,1,Nera,Yra,Yra,Jeyhoon,1050000000,35000
+160,3,Nera,Yra,Nera,Pakdasht,910000000,30333.33
+56,1,Yra,Yra,Yra,Punak,2850000000,95000
+75,2,Yra,Yra,Yra,Rudhen,1000000000,33333.33
+80,2,Yra,Yra,Nera,Rudhen,750000000,25000
+41,1,Nera,Yra,Yra,Farmanieh,2530000000,84333.33
+117,2,Nera,Yra,Yra,Rudhen,1580000000,52666.67
+88,2,Yra,Yra,Yra,Abazar,5600000000,186666.67
+114,2,Yra,Yra,Yra,Abazar,6700000000,223333.33
+75,2,Yra,Yra,Yra,Shahrake Qods,735000000,24500
+160,3,Yra,Yra,Yra,Andisheh,3000000000,100000
+87,2,Yra,Yra,Yra,Abazar,5600000000,186666.67
+104,2,Yra,Yra,Yra,Abazar,3400000000,113333.33
+90,2,Nera,Yra,Nera,Shahrake Qods,665000000,22166.67
+120,2,Yra,Yra,Nera,Andisheh,1800000000,60000
+88,2,Nera,Yra,Yra,Shahrake Qods,760000000,25333.33
+76,2,Yra,Yra,Yra,Abazar,3000000000,100000
+85,2,Yra,Yra,Yra,Southern Janatabad,3600000000,120000
+71,2,Nera,Yra,Nera,Northern Janatabad,2600000000,86666.67
+200,3,Yra,Yra,Yra,Heravi,14950000000,498333.33
+104,2,Yra,Nera,Yra,Air force,4200000000,140000
+165,3,Yra,Yra,Yra,Aqdasieh,20000000000,666666.67
+82,2,Yra,Yra,Yra,Abazar,3800000000,126666.67
+115,2,Yra,Yra,Yra,Gheitarieh,8300000000,276666.67
+350,5,Yra,Yra,Yra,Gheitarieh,35000000000,1166666.67
+106,2,Yra,Yra,Yra,Abazar,4500000000,150000
+40,1,Nera,Yra,Yra,Karoon,880000000,29333.33
+130,2,Yra,Yra,Yra,Gheitarieh,12000000000,400000
+46,1,Yra,Yra,Nera,Jeyhoon,750000000,25000
+121,2,Yra,Yra,Yra,Dehkade Olampic,4840000000,161333.33
+80,2,Yra,Yra,Yra,Jeyhoon,1500000000,50000
+154,3,Yra,Yra,Yra,Ostad Moein,4000000000,133333.33
+60,1,Nera,Yra,Nera,Jeyhoon,1020000000,34000
+68,2,Yra,Yra,Yra,West Ferdows Boulevard,2300000000,76666.67
+89,2,Yra,Nera,Yra,Andisheh,1100000000,36666.67
+70,2,Yra,Yra,Yra,Jeyhoon,1600000000,53333.33
+45,1,Yra,Yra,Yra,Qasr-od-Dasht,1300000000,43333.33
+113,2,Yra,Yra,Yra,Amirabad,5080000000,169333.33
+85,2,Yra,Yra,Yra,Dorous,4200000000,140000
+42,1,Yra,Nera,Yra,Vahidieh,975000000,32500
+108,2,Yra,Yra,Yra,Shahran,4300000000,143333.33
+82,2,Yra,Yra,Yra,Punak,2900000000,96666.67
+76,2,Yra,Nera,Yra,Punak,4250000000,141666.67
+68,2,Yra,Yra,Yra,West Ferdows Boulevard,2200000000,73333.33
+79,2,Yra,Yra,Yra,Punak,3250000000,108333.33
+71,2,Yra,Yra,Yra,Punak,2700000000,90000
+73,2,Yra,Yra,Yra,Punak,3550000000,118333.33
+89,2,Yra,Yra,Yra,Shahrake Qods,1610000000,53666.67
+85,2,Yra,Yra,Yra,Shahr-e-Ziba,2750000000,91666.67
+96,2,Yra,Yra,Yra,East Ferdows Boulevard,3950000000,131666.67
+95,2,Yra,Yra,Yra,Andisheh,1200000000,40000
+60,2,Yra,Yra,Yra,Punak,2050000000,68333.33
+88,2,Nera,Nera,Yra,Parand,485000000,16166.67
+145,3,Yra,Yra,Yra,Pasdaran,1450000000,48333.33
+75,2,Nera,Yra,Nera,Malard,250000000,8333.33
+145,3,Yra,Yra,Yra,Gholhak,7850000000,261666.67
+105,3,Yra,Yra,Yra,Ostad Moein,2910000000,97000
+100,2,Nera,Yra,Nera,Tehransar,2000000000,66666.67
+67,2,Yra,Yra,Yra,Feiz Garden,2120000000,70666.67
+78,2,Yra,Nera,Yra,Jeyhoon,2250000000,75000
+125,2,Yra,Yra,Yra,Gheitarieh,12500000000,416666.67
+91,2,Yra,Yra,Yra,Shahran,3350000000,111666.67
+195,3,Yra,Yra,Yra,Gheitarieh,19000000000,633333.33
+87,2,Nera,Nera,Yra,Pardis,585000000,19500
+99,2,Yra,Yra,Yra,Punak,4200000000,140000
+113,2,Yra,Yra,Yra,Punak,5100000000,170000
+100,2,Yra,Yra,Yra,Punak,4300000000,143333.33
+200,3,Yra,Yra,Yra,Zaferanieh,24000000000,800000
+106,2,Yra,Yra,Yra,Pardis,560000000,18666.67
+105,2,Yra,Yra,Yra,Shahran,3750000000,125000
+228,3,Yra,Yra,Yra,Zaferanieh,20292000000,676400
+75,2,Yra,Yra,Yra,Shahran,3650000000,121666.67
+84,3,Yra,Yra,Yra,Shahran,3050000000,101666.67
+90,2,Yra,Yra,Yra,Shahr-e-Ziba,3150000000,105000
+66,2,Yra,Nera,Yra,Ostad Moein,1580000000,52666.67
+130,3,Yra,Yra,Yra,Northern Suhrawardi,7800000000,260000
+101,2,Yra,Yra,Yra,CeNeral Janatabad,4700000000,156666.67
+103,2,Nera,Yra,Nera,Shahran,3220000000,107333.33
+60,2,Yra,Yra,Nera,Pirouzi,1450000000,48333.33
+123,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,360000000,12000
+70,2,Yra,Yra,Yra,Punak,2700000000,90000
+177,3,Yra,Yra,Yra,Velenjak,21700000000,723333.33
+230,3,Yra,Yra,Yra,Farmanieh,22000000000,733333.33
+105,2,Yra,Yra,Yra,Pardis,540000000,18000
+87,2,Nera,Nera,Yra,Pardis,810000000,27000
+104,2,Yra,Yra,Yra,Pardis,590000000,19666.67
+105,2,Yra,Yra,Yra,Pardis,555000000,18500
+310,3,Yra,Yra,Yra,Elahieh,45500000000,1516666.67
+108,2,Yra,Yra,Yra,Shams Abad,4550000000,151666.67
+105,2,Yra,Yra,Yra,Pardis,540000000,18000
+75,2,Yra,Yra,Nera,CeNeral Janatabad,2750000000,91666.67
+108,2,Yra,Yra,Yra,Shams Abad,4130000000,137666.67
+105,2,Yra,Yra,Yra,Pardis,550000000,18333.33
+116,2,Yra,Yra,Yra,West Ferdows Boulevard,5050000000,168333.33
+43,1,Yra,Yra,Yra,Shams Abad,1800000000,60000
+64,2,Nera,Yra,Nera,Jeyhoon,920000000,30666.67
+48,1,Yra,Yra,Nera,Salsabil,1048000000,34933.33
+134,3,Yra,Yra,Yra,Andisheh,1100000000,36666.67
+134,3,Yra,Yra,Yra,Andisheh,1100000000,36666.67
+100,2,Nera,Nera,Nera,Pardis,650000000,21666.67
+230,3,Yra,Yra,Yra,Farmanieh,20700000000,690000
+238,3,Yra,Yra,Yra,Velenjak,46900000000,1563333.33
+48,1,Yra,Yra,Nera,Salsabil,995000000,33166.67
+270,5,Yra,Yra,Nera,Aqdasieh,14500000000,483333.33
+105,2,Nera,Yra,Nera,Andisheh,1100000000,36666.67
+105,2,Yra,Yra,Yra,Pardis,550000000,18333.33
+86,2,Yra,Yra,Yra,Pardis,780000000,26000
+130,3,Yra,Yra,Yra,West Pars,6760000000,225333.33
+87,2,Yra,Yra,Yra,Pardis,960000000,32000
+80,2,Nera,Yra,Nera,Shahrake Qods,1200000000,40000
+112,2,Yra,Yra,Yra,Yousef Abad,5600000000,186666.67
+120,2,Yra,Yra,Nera,Pardis,1800000000,60000
+125,2,Yra,Yra,Yra,Pardis,2100000000,70000
+100,2,Yra,Yra,Yra,,3100000000,103333.33
+100,2,Yra,Yra,Yra,Pirouzi,2600000000,86666.67
+123,3,Yra,Yra,Yra,East Ferdows Boulevard,5600000000,186666.67
+100,2,Yra,Yra,Yra,Pirouzi,4000000000,133333.33
+88,2,Yra,Yra,Yra,Northern Janatabad,2980000000,99333.33
+87,2,Yra,Yra,Yra,Pardis,720000000,24000
+66,2,Yra,Nera,Yra,Ostad Moein,1580000000,52666.67
+85,2,Yra,Yra,Yra,Pardis,730000000,24333.33
+84,2,Nera,Yra,Nera,Sattarkhan,2600000000,86666.67
+110,2,Yra,Yra,Yra,Yousef Abad,5700000000,190000
+170,3,Yra,Yra,Yra,Niavaran,22100000000,736666.67
+220,3,Yra,Yra,Yra,Niavaran,19800000000,660000
+101,2,Yra,Yra,Yra,Yousef Abad,5500000000,183333.33
+100,2,Yra,Yra,Yra,Gheitarieh,6800000000,226666.67
+193,3,Yra,Yra,Yra,Kook,13000000000,433333.33
+45,1,Nera,Yra,Nera,Andisheh,395000000,13166.67
+86,2,Yra,Nera,Yra,Pirouzi,2050000000,68333.33
+138,3,Yra,Yra,Yra,Islamshahr,1690000000,56333.33
+100,2,Nera,Yra,Nera,Tehransar,2000000000,66666.67
+55,1,Yra,Yra,Yra,Saadat Abad,4000000000,133333.33
+100,2,Yra,Yra,Yra,Gheitarieh,8200000000,273333.33
+108,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3024000000,100800
+94,2,Yra,Yra,Yra,Gheitarieh,8350000000,278333.33
+101,2,Yra,Yra,Yra,Gheitarieh,8800000000,293333.33
+101,2,Yra,Yra,Yra,Gheitarieh,8500000000,283333.33
+99,1,Yra,Yra,Yra,Gheitarieh,8400000000,280000
+97,2,Yra,Yra,Yra,Shahrake Gharb,7500000000,250000
+331,2,Yra,Yra,Yra,Gheitarieh,8700000000,290000
+126,2,Yra,Yra,Yra,Gheitarieh,11500000000,383333.33
+105,2,Yra,Yra,Yra,Pardis,525000000,17500
+101,2,Yra,Yra,Yra,Tarasht,3345000000,111500
+100,2,Yra,Yra,Yra,Gheitarieh,8300000000,276666.67
+90,2,Yra,Yra,Yra,Shahrake Qods,990000000,33000
+146,3,Yra,Yra,Yra,Saadat Abad,10800000000,360000
+90,3,Yra,Yra,Nera,Salsabil,2550000000,85000
+60,2,Nera,Yra,Nera,Shahrake Azadi,1680000000,56000
+130,3,Yra,Yra,Yra,Shahrake Gharb,14300000000,476666.67
+85,2,Yra,Yra,Nera,Air force,2700000000,90000
+80,1,Nera,Yra,Nera,Shahrake Qods,560000000,18666.67
+132,3,Yra,Yra,Yra,Pasdaran,9900000000,330000
+115,2,Yra,Yra,Yra,Tarasht,4600000000,153333.33
+70,2,Nera,Yra,Nera,Pirouzi,1550000000,51666.67
+145,3,Yra,Yra,Yra,Pirouzi,3900000000,130000
+88,2,Yra,Yra,Yra,Punak,2980000000,99333.33
+54,1,Nera,Yra,Nera,Beryanak,830000000,27666.67
+65,2,Yra,Yra,Nera,Pirouzi,1650000000,55000
+70,1,Yra,Yra,Nera,Dehkade Olampic,2000000000,66666.67
+63,1,Yra,Yra,Yra,Ostad Moein,1380000000,46000
+190,3,Yra,Yra,Yra,Zaferanieh,13000000000,433333.33
+57,1,Yra,Yra,Yra,Qasr-od-Dasht,1200000000,40000
+144,3,Yra,Yra,Yra,Velenjak,12000000000,400000
+85,2,Yra,Yra,Yra,Shahr-e-Ziba,3450000000,115000
+65,2,Nera,Yra,Yra,West Pars,2000000000,66666.67
+88,3,Nera,Nera,Yra,Parand,520000000,17333.33
+74,2,Yra,Yra,Yra,Darband,4100000000,136666.67
+76,2,Nera,Nera,Nera,Parand,365000000,12166.67
+88,2,Nera,Nera,Yra,Parand,580000000,19333.33
+49,1,Yra,Yra,Yra,Punak,2694000000,89800
+287,5,Yra,Yra,Nera,Vanak,57500000000,1916666.67
+95,2,Yra,Yra,Nera,Punak,3900000000,130000
+65,1,Yra,Yra,Yra,Air force,1690000000,56333.33
+86,2,Yra,Yra,Yra,Niavaran,5580000000,186000
+86,2,Yra,Yra,Yra,Kamranieh,5500000000,183333.33
+90,2,Yra,Yra,Yra,Golestan,690000000,23000
+62,2,Yra,Yra,Nera,Ekhtiarieh,3300000000,110000
+157,3,Yra,Yra,Yra,Gheitarieh,13600000000,453333.33
+90,2,Yra,Yra,Yra,Southern Chitgar,690000000,23000
+190,3,Yra,Yra,Yra,Gheitarieh,15500000000,516666.67
+90,2,Yra,Yra,Yra,Railway,1315000000,43833.33
+150,3,Yra,Yra,Yra,Gheitarieh,11000000000,366666.67
+70,2,Yra,Yra,Yra,Shahrake Qods,735000000,24500
+91,2,Yra,Yra,Yra,Tehran Now,3000000000,100000
+155,3,Yra,Yra,Yra,Gheitarieh,14700000000,490000
+245,3,Yra,Yra,Yra,Niavaran,21560000000,718666.67
+120,2,Yra,Yra,Yra,West Ferdows Boulevard,5000000000,166666.67
+150,2,Yra,Yra,Yra,Gheitarieh,13000000000,433333.33
+65,2,Yra,Yra,Nera,West Ferdows Boulevard,2250000000,75000
+106,2,Yra,Yra,Yra,West Ferdows Boulevard,3900000000,130000
+100,2,Yra,Yra,Yra,Gheitarieh,8400000000,280000
+125,2,Yra,Yra,Yra,Gheitarieh,11000000000,366666.67
+57,1,Yra,Yra,Yra,Feiz Garden,1890000000,63000
+160,3,Yra,Yra,Yra,Niavaran,16800000000,560000
+43,1,Nera,Yra,Yra,Beryanak,1200000000,40000
+115,3,Yra,Yra,Yra,Feiz Garden,3500000000,116666.67
+80,2,Yra,Yra,Yra,Feiz Garden,2900000000,96666.67
+93,2,Yra,Yra,Yra,Southern Janatabad,4600000000,153333.33
+65,2,Yra,Nera,Yra,Qasr-od-Dasht,2050000000,68333.33
+90,2,Yra,Yra,Yra,Southern Janatabad,3000000000,100000
+200,2,Yra,Yra,Nera,Andisheh,2000000000,66666.67
+135,3,Yra,Yra,Yra,Shahrake Gharb,9000000000,300000
+63,2,Nera,Yra,Nera,Azarbaijan,1340000000,44666.67
+53,1,Yra,Yra,Yra,Azarbaijan,1500000000,50000
+50,1,Nera,Yra,Nera,Qasr-od-Dasht,810000000,27000
+72,2,Yra,Yra,Nera,Qasr-od-Dasht,1615000000,53833.33
+148,3,Yra,Yra,Yra,Saadat Abad,12500000000,416666.67
+80,2,Yra,Yra,Yra,Azarbaijan,2480000000,82666.67
+60,2,Yra,Yra,Yra,Andisheh,950000000,31666.67
+102,2,Yra,Yra,Yra,Shahrake Gharb,9898000000,329933.33
+95,2,Yra,Yra,Yra,Mirdamad,5500000000,183333.33
+83,2,Yra,Yra,Yra,Ray,1700000000,56666.67
+95,2,Yra,Yra,Yra,Gheitarieh,8300000000,276666.67
+83,2,Yra,Yra,Yra,Salsabil,2300000000,76666.67
+60,1,Yra,Yra,Yra,Northern Chitgar,875000000,29166.67
+65,2,Yra,Yra,Yra,Jeyhoon,1400000000,46666.67
+90,2,Yra,Yra,Yra,Gheitarieh,8200000000,273333.33
+200,3,Yra,Yra,Yra,Heravi,14000000000,466666.67
+53,1,Yra,Yra,Yra,Jeyhoon,1420000000,47333.33
+43,1,Yra,Yra,Yra,Beryanak,1250000000,41666.67
+97,2,Yra,Yra,Yra,Southern Janatabad,3880000000,129333.33
+42,1,Yra,Nera,Yra,Jeyhoon,960000000,32000
+120,2,Yra,Yra,Yra,Abazar,3880000000,129333.33
+97,2,Yra,Yra,Yra,Sattarkhan,3580000000,119333.33
+97,2,Yra,Yra,Yra,Southern Janatabad,3500000000,116666.67
+90,2,Yra,Yra,Yra,Southern Janatabad,3280000000,109333.33
+97,2,Yra,Yra,Yra,CeNeral Janatabad,3600000000,120000
+90,2,Yra,Yra,Yra,Southern Janatabad,3680000000,122666.67
+198,3,Yra,Yra,Yra,Gheitarieh,13500000000,450000
+929,5,Yra,Yra,Nera,Zafar,80000000000,2666666.67
+90,2,Yra,Yra,Yra,Punak,4680000000,156000
+150,3,Yra,Yra,Yra,Punak,9400000000,313333.33
+136,3,Yra,Yra,Yra,Southern Janatabad,6200000000,206666.67
+120,2,Yra,Yra,Yra,Southern Janatabad,4100000000,136666.67
+90,2,Yra,Yra,Yra,Punak,3520000000,117333.33
+550,3,Yra,Yra,Nera,Absard,4500000000,150000
+50,1,Yra,Yra,Yra,Punak,2500000000,83333.33
+90,2,Yra,Yra,Yra,Mirdamad,6000000000,200000
+55,1,Yra,Yra,Yra,Punak,2300000000,76666.67
+75,2,Yra,Yra,Yra,Jeyhoon,2350000000,78333.33
+47,1,Yra,Yra,Yra,Punak,2100000000,70000
+65,2,Yra,Yra,Nera,Punak,2250000000,75000
+420,4,Yra,Yra,Yra,Zaferanieh,92400000000,3080000
+124,3,Yra,Yra,Yra,Southern Janatabad,5950000000,198333.33
+86,2,Yra,Yra,Yra,Punak,4250000000,141666.67
+70,1,Yra,Yra,Yra,Punak,3100000000,103333.33
+181,3,Yra,Yra,Yra,Velenjak,13600000000,453333.33
+68,2,Yra,Yra,Nera,Punak,2230000000,74333.33
+85,2,Yra,Yra,Yra,Yaftabad,1250000000,41666.67
+67,2,Yra,Yra,Yra,Punak,2600000000,86666.67
+72,1,Yra,Yra,Yra,Ozgol,4500000000,150000
+145,3,Yra,Yra,Yra,CeNeral Janatabad,6150000000,205000
+116,2,Yra,Yra,Yra,Shahrake Gharb,9860000000,328666.67
+65,1,Yra,Yra,Yra,Northern Janatabad,2700000000,90000
+125,2,Yra,Yra,Yra,Ozgol,9300000000,310000
+143,3,Yra,Yra,Yra,Saadat Abad,11200000000,373333.33
+150,3,Yra,Yra,Yra,Saadat Abad,14800000000,493333.33
+88,2,Yra,Yra,Yra,Southern Janatabad,2560000000,85333.33
+380,4,Yra,Yra,Yra,Elahieh,50000000000,1666666.67
+95,2,Yra,Yra,Yra,Ostad Moein,2990000000,99666.67
+58,1,Yra,Yra,Yra,Shahran,2850000000,95000
+190,3,Yra,Yra,Yra,Farmanieh,25000000000,833333.33
+120,2,Yra,Yra,Yra,Ekhtiarieh,7700000000,256666.67
+130,3,Yra,Yra,Yra,Shahrakeh Naft,7500000000,250000
+85,2,Yra,Yra,Nera,Punak,2800000000,93333.33
+100,2,Yra,Yra,Nera,Islamshahr,1100000000,36666.67
+115,2,Yra,Yra,Yra,Gheitarieh,9500000000,316666.67
+76,2,Yra,Yra,Yra,Shahr-e-Ziba,2480000000,82666.67
+125,2,Yra,Yra,Yra,Punak,6000000000,200000
+110,2,Yra,Yra,Yra,Punak,3900000000,130000
+96,2,Yra,Yra,Yra,Punak,4150000000,138333.33
+75,2,Yra,Yra,Nera,Islamshahr,1250000000,41666.67
+105,2,Yra,Yra,Yra,CeNeral Janatabad,4300000000,143333.33
+160,3,Yra,Yra,Yra,Heravi,7000000000,233333.33
+76,2,Yra,Yra,Yra,Jeyhoon,1800000000,60000
+290,4,Yra,Yra,Yra,Zaferanieh,15950000000,531666.67
+110,2,Nera,Yra,Yra,Zafar,5550000000,185000
+198,4,Yra,Yra,Nera,Andisheh,5200000000,173333.33
+105,2,Yra,Yra,Yra,Andisheh,1930000000,64333.33
+90,2,Yra,Yra,Yra,Islamshahr,1098000000,36600
+63,1,Yra,Yra,Yra,Islamshahr,882000000,29400
+100,2,Yra,Yra,Yra,CeNeral Janatabad,3600000000,120000
+117,3,Yra,Yra,Yra,Islamshahr,1990000000,66333.33
+91,2,Yra,Yra,Nera,Islamshahr,1640000000,54666.67
+60,1,Yra,Yra,Nera,Islamshahr,780000000,26000
+110,2,Yra,Yra,Yra,Islamshahr,2530000000,84333.33
+96,2,Yra,Yra,Yra,Ostad Moein,2990000000,99666.67
+113,2,Yra,Yra,Yra,Ekhtiarieh,4300000000,143333.33
+60,1,Yra,Yra,Yra,Persian Gulf Martyrs Lake,295000000,9833.33
+74,2,Yra,Yra,Yra,Southern Janatabad,2800000000,93333.33
+155,3,Yra,Yra,Yra,Dorous,9800000000,326666.67
+125,2,Yra,Yra,Yra,Ostad Moein,3900000000,130000
+49,1,Yra,Nera,Yra,Dezashib,3150000000,105000
+148,3,Yra,Yra,Yra,Saadat Abad,12580000000,419333.33
+134,3,Yra,Yra,Yra,Qasr-od-Dasht,2950000000,98333.33
+90,2,Yra,Yra,Yra,CeNeral Janatabad,3600000000,120000
+110,1,Yra,Yra,Yra,CeNeral Janatabad,4450000000,148333.33
+115,2,Yra,Yra,Yra,Punak,5405000000,180166.67
+90,2,Yra,Yra,Yra,Darabad,5300000000,176666.67
+95,2,Yra,Yra,Yra,North Program Organization,4300000000,143333.33
+105,2,Yra,Yra,Yra,Pardis,750000000,25000
+63,2,Yra,Yra,Yra,Amir Bahador,1638000000,54600
+185,3,Yra,Yra,Yra,Pasdaran,13000000000,433333.33
+250,3,Yra,Yra,Yra,Elahieh,40000000000,1333333.33
+88,2,Yra,Yra,Nera,Northern Janatabad,3850000000,128333.33
+95,2,Yra,Yra,Yra,Southern Program Organization,4300000000,143333.33
+108,2,Yra,Yra,Yra,Heravi,6400000000,213333.33
+90,2,Yra,Yra,Yra,Southern Janatabad,3780000000,126000
+160,3,Yra,Yra,Yra,Velenjak,9600000000,320000
+78,2,Nera,Yra,Yra,Parand,425000000,14166.67
+120,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,590000000,19666.67
+158,3,Yra,Yra,Yra,Pasdaran,11060000000,368666.67
+56,1,Yra,Yra,Yra,West Ferdows Boulevard,2250000000,75000
+155,3,Yra,Yra,Yra,Pasdaran,13175000000,439166.67
+100,2,Yra,Yra,Yra,Southern Janatabad,5700000000,190000
+182,3,Yra,Yra,Yra,Saadat Abad,11500000000,383333.33
+63,2,Yra,Yra,Yra,Shahr-e-Ziba,2250000000,75000
+60,1,Yra,Yra,Yra,Northern Chitgar,875000000,29166.67
+125,2,Yra,Yra,Yra,Shahrake Qods,1030000000,34333.33
+53,1,Nera,Nera,Nera,Shahrake Qods,395000000,13166.67
+150,3,Yra,Yra,Yra,Ekhtiarieh,9500000000,316666.67
+62,2,Yra,Yra,Nera,Punak,2200000000,73333.33
+113,2,Yra,Yra,Yra,Ekhtiarieh,6000000000,200000
+93,2,Yra,Yra,Nera,Parand,650000000,21666.67
+84,2,Yra,Yra,Yra,Damavand,2150000000,71666.67
+83,2,Yra,Yra,Yra,Jeyhoon,2200000000,73333.33
+150,3,Yra,Yra,Yra,Gheitarieh,13000000000,433333.33
+147,3,Yra,Yra,Yra,Ekhtiarieh,9600000000,320000
+75,2,Yra,Yra,Yra,Saadat Abad,5500000000,183333.33
+119,2,Yra,Yra,Yra,Shahran,4700000000,156666.67
+105,2,Yra,Yra,Yra,Saadat Abad,4800000000,160000
+70,2,Yra,Yra,Yra,,4830000000,161000
+115,2,Yra,Yra,Yra,Ekhtiarieh,6300000000,210000
+179,3,Yra,Yra,Yra,Velenjak,8055000000,268500
+86,2,Yra,Yra,Yra,CeNeral Janatabad,3600000000,120000
+70,1,Yra,Yra,Yra,West Ferdows Boulevard,3650000000,121666.67
+48,1,Yra,Yra,Yra,Shahr-e-Ziba,1750000000,58333.33
+70,2,Nera,Yra,Yra,Komeil,1250000000,41666.67
+102,2,Yra,Yra,Yra,Saadat Abad,6120000000,204000
+85,2,Yra,Nera,Yra,Pardis,470000000,15666.67
+72,2,Yra,Yra,Nera,West Ferdows Boulevard,2400000000,80000
+120,2,Yra,Yra,Yra,Shahrake Qods,1050000000,35000
+180,3,Yra,Yra,Yra,Saadat Abad,14500000000,483333.33
+138,3,Yra,Yra,Yra,Saadat Abad,9300000000,310000
+87,2,Yra,Yra,Yra,Shahrake Qods,960000000,32000
+705,5,Yra,Yra,Nera,Abazar,91000000000,3033333.33
+200,3,Yra,Yra,Yra,Saadat Abad,16000000000,533333.33
+87,2,Yra,Yra,Yra,Pardis,570000000,19000
+75,2,Yra,Yra,Yra,Shahr-e-Ziba,3350000000,111666.67
+66,2,Yra,Yra,Yra,Ostad Moein,1580000000,52666.67
+57,1,Yra,Yra,Yra,West Ferdows Boulevard,2900000000,96666.67
+62,1,Yra,Yra,Yra,West Ferdows Boulevard,2650000000,88333.33
+65,2,Yra,Yra,Yra,West Ferdows Boulevard,3100000000,103333.33
+70,1,Nera,Yra,Nera,Saadat Abad,3300000000,110000
+65,1,Yra,Yra,Yra,West Ferdows Boulevard,2800000000,93333.33
+100,2,Yra,Yra,Yra,Ostad Moein,2800000000,93333.33
+210,3,Yra,Yra,Yra,Saadat Abad,16400000000,546666.67
+110,2,Yra,Yra,Yra,Saadat Abad,8900000000,296666.67
+68,2,Yra,Yra,Yra,West Ferdows Boulevard,2900000000,96666.67
+101,2,Yra,Yra,Yra,Saadat Abad,5555000000,185166.67
+85,2,Yra,Yra,Yra,Ekhtiarieh,5000000000,166666.67
+165,3,Yra,Yra,Yra,Saadat Abad,10500000000,350000
+300,4,Yra,Yra,Yra,Saadat Abad,30000000000,1000000
+245,3,Yra,Yra,Yra,Shahrake Gharb,19000000000,633333.33
+105,2,Yra,Yra,Nera,Andisheh,1000000000,33333.33
+135,2,Yra,Yra,Yra,Saadat Abad,8800000000,293333.33
+130,3,Yra,Yra,Yra,Saadat Abad,9300000000,310000
+83,2,Yra,Nera,Yra,Saadat Abad,4600000000,153333.33
+60,1,Yra,Yra,Yra,Saadat Abad,4650000000,155000
+52,1,Yra,Yra,Yra,Southern Program Organization,2750000000,91666.67
+60,2,Yra,Yra,Yra,West Ferdows Boulevard,2850000000,95000
+60,2,Yra,Yra,Yra,West Ferdows Boulevard,2850000000,95000
+70,2,Yra,Yra,Yra,East Ferdows Boulevard,3000000000,100000
+140,3,Yra,Yra,Yra,Shahrake Gharb,11200000000,373333.33
+120,2,Yra,Yra,Yra,Saadat Abad,6800000000,226666.67
+62,1,Yra,Yra,Yra,Shahrake Qods,510000000,17000
+70,2,Yra,Yra,Yra,West Ferdows Boulevard,2600000000,86666.67
+150,3,Yra,Yra,Yra,Saadat Abad,9500000000,316666.67
+69,2,Yra,Yra,Nera,Shahran,1850000000,61666.67
+97,2,Yra,Yra,Yra,Pardis,770000000,25666.67
+70,1,Yra,Yra,Yra,East Ferdows Boulevard,2600000000,86666.67
+100,2,Yra,Yra,Yra,Jeyhoon,2300000000,76666.67
+75,2,Yra,Yra,Nera,West Ferdows Boulevard,2500000000,83333.33
+103,2,Yra,Yra,Yra,Azarbaijan,3150000000,105000
+85,2,Yra,Yra,Yra,Shahran,2650000000,88333.33
+150,3,Yra,Yra,Yra,Punak,10500000000,350000
+66,2,Yra,Yra,Yra,Qalandari,4250000000,141666.67
+106,2,Yra,Yra,Yra,Pardis,800000000,26666.67
+101,2,Yra,Nera,Yra,Pirouzi,3300000000,110000
+290,4,Yra,Yra,Yra,Aqdasieh,27000000000,900000
+106,2,Yra,Yra,Yra,Saadat Abad,6000000000,200000
+107,3,Yra,Yra,Nera,Eram,2970000000,99000
+122,2,Yra,Yra,Yra,Jeyhoon,3900000000,130000
+195,3,Yra,Yra,Yra,Shahrake Gharb,19500000000,650000
+98,2,Yra,Yra,Yra,Shahr-e-Ziba,3200000000,106666.67
+105,2,Yra,Yra,Yra,Pardis,700000000,23333.33
+98,2,Yra,Yra,Yra,Pardis,770000000,25666.67
+200,3,Yra,Yra,Yra,Gheitarieh,16000000000,533333.33
+400,4,Yra,Yra,Yra,Elahieh,63000000000,2100000
+110,2,Yra,Yra,Yra,Ekhtiarieh,8300000000,276666.67
+95,2,Yra,Yra,Yra,Ostad Moein,2950000000,98333.33
+60,1,Yra,Yra,Yra,Southern Program Organization,2400000000,80000
+76,2,Nera,Nera,Nera,Parand,345000000,11500
+222,3,Yra,Yra,Yra,Gheitarieh,19800000000,660000
+120,2,Yra,Yra,Yra,Punak,6000000000,200000
+90,2,Yra,Yra,Yra,Ekhtiarieh,6000000000,200000
+270,3,Yra,Yra,Yra,Kamranieh,26500000000,883333.33
+110,2,Yra,Yra,Nera,Southern Program Organization,3580000000,119333.33
+84,2,Yra,Yra,Yra,Shahrake Qods,982000000,32733.33
+76,2,Yra,Yra,Yra,Shahrake Qods,870000000,29000
+75,2,Nera,Yra,Yra,Parand,400000000,13333.33
+170,4,Yra,Yra,Yra,Andisheh,3060000000,102000
+92,2,Nera,Yra,Nera,Andisheh,930000000,31000
+122,3,Yra,Yra,Nera,Parand,850000000,28333.33
+170,3,Yra,Yra,Yra,Ekhtiarieh,7800000000,260000
+147,3,Yra,Yra,Yra,Pasdaran,8350000000,278333.33
+47,1,Nera,Yra,Nera,Jeyhoon,850000000,28333.33
+100,2,Yra,Yra,Yra,Pasdaran,6000000000,200000
+180,3,Yra,Yra,Yra,Saadat Abad,13500000000,450000
+90,2,Yra,Yra,Yra,Northern Janatabad,3150000000,105000
+180,3,Yra,Yra,Yra,Saadat Abad,13500000000,450000
+80,2,Yra,Yra,Yra,Shahr-e-Ziba,2550000000,85000
+59,1,Yra,Nera,Yra,Pirouzi,1600000000,53333.33
+87,2,Yra,Yra,Yra,Pardis,850000000,28333.33
+50,1,Nera,Yra,Yra,Ostad Moein,1000000000,33333.33
+123,3,Yra,Yra,Yra,Gheitarieh,7400000000,246666.67
+56,1,Yra,Yra,Yra,Feiz Garden,2200000000,73333.33
+105,2,Yra,Yra,Yra,Pardis,945000000,31500
+57,1,Yra,Yra,Yra,Azarbaijan,1750000000,58333.33
+78,2,Yra,Yra,Yra,Southern Janatabad,3500000000,116666.67
+92,2,Yra,Yra,Yra,Southern Janatabad,3880000000,129333.33
+100,2,Yra,Yra,Yra,Pardis,1050000000,35000
+152,3,Yra,Yra,Yra,Saadat Abad,9800000000,326666.67
+155,3,Yra,Yra,Yra,Shahrake Gharb,9000000000,300000
+115,3,Yra,Yra,Yra,Shahr-e-Ziba,3870000000,129000
+145,3,Yra,Yra,Yra,Shahrake Gharb,11000000000,366666.67
+115,2,Yra,Yra,Yra,Yousef Abad,5400000000,180000
+60,1,Yra,Yra,Nera,CeNeral Janatabad,2190000000,73000
+160,3,Yra,Yra,Yra,Gheitarieh,10200000000,340000
+101,2,Yra,Yra,Yra,North Program Organization,5150000000,171666.67
+98,2,Yra,Yra,Yra,Southern Janatabad,3600000000,120000
+92,2,Yra,Yra,Yra,Punak,3870000000,129000
+90,2,Yra,Yra,Yra,Northern Janatabad,3880000000,129333.33
+150,3,Yra,Yra,Yra,West Ferdows Boulevard,7200000000,240000
+106,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,2960000000,98666.67
+135,3,Yra,Yra,Yra,Dehkade Olampic,4200000000,140000
+105,2,Yra,Yra,Yra,Pardis,890000000,29666.67
+209,3,Yra,Yra,Yra,West Ferdows Boulevard,13000000000,433333.33
+115,2,Yra,Yra,Nera,Tarasht,3600000000,120000
+110,2,Yra,Yra,Nera,Water Organization,3950000000,131666.67
+90,2,Nera,Yra,Yra,Northern Janatabad,3150000000,105000
+190,3,Yra,Yra,Yra,Aqdasieh,24000000000,800000
+54,1,Nera,Yra,Yra,Punak,2000000000,66666.67
+133,3,Yra,Yra,Yra,Gheitarieh,13300000000,443333.33
+200,3,Yra,Yra,Yra,Ajudaniye,27000000000,900000
+220,3,Yra,Yra,Yra,Kamranieh,33600000000,1120000
+130,3,Yra,Yra,Yra,Gheitarieh,8700000000,290000
+123,3,Yra,Yra,Nera,Azadshahr,3450000000,115000
+105,2,Yra,Yra,Yra,Dehkade Olampic,4100000000,136666.67
+103,3,Yra,Yra,Yra,Shahran,4128000000,137600
+105,2,Yra,Yra,Yra,Pardis,710000000,23666.67
+161,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,6400000000,213333.33
+115,3,Nera,Yra,Yra,Shahrake Qods,1600000000,53333.33
+85,2,Nera,Nera,Nera,Azadshahr,3100000000,103333.33
+50,2,Yra,Yra,Nera,Shahran,1820000000,60666.67
+160,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,6700000000,223333.33
+232,3,Yra,Yra,Yra,Farmanieh,23000000000,766666.67
+98,2,Yra,Yra,Yra,Shahr-e-Ziba,3220000000,107333.33
+117,2,Yra,Yra,Yra,Shahran,3880000000,129333.33
+77,2,Yra,Yra,Yra,West Ferdows Boulevard,3400000000,113333.33
+100,2,Yra,Yra,Nera,Yousef Abad,3950000000,131666.67
+85,2,Yra,Yra,Nera,Northern Janatabad,2950000000,98333.33
+145,3,Yra,Yra,Yra,Farmanieh,11000000000,366666.67
+127,3,Yra,Yra,Yra,Hakimiyeh,4480000000,149333.33
+79,2,Yra,Yra,Yra,Shahran,2950000000,98333.33
+120,2,Yra,Yra,Yra,Gheitarieh,11000000000,366666.67
+173,3,Yra,Yra,Yra,Niavaran,11000000000,366666.67
+195,3,Yra,Yra,Yra,Farmanieh,17280000000,576000
+66,2,Yra,Yra,Yra,West Ferdows Boulevard,2270000000,75666.67
+100,2,Yra,Yra,Yra,Gheitarieh,8000000000,266666.67
+140,3,Yra,Yra,Yra,Gheitarieh,11150000000,371666.67
+93,2,Yra,Yra,Yra,Atabak,1300000000,43333.33
+80,2,Yra,Yra,Yra,Yousef Abad,4250000000,141666.67
+119,2,Yra,Yra,Yra,Shahran,5400000000,180000
+100,2,Yra,Yra,Yra,Ekhtiarieh,6500000000,216666.67
+115,2,Yra,Yra,Yra,Shahran,3840000000,128000
+52,1,Yra,Yra,Yra,Ekhtiarieh,3700000000,123333.33
+136,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,1360000000,45333.33
+95,2,Yra,Yra,Yra,Shahran,5000000000,166666.67
+83,3,Yra,Yra,Yra,Shahran,3100000000,103333.33
+100,2,Yra,Yra,Yra,Shahrake Qods,1700000000,56666.67
+70,2,Yra,Yra,Nera,Shahran,2550000000,85000
+73,2,Yra,Yra,Nera,Shahran,2580000000,86000
+70,2,Yra,Yra,Yra,Shahr-e-Ziba,2000000000,66666.67
+105,2,Yra,Yra,Yra,Pardis,500000000,16666.67
+69,2,Yra,Yra,Yra,Shahr-e-Ziba,2050000000,68333.33
+87,2,Yra,Yra,Yra,Pardis,530000000,17666.67
+66,1,Yra,Yra,Yra,Pardis,720000000,24000
+98,2,Yra,Yra,Yra,Pardis,1000000000,33333.33
+64,2,Yra,Yra,Yra,Shahr-e-Ziba,1980000000,66000
+65,2,Yra,Yra,Yra,Shahr-e-Ziba,2000000000,66666.67
+85,2,Yra,Yra,Yra,CeNeral Janatabad,3350000000,111666.67
+85,2,Yra,Yra,Yra,Punak,4500000000,150000
+93,2,Yra,Yra,Yra,Gheitarieh,5600000000,186666.67
+155,3,Yra,Yra,Yra,Heravi,9000000000,300000
+450,2,Nera,Nera,Nera,Absard,4500000000,150000
+117,3,Yra,Yra,Yra,Shahrake Gharb,6800000000,226666.67
+85,2,Yra,Yra,Yra,Pakdasht,640000000,21333.33
+500,4,Yra,Yra,Nera,Damavand,20000000000,666666.67
+900,3,Yra,Yra,Nera,Damavand,8500000000,283333.33
+60,1,Yra,Yra,Yra,Persian Gulf Martyrs Lake,875000000,29166.67
+60,1,Yra,Yra,Yra,Persian Gulf Martyrs Lake,870000000,29000
+58,2,Yra,Yra,Yra,Sabalan,1200000000,40000
+118,2,Yra,Yra,Yra,Shahrake Qods,960000000,32000
+98,2,Yra,Yra,Yra,Gheitarieh,8700000000,290000
+60,1,Nera,Yra,Yra,Narmak,2100000000,70000
+85,2,Yra,Yra,Yra,Gheitarieh,7400000000,246666.67
+110,2,Yra,Yra,Yra,Heravi,5000000000,166666.67
+190,3,Yra,Yra,Yra,Gheitarieh,12000000000,400000
+235,3,Yra,Yra,Yra,Gheitarieh,24000000000,800000
+150,3,Yra,Yra,Yra,Gheitarieh,14500000000,483333.33
+197,3,Yra,Yra,Yra,Gheitarieh,13300000000,443333.33
+153,2,Yra,Yra,Yra,Gheitarieh,13300000000,443333.33
+99,2,Yra,Yra,Yra,Heravi,4900000000,163333.33
+195,3,Yra,Yra,Yra,Gheitarieh,19900000000,663333.33
+125,2,Yra,Yra,Yra,Gheitarieh,11600000000,386666.67
+85,2,Yra,Yra,Yra,Gheitarieh,7300000000,243333.33
+103,2,Yra,Yra,Yra,Heravi,6640000000,221333.33
+235,3,Yra,Yra,Yra,Gheitarieh,25500000000,850000
+107,2,Yra,Yra,Yra,Velenjak,13200000000,440000
+195,3,Yra,Yra,Yra,Gheitarieh,19500000000,650000
+170,3,Nera,Nera,Nera,Gheitarieh,14500000000,483333.33
+153,3,Yra,Yra,Yra,Gheitarieh,13000000000,433333.33
+90,2,Yra,Yra,Yra,Pirouzi,2650000000,88333.33
+88,2,Yra,Yra,Yra,Gheitarieh,7600000000,253333.33
+100,2,Yra,Yra,Yra,Gheitarieh,8500000000,283333.33
+100,2,Yra,Yra,Yra,Saadat Abad,6500000000,216666.67
+203,3,Yra,Yra,Yra,Araj,13800000000,460000
+200,3,Yra,Yra,Yra,Aqdasieh,13300000000,443333.33
+200,3,Yra,Yra,Yra,Araj,13700000000,456666.67
+116,3,Yra,Yra,Yra,Gheitarieh,8000000000,266666.67
+202,3,Nera,Nera,Nera,Araj,13300000000,443333.33
+202,3,Yra,Yra,Yra,Aqdasieh,13200000000,440000
+61,1,Yra,Yra,Yra,Si Metri Ji,1318000000,43933.33
+70,2,Yra,Yra,Yra,Jeyhoon,1550000000,51666.67
+62,2,Yra,Yra,Yra,Beryanak,1400000000,46666.67
+200,3,Yra,Yra,Yra,Araj,13300000000,443333.33
+120,3,Yra,Yra,Yra,Ostad Moein,3950000000,131666.67
+87,2,Yra,Yra,Yra,Amirabad,4780000000,159333.33
+200,3,Yra,Yra,Yra,Aqdasieh,13400000000,446666.67
+80,2,Yra,Yra,Yra,Parand,500000000,16666.67
+202,3,Nera,Nera,Nera,Araj,13500000000,450000
+57,1,Nera,Yra,Yra,Ostad Moein,1320000000,44000
+202,3,Yra,Yra,Yra,Araj,13700000000,456666.67
+84,2,Yra,Yra,Yra,Pirouzi,2250000000,75000
+202,3,Yra,Yra,Yra,Aqdasieh,14700000000,490000
+93,2,Yra,Yra,Yra,Saadat Abad,5600000000,186666.67
+85,2,Yra,Yra,Yra,Gheitarieh,8000000000,266666.67
+100,2,Yra,Yra,Yra,Saadat Abad,7400000000,246666.67
+153,2,Yra,Yra,Yra,Aqdasieh,10500000000,350000
+122,3,Yra,Yra,Yra,Saadat Abad,8000000000,266666.67
+150,2,Yra,Yra,Yra,Aqdasieh,10500000000,350000
+56,2,Yra,Yra,Yra,Ostad Moein,1500000000,50000
+150,2,Yra,Yra,Yra,Araj,10500000000,350000
+202,3,Yra,Yra,Yra,Araj,14300000000,476666.67
+201,3,Yra,Yra,Yra,Aqdasieh,14200000000,473333.33
+140,3,Yra,Yra,Yra,Shahrake Qods,2590000000,86333.33
+200,3,Yra,Yra,Yra,Aqdasieh,14000000000,466666.67
+67,2,Yra,Yra,Nera,Jeyhoon,1500000000,50000
+86,2,Yra,Yra,Yra,Gheitarieh,7200000000,240000
+120,3,Yra,Yra,Yra,Ostad Moein,3950000000,131666.67
+84,2,Yra,Yra,Yra,Gheitarieh,7400000000,246666.67
+86,2,Yra,Yra,Yra,CeNeral Janatabad,3800000000,126666.67
+85,2,Yra,Yra,Yra,Gheitarieh,7300000000,243333.33
+67,2,Yra,Yra,Yra,Shahran,2300000000,76666.67
+90,2,Yra,Yra,Yra,Northern Janatabad,4800000000,160000
+83,2,Yra,Yra,Yra,Gheitarieh,7300000000,243333.33
+70,2,Yra,Yra,Yra,Jeyhoon,1730000000,57666.67
+88,2,Yra,Yra,Yra,Shahrake Qods,1135200000,37840
+167,3,Yra,Yra,Yra,Gheitarieh,11000000000,366666.67
+100,2,Nera,Nera,Nera,Shahrake Qods,650000000,21666.67
+100,2,Yra,Yra,Yra,Shahrake Qods,1000000000,33333.33
+60,2,Yra,Yra,Yra,Southern Janatabad,2300000000,76666.67
+155,3,Yra,Yra,Yra,Gheitarieh,11000000000,366666.67
+76,2,Yra,Yra,Yra,Jeyhoon,1850000000,61666.67
+90,2,Yra,Yra,Yra,Shahrake Qods,900000000,30000
+65,1,Yra,Yra,Yra,Shahrake Qods,535000000,17833.33
+80,2,Yra,Yra,Yra,Shahrake Qods,680000000,22666.67
+135,2,Yra,Yra,Yra,Gheitarieh,8700000000,290000
+94,2,Yra,Yra,Yra,Shahrake Qods,950000000,31666.67
+110,2,Yra,Yra,Yra,Gheitarieh,8200000000,273333.33
+115,3,Yra,Yra,Yra,Farmanieh,6900000000,230000
+170,3,Yra,Yra,Yra,Gheitarieh,11200000000,373333.33
+115,3,Nera,Yra,Yra,Farmanieh,6900000000,230000
+60,1,Nera,Nera,Nera,Damavand,900000000,30000
+105,2,Yra,Yra,Yra,Saadat Abad,5800000000,193333.33
+61,2,Nera,Yra,Nera,Salsabil,1040000000,34666.67
+100,2,Yra,Yra,Yra,Saadat Abad,6000000000,200000
+145,3,Yra,Yra,Yra,Jeyhoon,4600000000,153333.33
+87,2,Yra,Yra,Yra,Pardis,479000000,15966.67
+87,2,Yra,Yra,Yra,Pardis,496000000,16533.33
+115,3,Yra,Yra,Yra,Shahrake Gharb,6500000000,216666.67
+85,2,Yra,Yra,Yra,Pardis,690000000,23000
+67,2,Yra,Yra,Nera,Punak,2280000000,76000
+94,2,Yra,Yra,Yra,Shahran,2280000000,76000
+90,2,Yra,Yra,Yra,Shahran,3200000000,106666.67
+94,2,Yra,Yra,Yra,,3000000000,100000
+99,2,Yra,Yra,Yra,,4150000000,138333.33
+86,2,Yra,Yra,Yra,Pardis,890000000,29666.67
+60,2,Yra,Yra,Yra,West Ferdows Boulevard,2650000000,88333.33
+58,1,Yra,Yra,Yra,Shahrake Gharb,3400000000,113333.33
+76,2,Yra,Yra,Yra,Shahr-e-Ziba,2850000000,95000
+57,1,Yra,Yra,Yra,Southern Program Organization,2400000000,80000
+81,2,Yra,Yra,Yra,West Ferdows Boulevard,3300000000,110000
+112,3,Yra,Yra,Yra,West Ferdows Boulevard,3600000000,120000
+75,2,Yra,Yra,Yra,Shahran,3500000000,116666.67
+153,3,Yra,Yra,Yra,Punak,7500000000,250000
+95,2,Yra,Yra,Yra,Shahrake Gharb,5100000000,170000
+101,2,Yra,Yra,Yra,Shahrake Gharb,6565000000,218833.33
+88,2,Yra,Yra,Yra,Railway,2860000000,95333.33
+141,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3810000000,127000
+140,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,1790000000,59666.67
+120,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,1530000000,51000
+66,2,Nera,Yra,Nera,Beryanak,1000000000,33333.33
+70,2,Yra,Yra,Yra,Punak,3500000000,116666.67
+75,2,Yra,Nera,Yra,Heshmatieh,3000000000,100000
+70,2,Nera,Yra,Yra,Elm-o-Sanat,1800000000,60000
+150,3,Yra,Yra,Yra,Saadat Abad,20000000000,666666.67
+95,2,Yra,Yra,Yra,Golestan,950000000,31666.67
+65,2,Yra,Yra,Nera,Jeyhoon,1450000000,48333.33
+88,3,Nera,Yra,Yra,Parand,475000000,15833.33
+113,3,Yra,Yra,Nera,Gheitarieh,6000000000,200000
+50,1,Yra,Yra,Nera,Shahrake Qods,360000000,12000
+45,1,Nera,Nera,Yra,Ostad Moein,1200000000,40000
+53,1,Nera,Yra,Yra,Narmak,1350000000,45000
+100,2,Yra,Yra,Yra,Andisheh,1800000000,60000
+50,1,Yra,Yra,Nera,Shahryar,500000000,16666.67
+85,2,Yra,Yra,Nera,Baghestan,765000000,25500
+134,3,Yra,Yra,Yra,North Program Organization,6400000000,213333.33
+90,2,Yra,Yra,Yra,Shahr-e-Ziba,3000000000,100000
+90,2,Yra,Yra,Yra,Shahrake Qods,1260000000,42000
+135,2,Yra,Yra,Nera,SabaShahr,2200000000,73333.33
+130,3,Yra,Yra,Yra,Railway,5850000000,195000
+55,1,Yra,Yra,Nera,Andisheh,550000000,18333.33
+200,5,Nera,Nera,Nera,Dehkade Olampic,12000000000,400000
+107,2,Yra,Yra,Yra,Shahrake Madaen,800000000,26666.67
+150,2,Yra,Yra,Yra,Pakdasht,1270000000,42333.33
+56,1,Nera,Yra,Nera,Ostad Moein,1200000000,40000
+160,3,Yra,Yra,Nera,Azadshahr,4500000000,150000
+138,3,Yra,Yra,Yra,Salsabil,3584000000,119466.67
+125,3,Yra,Yra,Yra,Tehransar,3750000000,125000
+83,2,Yra,Yra,Yra,Shahr-e-Ziba,2510000000,83666.67
+131,3,Yra,Yra,Yra,Railway,5850000000,195000
+115,2,Yra,Yra,Yra,CeNeral Janatabad,4870000000,162333.33
+50,1,Yra,Yra,Nera,Andisheh,650000000,21666.67
+91,2,Yra,Yra,Yra,West Ferdows Boulevard,3600000000,120000
+80,2,Yra,Yra,Yra,CeNeral Janatabad,3395000000,113166.67
+40,1,Nera,Yra,Nera,Qasr-od-Dasht,720000000,24000
+68,2,Yra,Yra,Yra,Shahr-e-Ziba,2150000000,71666.67
+110,2,Yra,Yra,Yra,Shahran,3920000000,130666.67
+63,1,Yra,Yra,Nera,,730000000,24333.33
+50,1,Yra,Yra,Nera,Beryanak,830000000,27666.67
+110,2,Yra,Yra,Yra,Shahr-e-Ziba,5550000000,185000
+95,2,Yra,Yra,Yra,Shahr-e-Ziba,2920000000,97333.33
+65,2,Yra,Yra,Yra,Southern Janatabad,2250000000,75000
+108,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3024000000,100800
+62,2,Nera,Yra,Nera,Beryanak,930000000,31000
+37,1,Nera,Yra,Yra,Hashemi,830000000,27666.67
+105,2,Yra,Yra,Yra,West Ferdows Boulevard,3650000000,121666.67
+41,1,Nera,Yra,Nera,Salsabil,770000000,25666.67
+85,2,Yra,Yra,Yra,Shahrakeh Naft,4600000000,153333.33
+150,3,Yra,Yra,Yra,Shahrake Gharb,12350000000,411666.67
+83,2,Yra,Yra,Yra,East Ferdows Boulevard,2800000000,93333.33
+174,3,Yra,Yra,Yra,Valiasr,10000000000,333333.33
+105,3,Yra,Yra,Yra,Yousef Abad,4725000000,157500
+57,2,Nera,Nera,Yra,Waterfall,1265000000,42166.67
+200,3,Yra,Yra,Yra,Sadeghieh,7000000000,233333.33
+75,2,Nera,Nera,Nera,Baghestan,600000000,20000
+87,2,Nera,Nera,Nera,Pardis,900000000,30000
+63,2,Nera,Yra,Nera,Qasr-od-Dasht,1260000000,42000
+64,2,Yra,Yra,Yra,CeNeral Janatabad,2240000000,74666.67
+65,2,Nera,Nera,Nera,Ostad Moein,1200000000,40000
+87,2,Yra,Yra,Yra,Pardis,650000000,21666.67
+44,1,Nera,Yra,Nera,Shahryar,570000000,19000
+85,2,Nera,Nera,Nera,Pakdasht,355000000,11833.33
+43,1,Nera,Yra,Nera,Ahang,800000000,26666.67
+118,3,Yra,Yra,Yra,Sattarkhan,4900000000,163333.33
+92,2,Yra,Yra,Yra,Shahran,2700000000,90000
+124,3,Yra,Yra,Yra,Sattarkhan,3400000000,113333.33
+56,1,Nera,Yra,Nera,Jeyhoon,950000000,31666.67
+40,1,Nera,Yra,Nera,Pirouzi,870000000,29000
+92,2,Yra,Yra,Yra,West Ferdows Boulevard,2970000000,99000
+86,2,Yra,Yra,Yra,CeNeral Janatabad,3330000000,111000
+51,2,Yra,Yra,Nera,Shahran,1850000000,61666.67
+70,1,Nera,Nera,Nera,Baghestan,560000000,18666.67
+85,2,Yra,Yra,Yra,Shahrake Qods,1062000000,35400
+51,1,Nera,Yra,Nera,Ostad Moein,900000000,30000
+131,2,Yra,Yra,Yra,Ray,3400000000,113333.33
+48,1,Nera,Yra,Nera,Komeil,820000000,27333.33
+84,2,Yra,Yra,Nera,Andisheh,773000000,25766.67
+95,2,Yra,Yra,Yra,Hashemi,2350000000,78333.33
+74,2,Yra,Yra,Yra,Eskandari,2960000000,98666.67
+68,2,Yra,Yra,Yra,East Ferdows Boulevard,2500000000,83333.33
+240,4,Yra,Yra,Yra,Persian Gulf Martyrs Lake,4800000000,160000
+360,2,Nera,Nera,Nera,Shahryar,9720000000,324000
+44,1,Nera,Yra,Nera,Qasr-od-Dasht,770000000,25666.67
+82,2,Yra,Yra,Yra,Shahran,2850000000,95000
+44,1,Yra,Yra,Nera,Salsabil,1050000000,35000
+42,1,Nera,Yra,Nera,Pirouzi,960000000,32000
+63,1,Yra,Yra,Yra,Aqdasieh,4000000000,133333.33
+110,2,Nera,Yra,Yra,Salehabad,750000000,25000
+235,3,Yra,Yra,Yra,Niavaran,31000000000,1033333.33
+500,2,Yra,Yra,Nera,Absard,3100000000,103333.33
+57,1,Yra,Yra,Nera,Feiz Garden,1930000000,64333.33
+170,3,Yra,Yra,Yra,Pakdasht,1280000000,42666.67
+115,2,Yra,Yra,Nera,Golestan,2050000000,68333.33
+68,2,Yra,Yra,Yra,Southern Program Organization,2700000000,90000
+62,1,Nera,Yra,Yra,Baghestan,620000000,20666.67
+56,1,Yra,Yra,Yra,Shahr-e-Ziba,2200000000,73333.33
+75,2,Yra,Yra,Yra,Shahran,3110000000,103666.67
+95,2,Yra,Yra,Yra,Pasdaran,5850000000,195000
+144,3,Yra,Yra,Yra,Zafar,10368000000,345600
+50,1,Nera,Nera,Yra,Qarchak,380000000,12666.67
+78,2,Yra,Yra,Nera,Sattarkhan,2100000000,70000
+95,2,Yra,Nera,Yra,Ray,2050000000,68333.33
+90,2,Yra,Yra,Yra,Ray,1800000000,60000
+95,2,Yra,Yra,Yra,Punak,4200000000,140000
+350,4,Yra,Yra,Yra,Niavaran,72000000000,2400000
+71,2,Yra,Yra,Yra,West Ferdows Boulevard,2330000000,77666.67
+80,1,Nera,Nera,Nera,Pishva,380000000,12666.67
+44,1,Yra,Nera,Yra,Ostad Moein,1000000000,33333.33
+46,1,Yra,Yra,Yra,Jeyhoon,1150000000,38333.33
+78,2,Yra,Yra,Nera,Sattarkhan,2010000000,67000
+67,2,Nera,Yra,Nera,Karoon,1070000000,35666.67
+49,1,Yra,Yra,Nera,Andisheh,110000000,3666.67
+105,2,Yra,Yra,Yra,Andisheh,1200000000,40000
+72,2,Nera,Yra,Yra,Beryanak,1290000000,43000
+65,2,Nera,Yra,Yra,Salsabil,1220000000,40666.67
+80,2,Yra,Yra,Yra,West Pars,2160000000,72000
+66,2,Nera,Yra,Nera,Jeyhoon,1187000000,39566.67
+58,2,Nera,Yra,Nera,Jeyhoon,1210000000,40333.33
+67,2,Nera,Yra,Nera,Salsabil,1215000000,40500
+89,2,Yra,Yra,Nera,Andisheh,1068000000,35600
+75,2,Yra,Yra,Yra,Beryanak,1450000000,48333.33
+85,2,Nera,Yra,Yra,Si Metri Ji,1440000000,48000
+94,2,Yra,Yra,Yra,CeNeral Janatabad,4300000000,143333.33
+67,2,Yra,Yra,Nera,Jeyhoon,1440000000,48000
+60,1,Nera,Yra,Yra,Shahrake Qods,920000000,30666.67
+67,1,Yra,Nera,Yra,Beryanak,1415000000,47166.67
+65,2,Nera,Nera,Yra,Beryanak,1310000000,43666.67
+72,2,Nera,Yra,Yra,Beryanak,1300000000,43333.33
+62,2,Yra,Yra,Yra,Salsabil,1350000000,45000
+37,1,Nera,Yra,Yra,Ostad Moein,999000000,33300
+105,3,Yra,Yra,Yra,Shahr-e-Ziba,3550000000,118333.33
+78,2,Nera,Nera,Yra,Parand,417000000,13900
+53,1,Nera,Yra,Nera,Baghestan,450000000,15000
+80,2,Nera,Yra,Yra,Shahr-e-Ziba,2450000000,81666.67
+88,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,2850000000,95000
+39,1,Nera,Yra,Nera,Andisheh,370000000,12333.33
+128,2,Yra,Yra,Yra,Jordan,6144000000,204800
+87,2,Yra,Yra,Yra,Shahrake Shahid Bagheri,2450000000,81666.67
+48,1,Nera,Yra,Nera,Beryanak,830000000,27666.67
+86,2,Yra,Yra,Yra,Pardis,500000000,16666.67
+86,2,Yra,Yra,Yra,Pardis,600000000,20000
+75,2,Yra,Yra,Yra,Punak,2300000000,76666.67
+110,3,Yra,Yra,Yra,Jordan,6160000000,205333.33
+172,3,Yra,Yra,Yra,Heravi,9300000000,310000
+147,3,Yra,Yra,Yra,Yousef Abad,11600000000,386666.67
+70,1,Yra,Yra,Nera,Enghelab,1540000000,51333.33
+235,3,Yra,Yra,Yra,Niavaran,28500000000,950000
+115,2,Yra,Yra,Yra,Heravi,6000000000,200000
+114,2,Yra,Yra,Yra,Pakdasht,1090000000,36333.33
+40,1,Yra,Yra,Nera,Pirouzi,1380000000,46000
+125,3,Yra,Yra,Yra,Yousef Abad,8450000000,281666.67
+90,2,Yra,Yra,Yra,Golestan,1315000000,43833.33
+78,2,Nera,Yra,Yra,Gisha,1794000000,59800
+62,2,Yra,Nera,Yra,,1440000000,48000
+47,1,Nera,Yra,Nera,Ostad Moein,1050000000,35000
+114,3,Yra,Yra,Yra,Yousef Abad,4900000000,163333.33
+65,1,Yra,Yra,Yra,Southern Janatabad,2500000000,83333.33
+50,1,Nera,Yra,Nera,Baghestan,410000000,13666.67
+125,2,Yra,Yra,Yra,Islamshahr Elahieh,1750000000,58333.33
+41,1,Nera,Nera,Nera,Salsabil,815000000,27166.67
+136,3,Yra,Yra,Yra,Yousef Abad,8200000000,273333.33
+40,1,Nera,Yra,Nera,Jeyhoon,800000000,26666.67
+60,2,Nera,Yra,Nera,Si Metri Ji,650000000,21666.67
+75,2,Yra,Yra,Yra,Pirouzi,1750000000,58333.33
+120,3,Yra,Yra,Yra,Yousef Abad,8000000000,266666.67
+165,3,Yra,Yra,Yra,Pakdasht,1000000000,33333.33
+110,2,Nera,Yra,Nera,Pakdasht,640000000,21333.33
+116,2,Yra,Yra,Yra,Shahran,4640000000,154666.67
+115,2,Yra,Yra,Yra,Shahran,4500000000,150000
+77,2,Nera,Yra,Yra,Pakdasht,460000000,15333.33
+120,3,Yra,Yra,Yra,Yousef Abad,7000000000,233333.33
+100,2,Nera,Yra,Yra,Pakdasht,660000000,22000
+130,3,Yra,Yra,Yra,Yousef Abad,6000000000,200000
+60,1,Yra,Yra,Yra,Islamshahr,1200000000,40000
+75,2,Nera,Yra,Yra,Parand,385000000,12833.33
+128,3,Yra,Yra,Nera,Niavaran,8500000000,283333.33
+150,2,Yra,Yra,Yra,Zaferanieh,15000000000,500000
+135,3,Yra,Yra,Yra,Yousef Abad,10000000000,333333.33
+60,1,Yra,Yra,Yra,Zafar,1200000000,40000
+41,1,Nera,Nera,Nera,Elahieh,815000000,27166.67
+113,2,Yra,Yra,Yra,Niavaran,9000000000,300000
+52,1,Nera,Yra,Yra,Andisheh,665000000,22166.67
+100,2,Yra,Yra,Yra,Aqdasieh,7000000000,233333.33
+66,2,Yra,Yra,Nera,Punak,2650000000,88333.33
+200,3,Yra,Yra,Yra,Niavaran,29000000000,966666.67
+170,3,Yra,Yra,Yra,Niavaran,22100000000,736666.67
+100,2,Yra,Yra,Yra,Gheitarieh,8300000000,276666.67
+90,1,Yra,Yra,Yra,Kamranieh,10000000000,333333.33
+200,3,Yra,Yra,Yra,Niavaran,14000000000,466666.67
+51,1,Yra,Nera,Yra,Ray - Montazeri,1250000000,41666.67
+70,2,Yra,Yra,Nera,Punak,2680000000,89333.33
+73,2,Yra,Yra,Nera,West Ferdows Boulevard,2200000000,73333.33
+245,2,Nera,Nera,Nera,Islamshahr,7800000000,260000
+87,2,Yra,Yra,Yra,Darabad,5850000000,195000
+120,2,Yra,Yra,Yra,Velenjak,9000000000,300000
+171,3,Yra,Yra,Yra,Elahieh,12825000000,427500
+66,2,Yra,Yra,Nera,Punak,2460000000,82000
+77,2,Yra,Yra,Yra,Aqdasieh,5200000000,173333.33
+40,1,Yra,Yra,Nera,Narmak,1250000000,41666.67
+105,2,Yra,Yra,Yra,Shahr-e-Ziba,2800000000,93333.33
+50,1,Yra,Yra,Yra,Ozgol,3000000000,100000
+94,2,Yra,Yra,Nera,Amirabad,3400000000,113333.33
+65,2,Yra,Yra,Nera,West Ferdows Boulevard,2150000000,71666.67
+57,1,Yra,Yra,Nera,Valiasr,750000000,25000
+79,2,Yra,Yra,Yra,Parand,410000000,13666.67
+60,2,Nera,Yra,Nera,Jeyhoon,650000000,21666.67
+68,2,Yra,Yra,Yra,West Ferdows Boulevard,2300000000,76666.67
+86,2,Yra,Yra,Nera,Firoozkooh Kuhsar,750000000,25000
+80,2,Yra,Yra,Yra,West Ferdows Boulevard,2700000000,90000
+68,2,Yra,Yra,Nera,West Ferdows Boulevard,2300000000,76666.67
+43,1,Yra,Yra,Nera,Narmak,1330000000,44333.33
+55,1,Yra,Yra,Yra,West Ferdows Boulevard,1900000000,63333.33
+77,2,Yra,Yra,Yra,Northern Janatabad,2680000000,89333.33
+58,1,Nera,Nera,Nera,Parand,315000000,10500
+62,1,Yra,Nera,Yra,Ostad Moein,1440000000,48000
+65,2,Yra,Yra,Nera,West Ferdows Boulevard,2200000000,73333.33
+60,1,Yra,Yra,Yra,Salsabil,1530000000,51000
+35,1,Nera,Yra,Nera,Salsabil,660000000,22000
+54,1,Nera,Yra,Nera,Azarbaijan,1100000000,36666.67
+70,2,Yra,Yra,Yra,Southern Program Organization,2250000000,75000
+122,3,Yra,Yra,Yra,Ghoba,6700000000,223333.33
+54,1,Nera,Yra,Nera,Salsabil,901000000,30033.33
+80,2,Yra,Yra,Yra,Shahryar,850000000,28333.33
+71,2,Yra,Yra,Yra,Salsabil,1750000000,58333.33
+220,4,Yra,Yra,Nera,Shahryar,7500000000,250000
+61,1,Nera,Yra,Nera,Qasr-od-Dasht,838000000,27933.33
+49,1,Nera,Yra,Nera,Hashemi,1078000000,35933.33
+55,2,Yra,Yra,Yra,Salsabil,1349550000,44985
+41,1,Nera,Yra,Nera,Hashemi,840000000,28000
+64,2,Yra,Yra,Nera,Salsabil,1100000000,36666.67
+240,4,Yra,Yra,Nera,Andisheh,4300000000,143333.33
+32,1,Nera,Yra,Nera,Hashemi,610000000,20333.33
+52,1,Nera,Yra,Nera,Hashemi,960000000,32000
+50,1,Nera,Yra,Nera,Salsabil,640000000,21333.33
+32,1,Nera,Yra,Yra,Eskandari,940000000,31333.33
+40,1,Yra,Yra,Yra,Azarbaijan,1150000000,38333.33
+73,1,Nera,Yra,Yra,Komeil,1460000000,48666.67
+50,1,Yra,Yra,Nera,Andisheh,755000000,25166.67
+45,1,Nera,Yra,Nera,Jeyhoon,745000000,24833.33
+65,2,Yra,Yra,Nera,Qasr-od-Dasht,1280000000,42666.67
+51,1,Yra,Yra,Yra,Salsabil,1150000000,38333.33
+300,3,Yra,Yra,Nera,Golestan,24000000000,800000
+100,2,Yra,Yra,Nera,Pardis,2700000000,90000
+55,2,Yra,Yra,Yra,Azarbaijan,1000000000,33333.33
+200,2,Nera,Nera,Nera,Kahrizak,2650000000,88333.33
+38,1,Yra,Yra,Yra,Karoon,1140000000,38000
+140,3,Yra,Yra,Yra,Farmanieh,9300000000,310000
+42,1,Nera,Yra,Nera,,640000000,21333.33
+58,1,Yra,Yra,Nera,CeNeral Janatabad,2000000000,66666.67
+67,2,Nera,Yra,Yra,Jeyhoon,1200000000,40000
+57,1,Yra,Yra,Nera,Salsabil,870000000,29000
+53,2,Yra,Yra,Nera,Jeyhoon,1100000000,36666.67
+95,2,Yra,Yra,Yra,Niavaran,8900000000,296666.67
+128,3,Yra,Yra,Yra,Pirouzi,4350000000,145000
+62,2,Nera,Nera,Yra,Parand,350000000,11666.67
+60,1,Nera,Yra,Nera,Salsabil,1130000000,37666.67
+52,1,Yra,Yra,Nera,Salsabil,1100000000,36666.67
+52,1,Nera,Yra,Nera,Jeyhoon,1150100000,38336.67
+45,1,Nera,Yra,Yra,Karoon,965000000,32166.67
+60,1,Yra,Yra,Yra,Ekhtiarieh,3000000000,100000
+83,2,Nera,Yra,Yra,Valiasr,1700000000,56666.67
+211,3,Yra,Yra,Yra,Marzdaran,15800000000,526666.67
+65,2,Yra,Yra,Nera,Karoon,1430000000,47666.67
+115,2,Nera,Yra,Nera,Ostad Moein,1300000000,43333.33
+70,2,Yra,Yra,Nera,CeNeral Janatabad,2100000000,70000
+51,1,Nera,Yra,Nera,Salsabil,870000000,29000
+100,2,Yra,Yra,Yra,Niavaran,7500000000,250000
+115,2,Yra,Yra,Yra,Zaferanieh,10200000000,340000
+160,3,Yra,Yra,Yra,Niavaran,17500000000,583333.33
+107,2,Yra,Yra,Yra,Hekmat,6500000000,216666.67
+82,2,Yra,Nera,Yra,Parand,500000000,16666.67
+135,2,Yra,Yra,Yra,Zaferanieh,18000000000,600000
+198,3,Yra,Yra,Yra,Ekhtiarieh,18000000000,600000
+85,2,Yra,Yra,Yra,Andisheh,1100000000,36666.67
+92,2,Yra,Yra,Yra,Shams Abad,3250000000,108333.33
+115,2,Yra,Yra,Yra,Zaferanieh,18000000000,600000
+137,3,Yra,Yra,Yra,ShahrAra,7200000000,240000
+65,1,Yra,Yra,Yra,East Ferdows Boulevard,2170000000,72333.33
+175,3,Yra,Yra,Yra,Farmanieh,22000000000,733333.33
+95,2,Yra,Yra,Yra,Gheitarieh,9800000000,326666.67
+225,3,Yra,Yra,Yra,Farmanieh,38500000000,1283333.33
+270,4,Yra,Yra,Yra,Niavaran,35000000000,1166666.67
+200,3,Yra,Yra,Yra,Niavaran,34000000000,1133333.33
+60,1,Yra,Yra,Yra,Northern Chitgar,1200000000,40000
+88,2,Nera,Yra,Yra,Shams Abad,3350000000,111666.67
+250,3,Yra,Yra,Yra,Niavaran,34000000000,1133333.33
+55,1,Nera,Yra,Nera,Pirouzi,1600000000,53333.33
+91,2,Yra,Yra,Yra,Ostad Moein,2435000000,81166.67
+80,2,Yra,Yra,Nera,Punak,2800000000,93333.33
+74,2,Nera,Nera,Nera,Parand,440000000,14666.67
+90,2,Yra,Yra,Nera,Pirouzi,1700000000,56666.67
+43,1,Nera,Yra,Yra,Si Metri Ji,750000000,25000
+78,2,Nera,Yra,Yra,Parand,430000000,14333.33
+72,2,Yra,Nera,Yra,Parand,385000000,12833.33
+100,2,Nera,Nera,Nera,Kahrizak,1200000000,40000
+110,2,Yra,Nera,Nera,Amirabad,4000000000,133333.33
+62,1,Nera,Yra,Nera,Islamshahr,580000000,19333.33
+120,1,Nera,Nera,Nera,Afsarieh,3150000000,105000
+120,2,Yra,Yra,Yra,Ekhtiarieh,9000000000,300000
+64,2,Yra,Yra,Yra,Ostad Moein,1790000000,59666.67
+147,3,Yra,Yra,Yra,Saadat Abad,9114000000,303800
+140,3,Yra,Yra,Yra,Kamranieh,8100000000,270000
+170,3,Yra,Yra,Yra,Heravi,7990000000,266333.33
+109,2,Yra,Yra,Yra,Heravi,7100000000,236666.67
+310,3,Yra,Yra,Yra,Aqdasieh,74400000000,2480000
+283,3,Yra,Yra,Yra,Farmanieh,33840000000,1128000
+66,1,Nera,Nera,Nera,Shahedshahr,297000000,9900
+75,2,Nera,Yra,Nera,Golestan,600000000,20000
+63,2,Yra,Yra,Yra,Ostad Moein,1670000000,55666.67
+77,2,Yra,Yra,Yra,Gholhak,6200000000,206666.67
+59,2,Yra,Yra,Yra,Shahr-e-Ziba,1600000000,53333.33
+220,5,Yra,Nera,Nera,Andisheh,6500000000,216666.67
+66,2,Yra,Yra,Nera,Southern Program Organization,2000000000,66666.67
+80,2,Yra,Yra,Nera,Shahr-e-Ziba,2450000000,81666.67
+55,1,Nera,Nera,Yra,Northren Jamalzadeh,1540000000,51333.33
+63,2,Nera,Yra,Nera,Andisheh,410000000,13666.67
+92,2,Yra,Yra,Yra,Punak,4000000000,133333.33
+88,2,Yra,Yra,Yra,Shahrake Gharb,5250000000,175000
+98,2,Yra,Yra,Yra,Pardis,770000000,25666.67
+75,2,Yra,Yra,Yra,Jeyhoon,1980000000,66000
+114,2,Yra,Yra,Yra,Pakdasht,1100000000,36666.67
+80,2,Yra,Yra,Yra,Punak,3000000000,100000
+50,1,Nera,Nera,Nera,Shahrake Qods,380000000,12666.67
+66,2,Yra,Yra,Yra,Punak,2950000000,98333.33
+102,2,Yra,Yra,Yra,Sattarkhan,650000000,21666.67
+72,2,Yra,Yra,Yra,Punak,3200000000,106666.67
+62,1,Nera,Nera,Nera,Qasr-od-Dasht,1860000000,62000
+110,2,Nera,Yra,Yra,Pakdasht,840000000,28000
+70,2,Yra,Yra,Yra,Zafar,5250000000,175000
+115,2,Yra,Yra,Yra,Saadat Abad,6000000000,200000
+55,1,Nera,Yra,Nera,West Ferdows Boulevard,1550000000,51666.67
+71,2,Yra,Yra,Nera,Jeyhoon,1780000000,59333.33
+58,1,Yra,Yra,Yra,West Ferdows Boulevard,2050000000,68333.33
+125,2,Yra,Yra,Yra,Shahrake Qods,1375000000,45833.33
+42,1,Yra,Nera,Yra,Shahran,1750000000,58333.33
+66,2,Yra,Yra,Nera,Narmak,2200000000,73333.33
+65,1,Nera,Nera,Nera,,650000000,21666.67
+130,4,Nera,Nera,Nera,Mehrabad,6200000000,206666.67
+65,1,Yra,Yra,Yra,Southern Program Organization,2450000000,81666.67
+39,1,Nera,Nera,Nera,Salsabil,760000000,25333.33
+60,2,Nera,Yra,Yra,Qasr-od-Dasht,1850000000,61666.67
+75,2,Yra,Yra,Yra,Salsabil,2260000000,75333.33
+70,1,Nera,Yra,Nera,Salsabil,1180000000,39333.33
+57,2,Yra,Yra,Yra,Salsabil,1600000000,53333.33
+39,1,Nera,Yra,Nera,Salsabil,800000000,26666.67
+70,2,Nera,Nera,Nera,Tehran Now,1700000000,56666.67
+110,2,Yra,Yra,Yra,Ekhtiarieh,6500000000,216666.67
+47,1,Nera,Yra,Nera,Qasr-od-Dasht,870000000,29000
+114,2,Nera,Nera,Nera,Northern Suhrawardi,6500000000,216666.67
+60,1,Nera,Yra,Yra,Southern Suhrawardi,2210000000,73666.67
+115,3,Yra,Yra,Yra,Islamshahr,1650000000,55000
+110,3,Yra,Yra,Yra,Heravi,5850000000,195000
+78,2,Yra,Yra,Yra,Jeyhoon,2050000000,68333.33
+80,2,Yra,Yra,Yra,Ekhtiarieh,4400000000,146666.67
+78,2,Nera,Nera,Yra,Parand,420000000,14000
+73,2,Yra,Yra,Nera,Andisheh,868000000,28933.33
+95,2,Yra,Yra,Yra,Andisheh,1200000000,40000
+63,2,Yra,Yra,Nera,Azarbaijan,1390000000,46333.33
+98,2,Yra,Yra,Yra,Andisheh,1370000000,45666.67
+105,2,Yra,Yra,Yra,Islamshahr,1500000000,50000
+50,1,Yra,Yra,Nera,Tehransar,1250000000,41666.67
+51,1,Nera,Yra,Yra,Kahrizak,610000000,20333.33
+125,2,Yra,Yra,Yra,Dezashib,11250000000,375000
+105,3,Yra,Yra,Yra,Kahrizak,1155000000,38500
+55,1,Nera,Yra,Yra,Kahrizak,660000000,22000
+105,2,Yra,Yra,Yra,Kahrizak,1160000000,38666.67
+105,3,Yra,Yra,Yra,Kahrizak,1312000000,43733.33
+70,2,Yra,Yra,Yra,Kahrizak,714000000,23800
+82,2,Yra,Yra,Yra,Kahrizak,820000000,27333.33
+50,1,Yra,Yra,Yra,Mirdamad,3250000000,108333.33
+105,2,Yra,Yra,Yra,Pardis,760000000,25333.33
+110,2,Yra,Yra,Yra,Gholhak,8800000000,293333.33
+85,2,Yra,Yra,Yra,Kahrizak,850000000,28333.33
+78,2,Yra,Yra,Nera,Punak,3100000000,103333.33
+106,2,Yra,Yra,Yra,Pardis,505000000,16833.33
+95,2,Yra,Yra,Yra,Gheitarieh,5700000000,190000
+62,1,Yra,Nera,Yra,Tehransar,1530000000,51000
+78,2,Nera,Nera,Nera,Damavand,490000000,16333.33
+225,4,Yra,Yra,Yra,Kamranieh,20250000000,675000
+72,2,Yra,Yra,Nera,Shahran,2600000000,86666.67
+50,1,Yra,Nera,Nera,Parand,375000000,12500
+50,1,Nera,Yra,Nera,Abuzar,850000000,28333.33
+103,2,Nera,Yra,Nera,Northern Suhrawardi,3900000000,130000
+47,1,Yra,Yra,Nera,Dolatabad,695000000,23166.67
+90,2,Yra,Yra,Yra,Karoon,2000000000,66666.67
+80,2,Yra,Yra,Yra,Punak,3760000000,125333.33
+450,4,Yra,Yra,Yra,Niavaran,25000000000,833333.33
+72,2,Yra,Yra,Yra,Salsabil,1700000000,56666.67
+258,4,Yra,Yra,Nera,Jordan,12000000000,400000
+98,2,Yra,Yra,Yra,Salsabil,2630000000,87666.67
+130,3,Nera,Yra,Nera,Shahrake Qods,600000000,20000
+700,3,Yra,Yra,Nera,Damavand,4500000000,150000
+104,2,Yra,Yra,Yra,Shahrake Qods,900000000,30000
+140,3,Yra,Yra,Yra,Ekhtiarieh,11000000000,366666.67
+96,2,Yra,Yra,Yra,Shahran,3500000000,116666.67
+58,1,Nera,Yra,Nera,Shahrake Qods,400000000,13333.33
+150,3,Yra,Yra,Yra,Salsabil,4500000000,150000
+55,2,Yra,Yra,Nera,Shahran,1870000000,62333.33
+60,1,Nera,Nera,Nera,Shahrake Qods,430000000,14333.33
+98,2,Yra,Yra,Yra,Pardis,790000000,26333.33
+85,2,Yra,Yra,Yra,Shahrake Qods,670000000,22333.33
+85,2,Yra,Nera,Yra,Elm-o-Sanat,3350000000,111666.67
+97,2,Yra,Yra,Yra,Punak,4700000000,156666.67
+80,2,Yra,Yra,Yra,Hor Square,1874500000,62483.33
+57,1,Nera,Nera,Yra,Niavaran,3600000000,120000
+63,1,Yra,Yra,Nera,Jeyhoon,1200000000,40000
+85,2,Yra,Yra,Yra,Hor Square,1957300000,65243.33
+70,2,Yra,Yra,Yra,Hor Square,400000000,13333.33
+100,2,Yra,Yra,Yra,Hor Square,2283900000,76130
+90,2,Yra,Yra,Yra,Hor Square,2071150000,69038.33
+75,2,Nera,Nera,Nera,Parand,365000000,12166.67
+42,1,Yra,Nera,Nera,Nezamabad,835000000,27833.33
+250,4,Yra,Yra,Yra,Zaferanieh,18750000000,625000
+83,2,Yra,Yra,Yra,Dolatabad,1490000000,49666.67
+90,2,Yra,Yra,Yra,Damavand,605000000,20166.67
+72,2,Yra,Yra,Yra,Razi,1206000000,40200
+52,1,Nera,Nera,Nera,Damavand,375000000,12500
+106,2,Yra,Yra,Yra,Damavand,2360000000,78666.67
+73,2,Yra,Yra,Yra,Parand,385000000,12833.33
+100,2,Yra,Yra,Yra,Razi,1850000000,61666.67
+85,2,Yra,Yra,Nera,Shahrake Qods,640000000,21333.33
+49,1,Nera,Nera,Nera,Abuzar,1020000000,34000
+115,2,Yra,Yra,Yra,East Pars,5400000000,180000
+127,2,Yra,Yra,Yra,Narmak,4826000000,160866.67
+93,2,Nera,Yra,Yra,Gisha,3600000000,120000
+47,1,Nera,Nera,Nera,Islamshahr,295000000,9833.33
+117,3,Yra,Yra,Yra,Tarasht,4440000000,148000
+182,3,Yra,Yra,Yra,Marzdaran,11600000000,386666.67
+160,3,Yra,Yra,Yra,Azarbaijan,3000000000,100000
+181,3,Yra,Yra,Yra,Marzdaran,13000000000,433333.33
+163,3,Yra,Yra,Yra,Marzdaran,11100000000,370000
+83,2,Yra,Yra,Nera,Damavand,1550000000,51666.67
+142,3,Yra,Yra,Yra,Heravi,6465000000,215500
+92,2,Yra,Yra,Yra,Pardis,565000000,18833.33
+100,2,Yra,Nera,Yra,Parand,900000000,30000
+60,1,Yra,Yra,Nera,Parand,660000000,22000
+58,1,Nera,Nera,Yra,Parand,320000000,10666.67
+58,1,Nera,Nera,Yra,Parand,320000000,10666.67
+85,2,Yra,Yra,Yra,Pardis,650000000,21666.67
+87,2,Yra,Yra,Yra,Pardis,680000000,22666.67
+78,2,Nera,Nera,Yra,Parand,370000000,12333.33
+88,1,Nera,Nera,Yra,Parand,380000000,12666.67
+210,4,Yra,Yra,Nera,Narmak,23000000000,766666.67
+72,2,Yra,Yra,Yra,Razi,411000000,13700
+101,2,Yra,Yra,Yra,Feiz Garden,4550000000,151666.67
+68,2,Nera,Yra,Yra,Parand,310000000,10333.33
+60,1,Nera,Yra,Yra,Islamshahr,660000000,22000
+65,2,Nera,Yra,Yra,Islamshahr,780000000,26000
+117,2,Yra,Yra,Yra,Shahrake Gharb,10600000000,353333.33
+96,1,Nera,Nera,Nera,Islamshahr,1700000000,56666.67
+98,2,Yra,Yra,Yra,Pardis,910000000,30333.33
+52,1,Yra,Yra,Nera,Andisheh,670000000,22333.33
+85,2,Yra,Yra,Yra,Punak,3400000000,113333.33
+62,2,Yra,Yra,Yra,Punak,1750000000,58333.33
+74,2,Nera,Nera,Nera,Parand,420000000,14000
+74,2,Nera,Nera,Yra,Parand,305000000,10166.67
+58,1,Nera,Nera,Nera,Parand,255000000,8500
+125,3,Yra,Yra,Nera,Parand,1650000000,55000
+75,2,Nera,Nera,Yra,Parand,345000000,11500
+58,5,Nera,Nera,Yra,Parand,295000000,9833.33
+74,2,Yra,Yra,Yra,Parand,900000000,30000
+45,1,Nera,Yra,Yra,Pirouzi,1250000000,41666.67
+58,1,Yra,Yra,Yra,Parand,275000000,9166.67
+75,2,Nera,Nera,Nera,Parand,245000000,8166.67
+75,2,Yra,Nera,Yra,Parand,305000000,10166.67
+88,2,Yra,Yra,Yra,Southern Janatabad,3500000000,116666.67
+130,2,Yra,Yra,Nera,Jeyhoon,5200000000,173333.33
+120,2,Yra,Yra,Yra,Majidieh,1620000000,54000
+85,2,Yra,Yra,Yra,CeNeral Janatabad,3300000000,110000
+150,3,Yra,Yra,Yra,Punak,6800000000,226666.67
+165,3,Yra,Yra,Yra,Gheitarieh,9850000000,328333.33
+240,4,Yra,Yra,Nera,Andisheh,5700000000,190000
+76,2,Yra,Yra,Nera,West Ferdows Boulevard,1990000000,66333.33
+120,2,Yra,Yra,Yra,Shahrake Gharb,9800000000,326666.67
+165,3,Nera,Yra,Nera,Heshmatieh,4125000000,137500
+165,3,Nera,Yra,Nera,Heshmatieh,4125000000,137500
+130,2,Yra,Yra,Nera,Jeyhoon,5200000000,173333.33
+73,2,Yra,Nera,Nera,CeNeral Janatabad,2750000000,91666.67
+70,2,Yra,Yra,Yra,East Ferdows Boulevard,2750000000,91666.67
+120,3,Yra,Yra,Yra,Shahr-e-Ziba,4530000000,151000
+79,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,2500000000,83333.33
+90,2,Yra,Yra,Yra,Shahrake Qods,980000000,32666.67
+128,2,Nera,Yra,Nera,Parand,950000000,31666.67
+75,2,Yra,Yra,Yra,Southern Janatabad,2300000000,76666.67
+94,2,Yra,Yra,Yra,Taslihat,2650000000,88333.33
+106,2,Yra,Yra,Yra,Pakdasht,900000000,30000
+72,2,Yra,Yra,Yra,Punak,2300000000,76666.67
+208,2,Yra,Yra,Nera,Persian Gulf Martyrs Lake,11500000000,383333.33
+126,3,Yra,Yra,Yra,Zafar,7676000000,255866.67
+105,2,Yra,Yra,Nera,Rudhen,1100000000,36666.67
+216,4,Yra,Yra,Nera,Andisheh,5700000000,190000
+92,2,Nera,Yra,Yra,Kazemabad,3000000000,100000
+80,2,Yra,Yra,Yra,Si Metri Ji,1410000000,47000
+130,1,Yra,Yra,Nera,Damavand,8500000000,283333.33
+300,4,Yra,Yra,Yra,Tajrish,9000000000,300000
+73,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,2200000000,73333.33
+100,2,Nera,Yra,Yra,Shahedshahr,700000000,23333.33
+80,2,Yra,Yra,Nera,Islamshahr,1100000000,36666.67
+105,2,Yra,Yra,Yra,Feiz Garden,4550000000,151666.67
+59,1,Yra,Yra,Yra,Narmak,2100000000,70000
+41,1,Yra,Yra,Nera,Si Metri Ji,780000000,26000
+85,2,Yra,Yra,Yra,Zafar,5000000000,166666.67
+66,1,Nera,Yra,Nera,Shahran,1850000000,61666.67
+90,2,Yra,Yra,Yra,Ekhtiarieh,6000000000,200000
+78,2,Nera,Nera,Yra,Parand,405000000,13500
+113,2,Yra,Yra,Nera,Islamshahr,1520000000,50666.67
+88,2,Yra,Yra,Yra,CeNeral Janatabad,4000000000,133333.33
+96,2,Nera,Nera,Nera,Haft Tir,2850000000,95000
+180,5,Yra,Yra,Nera,Shahrake Gharb,28800000000,960000
+59,2,Nera,Yra,Nera,Karoon,1070000000,35666.67
+58,2,Nera,Yra,Yra,Qasr-od-Dasht,1270000000,42333.33
+46,1,Nera,Yra,Nera,Jeyhoon,1013000000,33766.67
+67,1,Yra,Yra,Yra,Shams Abad,2600000000,86666.67
+57,2,Nera,Nera,Nera,Salsabil,1090000000,36333.33
+95,2,Yra,Yra,Yra,CeNeral Janatabad,4000000000,133333.33
+73,1,Yra,Yra,Yra,Pakdasht,480000000,16000
+87,2,Yra,Yra,Yra,Pardis,658000000,21933.33
+122,4,Yra,Nera,Yra,Keshavarz Boulevard,2420000000,80666.67
+50,1,Nera,Nera,Nera,Karoon,1000000000,33333.33
+62,1,Nera,Nera,Nera,Karoon,1020000000,34000
+86,2,Yra,Yra,Yra,Pasdaran,5400000000,180000
+53,1,Nera,Nera,Nera,Jeyhoon,900000000,30000
+100,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,435000000,14500
+55,1,Yra,Yra,Nera,Robat Karim,305000000,10166.67
+58,1,Nera,Nera,Yra,Parand,305000000,10166.67
+78,2,Yra,Yra,Nera,Islamshahr,1000000000,33333.33
+145,3,Yra,Yra,Yra,Elahieh,10150000000,338333.33
+110,2,Yra,Yra,Yra,Yousef Abad,6000000000,200000
+64,1,Yra,Yra,Yra,Robat Karim,350000000,11666.67
+86,2,Nera,Yra,Nera,East Pars,1204000000,40133.33
+75,2,Nera,Nera,Nera,Damavand,520000000,17333.33
+110,2,Yra,Yra,Yra,Feiz Garden,4550000000,151666.67
+71,2,Nera,Nera,Nera,West Ferdows Boulevard,2000000000,66666.67
+90,2,Yra,Yra,Yra,Southern Janatabad,3750000000,125000
+63,1,Yra,Nera,Yra,Pirouzi,2153000000,71766.67
+85,2,Yra,Nera,Yra,Pardis,730000000,24333.33
+83,2,Yra,Yra,Yra,Pasdaran,4700000000,156666.67
+175,3,Yra,Yra,Yra,Elahieh,17500000000,583333.33
+57,1,Yra,Yra,Yra,Pasdaran,3700000000,123333.33
+66,2,Nera,Nera,Nera,Feiz Garden,1750000000,58333.33
+74,2,Yra,Yra,Yra,Shahran,2390000000,79666.67
+45,1,Yra,Nera,Yra,Ray - Pilgosh,990000000,33000
+78,2,Yra,Yra,Yra,Ekhtiarieh,4700000000,156666.67
+75,2,Nera,Yra,Yra,Parand,280000000,9333.33
+103,2,Yra,Yra,Yra,Islamshahr,1442000000,48066.67
+61,1,Nera,Nera,Nera,Feiz Garden,1800000000,60000
+124,3,Yra,Yra,Yra,Shahr-e-Ziba,3900000000,130000
+62,1,Nera,Nera,Nera,Damavand,710000000,23666.67
+110,2,Yra,Yra,Yra,Gholhak,7000000000,233333.33
+180,3,Yra,Yra,Yra,Pasdaran,13000000000,433333.33
+40,1,Yra,Yra,Nera,Andisheh,260000000,8666.67
+95,2,Yra,Yra,Yra,Republic,1450000000,48333.33
+104,2,Yra,Yra,Nera,Tehran Now,2200000000,73333.33
+37,1,Yra,Yra,Nera,Andisheh,345000000,11500
+60,1,Yra,Yra,Nera,Shahryar,600000000,20000
+69,2,Yra,Yra,Yra,Shahran,2600000000,86666.67
+700,3,Yra,Yra,Nera,Damavand,7000000000,233333.33
+60,1,Yra,Yra,Yra,Northern Chitgar,875000000,29166.67
+95,2,Yra,Nera,Yra,Niavaran,9000000000,300000
+51,1,Yra,Yra,Nera,Andisheh,670000000,22333.33
+106,2,Yra,Yra,Yra,Zargandeh,5600000000,186666.67
+100,2,Yra,Yra,Yra,Narmak,3200000000,106666.67
+80,2,Yra,Yra,Yra,Koohsar,2400000000,80000
+78,2,Yra,Yra,Yra,Ghiyamdasht,640000000,21333.33
+90,2,Yra,Yra,Yra,Damavand,1350000000,45000
+95,2,Nera,Yra,Yra,Saadat Abad,9500000000,316666.67
+86,3,Nera,Yra,Yra,Parand,330000000,11000
+65,1,Yra,Yra,Yra,Golestan,360000000,12000
+102,1,Nera,Yra,Nera,Islamshahr,1650000000,55000
+75,2,Yra,Yra,Yra,Southern Janatabad,2700000000,90000
+150,5,Yra,Yra,Nera,Shahr-e-Ziba,10700000000,356666.67
+60,1,Yra,Yra,Yra,Parand,390000000,13000
+72,1,Yra,Yra,Yra,Elahieh,8250000000,275000
+93,2,Nera,Nera,Nera,Pirouzi,5500000000,183333.33
+106,2,Yra,Yra,Yra,Gholhak,6400000000,213333.33
+48,1,Nera,Yra,Nera,Shahedshahr,210000000,7000
+75,2,Yra,Yra,Nera,Southern Janatabad,2100000000,70000
+163,2,Yra,Yra,Yra,Farmanieh,9780000000,326000
+138,3,Yra,Yra,Yra,Kahrizak,1242000000,41400
+119,2,Yra,Yra,Yra,Shahran,4000000000,133333.33
+65,2,Yra,Yra,Yra,Abazar,2500000000,83333.33
+57,1,Nera,Nera,Yra,Pakdasht,450000000,15000
+74,2,Nera,Yra,Yra,Telecommunication,780000000,26000
+119,3,Yra,Yra,Yra,Shahran,5500000000,183333.33
+75,2,Nera,Yra,Yra,Parand,280000000,9333.33
+68,1,Nera,Nera,Nera,Islamshahr,815000000,27166.67
+180,4,Yra,Yra,Yra,Northern Chitgar,2720000000,90666.67
+70,1,Yra,Yra,Yra,Hakimiyeh,2310000000,77000
+58,1,Nera,Nera,Nera,Parand,255000000,8500
+60,1,Yra,Yra,Yra,Qasr-od-Dasht,1985000000,66166.67
+88,2,Nera,Yra,Nera,Air force,2500000000,83333.33
+82,2,Yra,Yra,Yra,Shahran,2800000000,93333.33
+63,1,Yra,Yra,Yra,Ray,1134000000,37800
+120,3,Yra,Yra,Yra,Northern Chitgar,1750000000,58333.33
+56,1,Nera,Nera,Nera,Republic,1900000000,63333.33
+75,2,Yra,Nera,Yra,Saadat Abad,3850000000,128333.33
+60,1,Nera,Yra,Nera,Golestan,420000000,14000
+50,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,330000000,11000
+253,5,Yra,Yra,Nera,North Program Organization,30360000000,1012000
+111,2,Yra,Yra,Yra,East Ferdows Boulevard,3990000000,133000
+105,3,Yra,Yra,Yra,North Program Organization,5985000000,199500
+92,1,Yra,Yra,Yra,Niavaran,6300000000,210000
+350,4,Yra,Yra,Yra,Gheitarieh,35000000000,1166666.67
+100,2,Yra,Yra,Yra,Mirza Shirazi,4100000000,136666.67
+150,3,Yra,Yra,Yra,Northern Chitgar,2240000000,74666.67
+94,2,Nera,Yra,Nera,Northren Jamalzadeh,2400000000,80000
+140,3,Yra,Yra,Yra,Northren Jamalzadeh,6700000000,223333.33
+65,4,Yra,Yra,Nera,Yousef Abad,8500000000,283333.33
+84,2,Yra,Yra,Yra,Northren Jamalzadeh,2600000000,86666.67
+114,2,Yra,Yra,Yra,Mehran,6840000000,228000
+114,2,Yra,Yra,Yra,Northren Jamalzadeh,5500000000,183333.33
+40,1,Yra,Nera,Yra,Northren Jamalzadeh,1500000000,50000
+82,2,Nera,Nera,Yra,Parand,353000000,11766.67
+87,2,Yra,Yra,Yra,Koohsar,2350000000,78333.33
+86,2,Nera,Nera,Yra,Parand,470000000,15666.67
+500,5,Yra,Yra,Nera,Gandhi,70000000000,2333333.33
+61,1,Nera,Yra,Nera,Shahr-e-Ziba,1490000000,49666.67
+96,2,Yra,Yra,Yra,Shahr-e-Ziba,5280000000,176000
+90,2,Yra,Yra,Yra,Shahran,3400000000,113333.33
+135,3,Yra,Yra,Yra,Northren Jamalzadeh,6000000000,200000
+58,1,Nera,Nera,Yra,Parand,295000000,9833.33
+114,2,Yra,Yra,Yra,Gholhak,7550000000,251666.67
+75,2,Nera,Nera,Nera,Parand,380000000,12666.67
+90,2,Yra,Yra,Yra,Northren Jamalzadeh,3450000000,115000
+90,2,Yra,Yra,Yra,Shahr-e-Ziba,2900000000,96666.67
+90,2,Yra,Yra,Yra,Shahr-e-Ziba,2900000000,96666.67
+100,2,Yra,Yra,Yra,Narmak,3800000000,126666.67
+82,2,Yra,Yra,Yra,Si Metri Ji,1600000000,53333.33
+58,2,Yra,Yra,Nera,Andisheh,754000000,25133.33
+70,2,Yra,Yra,Yra,Karimkhan,3200000000,106666.67
+303,5,Yra,Yra,Nera,Argentina,33330000000,1111000
+83,2,Nera,Nera,Yra,Parand,500000000,16666.67
+75,2,Yra,Yra,Yra,Parand,250000000,8333.33
+114,2,Yra,Yra,Yra,Mehran,6840000000,228000
+60,2,Yra,Yra,Nera,CeNeral Janatabad,2100000000,70000
+54,1,Nera,Nera,Nera,Parand,260000000,8666.67
+85,2,Yra,Yra,Yra,,675000000,22500
+75,2,Yra,Yra,Yra,Parand,390000000,13000
+78,2,Yra,Nera,Yra,Parand,400000000,13333.33
+78,2,Nera,Nera,Yra,Parand,395000000,13166.67
+95,2,Yra,Yra,Yra,Marzdaran,4085000000,136166.67
+100,2,Yra,Yra,Yra,Ostad Moein,3150000000,105000
+75,2,Nera,Yra,Yra,Parand,397000000,13233.33
+114,2,Yra,Yra,Yra,Seyed Khandan,6840000000,228000
+50,1,Nera,Nera,Nera,Malard,250000000,8333.33
+75,2,Yra,Nera,Yra,Feiz Garden,2700000000,90000
+105,2,Yra,Yra,Yra,Afsarieh,2400000000,80000
+141,3,Yra,Yra,Yra,Shahrake Quds,2115000000,70500
+74,2,Nera,Yra,Nera,Pirouzi,1600000000,53333.33
+38,1,Yra,Yra,Nera,Fallah,650000000,21666.67
+80,1,Yra,Yra,Yra,Gheitarieh,850000000,28333.33
+102,2,Yra,Yra,Yra,Safadasht,938400000,31280
+110,2,Yra,Yra,Yra,Niavaran,10640000000,354666.67
+98,2,Nera,Nera,Nera,Shahrake Qods,830000000,27666.67
+57,1,Yra,Yra,Yra,Ostad Moein,1600000000,53333.33
+45,1,Nera,Yra,Yra,Si Metri Ji,890000000,29666.67
+105,2,Yra,Yra,Yra,Jeyhoon,2500000000,83333.33
+135,2,Yra,Yra,Nera,Rudhen,3500000000,116666.67
+65,1,Nera,Nera,Yra,Saadat Abad,3490000000,116333.33
+88,2,Nera,Yra,Yra,Shahrake Quds,750000000,25000
+110,2,Yra,Yra,Yra,West Ferdows Boulevard,5050000000,168333.33
+63,2,Yra,Yra,Yra,Northren Jamalzadeh,2600000000,86666.67
+94,2,Nera,Yra,Nera,Northren Jamalzadeh,2400000000,80000
+45,1,Nera,Yra,Nera,Karoon,890000000,29666.67
+40,1,Nera,Yra,Nera,Azarbaijan,1000000000,33333.33
+100,2,Nera,Nera,Nera,Northren Jamalzadeh,3600000000,120000
+89,2,Yra,Yra,Nera,Amirabad,3500000000,116666.67
+65,2,Yra,Yra,Nera,Afsarieh,1330000000,44333.33
+125,2,Yra,Yra,Yra,CeNeral Janatabad,6250000000,208333.33
+125,2,Yra,Yra,Yra,CeNeral Janatabad,6250000000,208333.33
+136,3,Yra,Yra,Yra,Pasdaran,7300000000,243333.33
+150,3,Yra,Yra,Yra,Heravi,7600000000,253333.33
+55,1,Nera,Yra,Nera,West Ferdows Boulevard,1580000000,52666.67
+130,3,Yra,Yra,Yra,Seyed Khandan,8450000000,281666.67
+73,2,Nera,Yra,Nera,West Ferdows Boulevard,1840000000,61333.33
+85,2,Yra,Yra,Yra,Northren Jamalzadeh,3600000000,120000
+63,1,Yra,Yra,Yra,Ostad Moein,1380000000,46000
+100,2,Yra,Yra,Yra,Tajrish,5700000000,190000
+83,2,Yra,Yra,Yra,Ozgol,55000000,1833.33
+110,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3150000000,105000
+71,2,Yra,Yra,Yra,North Program Organization,2160000000,72000
+37,1,Nera,Yra,Nera,Hashemi,570000000,19000
+68,1,Yra,Yra,Yra,Persian Gulf Martyrs Lake,2100000000,70000
+78,1,Yra,Yra,Yra,Persian Gulf Martyrs Lake,2450000000,81666.67
+105,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3250000000,108333.33
+60,1,Yra,Yra,Nera,Punak,2000000000,66666.67
+113,2,Yra,Yra,Yra,Karimkhan,3170000000,105666.67
+300,5,Yra,Yra,Nera,Lavasan,25000000000,833333.33
+50,2,Nera,Yra,Nera,Jeyhoon,730000000,24333.33
+60,1,Nera,Yra,Nera,Beryanak,830000000,27666.67
+37,1,Nera,Nera,Nera,Ostad Moein,620000000,20666.67
+33,1,Nera,Yra,Nera,Beryanak,560000000,18666.67
+73,2,Nera,Yra,Yra,Jeyhoon,1580000000,52666.67
+59,1,Nera,Yra,Nera,Beryanak,880000000,29333.33
+95,2,Yra,Yra,Yra,Qarchak,1450000000,48333.33
+75,2,Nera,Nera,Nera,Parand,300000000,10000
+65,2,Nera,Yra,Yra,Ostad Moein,1550000000,51666.67
+52,1,Nera,Yra,Nera,Pirouzi,1250000000,41666.67
+105,2,Yra,Yra,Nera,Andisheh,1100000000,36666.67
+50,1,Nera,Yra,Nera,Ostad Moein,850000000,28333.33
+74,2,Yra,Yra,Yra,Pirouzi,2200000000,73333.33
+132,3,Yra,Nera,Yra,Southern Suhrawardi,6700000000,223333.33
+104,2,Yra,Yra,Yra,Mehran,4200000000,140000
+50,1,Nera,Nera,Nera,Jeyhoon,715000000,23833.33
+55,1,Yra,Yra,Yra,Komeil,1100000000,36666.67
+46,1,Nera,Nera,Nera,Komeil,700000000,23333.33
+55,2,Nera,Yra,Yra,Beryanak,1020000000,34000
+108,2,Yra,Yra,Nera,Parand,1150000000,38333.33
+68,2,Yra,Yra,Yra,Ostad Moein,1970000000,65666.67
+130,2,Yra,Yra,Yra,Khademabad Garden,1755000000,58500
+255,2,Yra,Yra,Yra,CeNeral Janatabad,2550000000,85000
+40,1,Nera,Yra,Nera,Tenant,1050000000,35000
+63,1,Nera,Nera,Yra,Tenant,1350000000,45000
+140,3,Yra,Yra,Yra,Mirdamad,8000000000,266666.67
+42,1,Yra,Yra,Yra,Jeyhoon,900000000,30000
+90,2,Yra,Yra,Yra,Tenant,3150000000,105000
+39,1,Yra,Yra,Nera,Andisheh,550000000,18333.33
+55,2,Yra,Yra,Yra,Andisheh,450000000,15000
+200,3,Yra,Yra,Yra,Shahrake Gharb,14000000000,466666.67
+98,2,Yra,Yra,Yra,Si Metri Ji,1950000000,65000
+71,2,Yra,Yra,Nera,Salsabil,1185000000,39500
+50,1,Nera,Nera,Yra,Tenant,1250000000,41666.67
+53,1,Nera,Yra,Nera,Tenant,1113000000,37100
+60,1,Yra,Yra,Yra,Punak,2750000000,91666.67
+160,3,Yra,Yra,Yra,Pakdasht,980000000,32666.67
+63,2,Yra,Nera,Yra,Tenant,1890000000,63000
+96,2,Yra,Yra,Yra,Tenant,2400000000,80000
+90,2,Yra,Yra,Yra,Tenant,2300000000,76666.67
+120,3,Yra,Yra,Yra,Tenant,3240000000,108000
+100,2,Yra,Yra,Yra,Tenant,2600000000,86666.67
+80,2,Yra,Yra,Yra,Ostad Moein,2440000000,81333.33
+43,1,Yra,Yra,Yra,Tenant,1200000000,40000
+79,2,Yra,Yra,Yra,Tenant,2930000000,97666.67
+50,1,Nera,Nera,Yra,Tenant,1200000000,40000
+60,1,Nera,Yra,Nera,Tenant,1120000000,37333.33
+55,1,Nera,Nera,Nera,Tenant,1420000000,47333.33
+150,3,Yra,Yra,Yra,Dezashib,12000000000,400000
+55,1,Yra,Yra,Yra,Andisheh,450000000,15000
+55,1,Nera,Yra,Nera,Tenant,1155000000,38500
+100,2,Yra,Yra,Yra,Tajrish,5700000000,190000
+60,1,Yra,Yra,Nera,Tenant,1400000000,46666.67
+96,2,Yra,Yra,Yra,Gisha,5500000000,183333.33
+112,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3300000000,110000
+65,2,Yra,Yra,Nera,Andisheh,600000000,20000
+100,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,1060000000,35333.33
+105,2,Yra,Yra,Yra,Yousef Abad,5600000000,186666.67
+125,3,Yra,Nera,Nera,Mirdamad,6500000000,216666.67
+48,1,Yra,Yra,Nera,Jeyhoon,995000000,33166.67
+67,2,Yra,Yra,Yra,Hakimiyeh,2170000000,72333.33
+83,2,Yra,Yra,Yra,Farmanieh,6200000000,206666.67
+150,3,Yra,Yra,Yra,Pardis,3900000000,130000
+100,2,Yra,Yra,Yra,Ostad Moein,3150000000,105000
+111,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3150000000,105000
+53,2,Nera,Nera,Nera,Tenant,1100000000,36666.67
+75,2,Nera,Nera,Yra,Parand,350000000,11666.67
+92,2,Yra,Yra,Yra,Sabalan,2300000000,76666.67
+53,1,Yra,Yra,Yra,Jeyhoon,1500000000,50000
+47,1,Nera,Yra,Nera,Karoon,800000000,26666.67
+330,3,Yra,Yra,Yra,Farmanieh,46200000000,1540000
+44,1,Yra,Yra,Nera,Jeyhoon,1040000000,34666.67
+80,2,Yra,Yra,Yra,Gheitarieh,6000000000,200000
+81,2,Yra,Yra,Nera,Valiasr,1800000000,60000
+117,3,Yra,Yra,Yra,Ostad Moein,3680000000,122666.67
+37,1,Nera,Yra,Nera,Azarbaijan,950000000,31666.67
+82,2,Yra,Yra,Yra,Parand,360000000,12000
+98,2,Yra,Yra,Yra,Si Metri Ji,1950000000,65000
+150,3,Nera,Yra,Nera,Zafar,6000000000,200000
+51,1,Yra,Yra,Nera,Hor Square,858500000,28616.67
+95,2,Yra,Yra,Yra,Shahran,3250000000,108333.33
+63,1,Yra,Yra,Yra,Ostad Moein,1280000000,42666.67
+80,2,Nera,Nera,Yra,Parand,390000000,13000
+133,3,Yra,Yra,Yra,Ekhtiarieh,8400000000,280000
+48,1,Nera,Nera,Yra,Fallah,710000000,23666.67
+185,3,Yra,Yra,Yra,East Ferdows Boulevard,9500000000,316666.67
+62,1,Yra,Yra,Yra,Fallah,806000000,26866.67
+75,2,Yra,Nera,Yra,Fallah,1200000000,40000
+48,1,Nera,Nera,Yra,Fallah,740000000,24666.67
+57,1,Yra,Yra,Yra,Ostad Moein,1600000000,53333.33
+55,3,Yra,Yra,Yra,Hashemi,1650000000,55000
+48,1,Yra,Yra,Yra,Ostad Moein,1350000000,45000
+49,1,Yra,Yra,Yra,Si Metri Ji,900000000,30000
+60,2,Nera,Yra,Yra,East Pars,1380000000,46000
+130,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,4150000000,138333.33
+70,2,Yra,Nera,Yra,Ray,1820000000,60666.67
+113,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3170000000,105666.67
+80,2,Yra,Yra,Yra,Abazar,3000000000,100000
+93,2,Yra,Yra,Nera,Shahrake Quds,650000000,21666.67
+60,1,Yra,Yra,Yra,Railway,870000000,29000
+56,2,Yra,Yra,Yra,East Pars,1550000000,51666.67
+65,2,Yra,Yra,Yra,CeNeral Janatabad,2620000000,87333.33
+68,2,Nera,Yra,Yra,Ostad Moein,1320000000,44000
+104,2,Yra,Yra,Yra,Si Metri Ji,1830000000,61000
+84,2,Yra,Yra,Yra,CeNeral Janatabad,3850000000,128333.33
+72,2,Yra,Yra,Nera,West Ferdows Boulevard,2000000000,66666.67
+80,2,Yra,Yra,Yra,Shahrake Qods,880000000,29333.33
+68,2,Yra,Yra,Yra,Ostad Moein,1970000000,65666.67
+44,1,Yra,Yra,Nera,Jeyhoon,1050000000,35000
+105,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,2700000000,90000
+124,3,Yra,Yra,Yra,Shahr-e-Ziba,3980000000,132666.67
+220,3,Yra,Yra,Yra,Niavaran,20900000000,696666.67
+83,2,Yra,Yra,Yra,West Ferdows Boulevard,2640000000,88000
+68,2,Yra,Yra,Yra,Ostad Moein,1970000000,65666.67
+115,2,Yra,Yra,Yra,West Ferdows Boulevard,4900000000,163333.33
+80,2,Yra,Yra,Yra,Ostad Moein,2250000000,75000
+66,1,Nera,Yra,Nera,Andisheh,750000000,25000
+68,2,Yra,Yra,Yra,West Ferdows Boulevard,2930000000,97666.67
+60,2,Yra,Yra,Yra,West Ferdows Boulevard,2550000000,85000
+62,2,Yra,Yra,Nera,Punak,2250000000,75000
+57,1,Yra,Yra,Yra,Ostad Moein,1600000000,53333.33
+87,2,Yra,Nera,Yra,Parastar,2500000000,83333.33
+59,1,Yra,Yra,Nera,West Ferdows Boulevard,1950000000,65000
+55,1,Yra,Yra,Yra,East Pars,1450000000,48333.33
+101,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,5252000000,175066.67
+62,2,Yra,Yra,Nera,Shahran,2100000000,70000
+113,2,Yra,Yra,Yra,Pasdaran,8475000000,282500
+78,2,Yra,Yra,Yra,Keshavarz Boulevard,3500000000,116666.67
+66,1,Yra,Yra,Nera,Shahrake Quds,520000000,17333.33
+38,1,Nera,Yra,Nera,Andisheh,320000000,10666.67
+90,2,Yra,Yra,Nera,Yousef Abad,6300000000,210000
+45,1,Nera,Nera,Nera,Karoon,680000000,22666.67
+72,2,Yra,Yra,Yra,Saadat Abad,4000000000,133333.33
+105,2,Yra,Yra,Yra,North Program Organization,4900000000,163333.33
+155,3,Yra,Yra,Yra,North Program Organization,5100000000,170000
+112,3,Yra,Yra,Yra,Abazar,4300000000,143333.33
+65,1,Yra,Yra,Yra,Hassan Abad,510000000,17000
+40,1,Yra,Yra,Yra,East Pars,1145000000,38166.67
+140,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3800000000,126666.67
+155,3,Yra,Yra,Yra,North Program Organization,5300000000,176666.67
+50,1,Yra,Yra,Yra,West Ferdows Boulevard,2200000000,73333.33
+45,1,Nera,Yra,Nera,Islamshahr,218000000,7266.67
+68,1,Yra,Yra,Yra,Shahrake Gharb,5000000000,166666.67
+85,2,Nera,Yra,Nera,Islamshahr,430000000,14333.33
+170,3,Yra,Yra,Yra,North Program Organization,8000000000,266666.67
+50,1,Nera,Yra,Nera,Islamshahr,240000000,8000
+55,1,Nera,Yra,Nera,Islamshahr,330000000,11000
+75,2,Yra,Yra,Yra,Saadat Abad,315000000,10500
+96,3,Yra,Nera,Yra,Shahryar,1145000000,38166.67
+58,1,Nera,Nera,Nera,Parand,235000000,7833.33
+43,1,Nera,Yra,Nera,Nawab,700000000,23333.33
+58,1,Nera,Nera,Nera,Parand,255000000,8500
+103,2,Yra,Yra,Yra,Feiz Garden,4000000000,133333.33
+70,1,Yra,Yra,Yra,Pasdaran,5100000000,170000
+150,3,Yra,Yra,Yra,Pasdaran,9750000000,325000
+65,1,Nera,Yra,Nera,Pakdasht,320000000,10666.67
+140,2,Nera,Yra,Yra,Marzdaran,5400000000,180000
+79,2,Nera,Yra,Yra,Si Metri Ji,1400000000,46666.67
+97,2,Nera,Nera,Yra,Jeyhoon,2300000000,76666.67
+90,2,Yra,Yra,Yra,Marzdaran,6230000000,207666.67
+175,3,Yra,Yra,Yra,Waterfall,8600000000,286666.67
+90,2,Yra,Yra,Yra,Marzdaran,6500000000,216666.67
+58,1,Yra,Yra,Nera,Chidz,3000000000,100000
+100,2,Yra,Yra,Yra,Mahallati,5300000000,176666.67
+135,2,Nera,Nera,Nera,Seyed Khandan,3800000000,126666.67
+185,3,Yra,Yra,Yra,Ekhtiarieh,16200000000,540000
+50,1,Nera,Yra,Nera,Northern Janatabad,1745000000,58166.67
+85,2,Yra,Yra,Yra,Salsabil,2000000000,66666.67
+110,3,Yra,Yra,Yra,Abazar,4250000000,141666.67
+67,2,Yra,Yra,Yra,CeNeral Janatabad,3150000000,105000
+190,3,Yra,Yra,Yra,East Ferdows Boulevard,9500000000,316666.67
+95,2,Yra,Yra,Yra,Yousef Abad,6300000000,210000
+55,1,Yra,Yra,Nera,Salsabil,1050000000,35000
+75,2,Nera,Nera,Yra,Parand,550000000,18333.33
+87,2,Yra,Yra,Yra,Jeyhoon,1860000000,62000
+42,1,Yra,Yra,Yra,Jeyhoon,930000000,31000
+80,1,Yra,Yra,Yra,Jordan,4500000000,150000
+102,2,Yra,Yra,Yra,Saadat Abad,5000000000,166666.67
+140,3,Yra,Yra,Yra,East Ferdows Boulevard,7300000000,243333.33
+120,2,Yra,Yra,Yra,Saadat Abad,6000000000,200000
+212,4,Yra,Yra,Nera,Farmanieh,36000000000,1200000
+62,2,Yra,Yra,Nera,Punak,2100000000,70000
+41,1,Nera,Nera,Yra,Si Metri Ji,790000000,26333.33
+75,2,Nera,Yra,Yra,Jeyhoon,1700000000,56666.67
+57,1,Yra,Yra,Yra,Si Metri Ji,990000000,33000
+50,1,Yra,Yra,Yra,Hashemi,1500000000,50000
+54,1,Yra,Yra,Yra,Punak,2820000000,94000
+133,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,7500000000,250000
+97,2,Yra,Yra,Yra,Shahrake Gharb,5600000000,186666.67
+165,3,Yra,Yra,Yra,Niavaran,17655000000,588500
+59,1,Yra,Yra,Yra,Qasr-od-Dasht,1150000000,38333.33
+60,2,Yra,Yra,Nera,Karoon,1450000000,48333.33
+135,2,Yra,Yra,Yra,Mirdamad,9970000000,332333.33
+60,1,Nera,Yra,Nera,Azarbaijan,740000000,24666.67
+52,1,Yra,Yra,Yra,Niavaran,4600000000,153333.33
+65,1,Yra,Yra,Yra,Hashemi,1530000000,51000
+95,2,Yra,Yra,Yra,Shahran,3150000000,105000
+60,1,Yra,Yra,Nera,Northern Janatabad,2280000000,76000
+92,2,Yra,Yra,Yra,Parand,590000000,19666.67
+83,2,Yra,Yra,Yra,Mirdamad,4900000000,163333.33
+72,2,Yra,Yra,Nera,Southern Janatabad,2090000000,69666.67
+122,3,Yra,Yra,Yra,Yousef Abad,6000000000,200000
+118,2,Yra,Yra,Yra,Shahrake Gharb,10300000000,343333.33
+120,2,Yra,Yra,Yra,Tehransar,3480000000,116000
+115,3,Yra,Yra,Nera,Gheitarieh,6400000000,213333.33
+102,2,Yra,Yra,Yra,Shahryar,1225000000,40833.33
+65,2,Yra,Yra,Yra,Shahran,2400000000,80000
+70,2,Yra,Yra,Nera,Punak,2170000000,72333.33
+66,2,Yra,Yra,Yra,CeNeral Janatabad,2620000000,87333.33
+60,1,Yra,Yra,Nera,Punak,2700000000,90000
+46,1,Yra,Yra,Nera,Shahran,1650000000,55000
+180,3,Yra,Yra,Yra,Niavaran,16000000000,533333.33
+60,1,Nera,Yra,Nera,Keshavarz Boulevard,1900000000,63333.33
+145,3,Yra,Yra,Yra,Shahrake Qods,1740000000,58000
+63,1,Yra,Yra,Yra,Sadeghieh,1620000000,54000
+58,1,Yra,Yra,Yra,Jeyhoon,1300000000,43333.33
+83,2,Yra,Yra,Yra,Shahran,3200000000,106666.67
+136,3,Yra,Yra,Yra,Sadeghieh,5150000000,171666.67
+68,2,Nera,Yra,Nera,Pakdasht,510000000,17000
+55,1,Nera,Yra,Yra,Tenant,1400000000,46666.67
+600,2,Nera,Nera,Nera,Damavand,4000000000,133333.33
+89,2,Yra,Yra,Yra,Shahr-e-Ziba,3150000000,105000
+101,2,Yra,Yra,Yra,Mirdamad,7300000000,243333.33
+85,2,Yra,Yra,Yra,Shahr-e-Ziba,2975000000,99166.67
+87,3,Nera,Nera,Yra,Parand,488000000,16266.67
+73,1,Yra,Yra,Yra,West Pars,2200000000,73333.33
+145,3,Yra,Yra,Yra,Shahrake Qods,1740000000,58000
+98,2,Yra,Yra,Yra,Pardis,550000000,18333.33
+90,2,Yra,Yra,Yra,CeNeral Janatabad,3600000000,120000
+135,3,Yra,Yra,Yra,Gheitarieh,5700000000,190000
+105,2,Yra,Yra,Yra,Mirdamad,7770000000,259000
+90,2,Yra,Yra,Nera,Shahrake Azadi,1000000000,33333.33
+71,2,Yra,Yra,Nera,West Ferdows Boulevard,2800000000,93333.33
+75,2,Yra,Yra,Yra,CeNeral Janatabad,3300000000,110000
+75,2,Yra,Yra,Yra,Parand,385000000,12833.33
+79,2,Yra,Yra,Yra,Pardis,550000000,18333.33
+345,4,Yra,Yra,Yra,Jordan,17000000000,566666.67
+90,2,Yra,Yra,Yra,Shahr-e-Ziba,3250000000,108333.33
+48,1,Yra,Nera,Nera,Fallah,800000000,26666.67
+110,2,Yra,Yra,Yra,Niavaran,12100000000,403333.33
+82,2,Yra,Yra,Yra,Jeyhoon,1890000000,63000
+44,1,Nera,Nera,Nera,Northern Janatabad,1650000000,55000
+58,1,Yra,Yra,Yra,Southern Program Organization,2500000000,83333.33
+117,2,Yra,Yra,Yra,Shahrake Gharb,7200000000,240000
+96,2,Yra,Yra,Yra,Shahr-e-Ziba,3000000000,100000
+89,2,Yra,Yra,Yra,,3100000000,103333.33
+108,2,Yra,Yra,Yra,Shahr-e-Ziba,5100000000,170000
+134,2,Yra,Yra,Yra,Mehran,940000000,31333.33
+70,2,Yra,Yra,Yra,East Ferdows Boulevard,2160000000,72000
+64,2,Yra,Yra,Yra,Punak,2240000000,74666.67
+56,3,Nera,Yra,Nera,Atabak,900000000,30000
+57,1,Nera,Yra,Nera,Amir Bahador,9800000000,326666.67
+68,2,Yra,Yra,Yra,Southern Janatabad,2200000000,73333.33
+55,1,Yra,Yra,Yra,West Ferdows Boulevard,2250000000,75000
+43,1,Nera,Yra,Yra,Jeyhoon,900000000,30000
+105,2,Yra,Yra,Yra,Shahran,3800000000,126666.67
+41,2,Nera,Nera,Nera,Salsabil,790000000,26333.33
+78,2,Yra,Yra,Yra,Si Metri Ji,1350000000,45000
+110,2,Yra,Yra,Yra,Zafar,5700000000,190000
+92,2,Yra,Yra,Yra,Punak,4100000000,136666.67
+96,2,Yra,Yra,Yra,Gheitarieh,6175000000,205833.33
+108,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3500000000,116666.67
+76,2,Nera,Yra,Yra,Si Metri Ji,1350000000,45000
+80,2,Yra,Yra,Yra,Heravi,4300000000,143333.33
+105,2,Nera,Nera,Nera,West Ferdows Boulevard,3150000000,105000
+75,1,Nera,Yra,Nera,Golestan,750000000,25000
+56,2,Yra,Yra,Nera,Andisheh,515000000,17166.67
+50,1,Nera,Nera,Nera,Azarbaijan,1200000000,40000
+40,1,Yra,Yra,Nera,Jeyhoon,830000000,27666.67
+46,1,Nera,Yra,Yra,Jeyhoon,940000000,31333.33
+93,2,Yra,Yra,Yra,Jeyhoon,2600000000,86666.67
+530,4,Yra,Yra,Yra,Dorous,79500000000,2650000
+98,2,Yra,Yra,Yra,Si Metri Ji,1950000000,65000
+62,1,Yra,Yra,Nera,Narmak,2100000000,70000
+100,2,Yra,Yra,Nera,Shahr-e-Ziba,3800000000,126666.67
+150,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,765000000,25500
+270,4,Yra,Yra,Nera,Jordan,13000000000,433333.33
+50,1,Nera,Yra,Nera,Khavaran,710000000,23666.67
+130,2,Yra,Yra,Yra,Pasdaran,9500000000,316666.67
+69,2,Nera,Yra,Nera,Salsabil,1400000000,46666.67
+66,1,Nera,Yra,Nera,Qarchak,600000000,20000
+90,2,Yra,Yra,Yra,Northern Chitgar,690000000,23000
+75,2,Yra,Yra,Yra,Heravi,4590000000,153000
+58,1,Yra,Yra,Yra,East Ferdows Boulevard,2200000000,73333.33
+300,3,Yra,Yra,Nera,Argentina,17000000000,566666.67
+97,2,Yra,Nera,Yra,Si Metri Ji,1900000000,63333.33
+98,2,Nera,Yra,Nera,Parand,750000000,25000
+73,2,Yra,Yra,Nera,Parand,375000000,12500
+35,1,Yra,Yra,Nera,Qasr-od-Dasht,990000000,33000
+85,2,Yra,Yra,Nera,Ostad Moein,2000000000,66666.67
+105,2,Yra,Yra,Yra,West Ferdows Boulevard,3500000000,116666.67
+55,1,Yra,Yra,Nera,Southern Program Organization,2050000000,68333.33
+40,1,Nera,Yra,Yra,Komeil,810000000,27000
+90,2,Yra,Yra,Yra,Southern Janatabad,3750000000,125000
+68,2,Nera,Yra,Nera,Ostad Moein,1500000000,50000
+44,1,Yra,Yra,Yra,Khavaran,649000000,21633.33
+130,2,Yra,Yra,Yra,Velenjak,18200000000,606666.67
+68,2,Nera,Nera,Yra,Ostad Moein,1320000000,44000
+90,2,Yra,Yra,Yra,North Program Organization,4750000000,158333.33
+73,1,Yra,Yra,Nera,Shahrake Gharb,7500000000,250000
+64,2,Nera,Yra,Nera,Shahran,1900000000,63333.33
+82,2,Yra,Yra,Yra,Boloorsazi,1600000000,53333.33
+51,1,Nera,Yra,Nera,Salsabil,850000000,28333.33
+43,1,Nera,Yra,Yra,Beryanak,725000000,24166.67
+65,1,Yra,Yra,Yra,Punak,2340000000,78000
+68,1,Nera,Nera,Nera,Heravi,4115000000,137166.67
+65,2,Yra,Nera,Yra,Air force,1750000000,58333.33
+59,1,Yra,Yra,Yra,West Ferdows Boulevard,2000000000,66666.67
+155,3,Yra,Yra,Yra,Gheitarieh,13000000000,433333.33
+58,1,Yra,Yra,Yra,Punak,2350000000,78333.33
+72,2,Nera,Nera,Nera,Parand,380000000,12666.67
+56,1,Nera,Yra,Nera,Khavaran,668000000,22266.67
+90,2,Yra,Yra,Yra,CeNeral Janatabad,3550000000,118333.33
+93,2,Yra,Yra,Yra,Shahran,2880000000,96000
+84,2,Yra,Yra,Yra,Shahran,2400000000,80000
+107,2,Yra,Yra,Yra,Parand,550000000,18333.33
+150,3,Yra,Yra,Yra,Tajrish,12750000000,425000
+120,2,Nera,Nera,Nera,Mehrabad River River,2600000000,86666.67
+165,3,Yra,Yra,Yra,Gheitarieh,12300000000,410000
+87,2,Yra,Nera,Yra,Parand,550000000,18333.33
+76,2,Yra,Yra,Nera,Shahran,1990000000,66333.33
+83,2,Yra,Yra,Yra,Shahran,2980000000,99333.33
+115,2,Yra,Yra,Yra,CeNeral Janatabad,3900000000,130000
+115,2,Yra,Yra,Yra,Jordan,6200000000,206666.67
+85,2,Yra,Nera,Yra,Abuzar,2715000000,90500
+50,2,Nera,Yra,Nera,Komeil,730000000,24333.33
+123,2,Yra,Yra,Yra,Yousef Abad,7630000000,254333.33
+115,2,Yra,Nera,Yra,Shahrake Qods,950000000,31666.67
+47,1,Nera,Yra,Nera,Qasr-od-Dasht,800000000,26666.67
+40,1,Nera,Yra,Nera,Salsabil,750000000,25000
+250,3,Yra,Yra,Yra,Velenjak,40000000000,1333333.33
+85,2,Nera,Yra,Yra,Shahrake Qods,850000000,28333.33
+80,2,Yra,Yra,Yra,Jeyhoon,2220000000,74000
+125,2,Yra,Yra,Yra,Gheitarieh,12500000000,416666.67
+750,5,Yra,Yra,Nera,Varamin - Beheshti,3500000000,116666.67
+85,2,Nera,Nera,Yra,Jeyhoon,1885000000,62833.33
+170,3,Yra,Yra,Yra,Mirdamad,11800000000,393333.33
+71,2,Nera,Yra,Yra,Shahrake Qods,525000000,17500
+105,2,Yra,Yra,Yra,Shahrake Qods,920000000,30666.67
+80,1,Nera,Yra,Yra,Shahrake Qods,580000000,19333.33
+95,2,Yra,Yra,Yra,Shahrake Qods,930000000,31000
+78,2,Yra,Yra,Nera,Water Organization,2500000000,83333.33
+110,2,Yra,Yra,Yra,Shahran,4070000000,135666.67
+71,2,Yra,Yra,Yra,East Ferdows Boulevard,2950000000,98333.33
+65,1,Yra,Yra,Yra,Saadat Abad,3490000000,116333.33
+88,2,Yra,Yra,Yra,Saadat Abad,5200000000,173333.33
+135,3,Yra,Yra,Yra,Saadat Abad,7500000000,250000
+50,1,Yra,Yra,Nera,Si Metri Ji,810000000,27000
+42,1,Nera,Yra,Nera,Shoosh,920000000,30666.67
+171,2,Nera,Yra,Nera,Elahieh,11500000000,383333.33
+120,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,1750000000,58333.33
+60,1,Nera,Nera,Nera,Shahr-e-Ziba,18000000000,600000
+45,1,Nera,Yra,Nera,Jeyhoon,800000000,26666.67
+55,1,Nera,Yra,Nera,Salsabil,1100000000,36666.67
+72,2,Nera,Yra,Nera,Salsabil,1350000000,45000
+72,2,Yra,Yra,Yra,Ostad Moein,1860000000,62000
+100,2,Yra,Yra,Yra,Southern Janatabad,5600000000,186666.67
+63,1,Yra,Yra,Yra,Ostad Moein,1380000000,46000
+61,1,Nera,Nera,Yra,Ostad Moein,1180000000,39333.33
+253,4,Yra,Yra,Yra,Jordan,11385000000,379500
+90,2,Yra,Yra,Yra,Northern Chitgar,690000000,23000
+72,2,Yra,Yra,Yra,Jeyhoon,1850000000,61666.67
+98,2,Yra,Yra,Yra,Shahran,4080000000,136000
+145,3,Yra,Yra,Yra,Vanak,7900000000,263333.33
+93,2,Yra,Yra,Yra,Saadat Abad,4950000000,165000
+125,3,Yra,Yra,Yra,Salsabil,3500000000,116666.67
+60,2,Yra,Yra,Nera,Azarbaijan,1620000000,54000
+120,2,Yra,Yra,Yra,Yousef Abad,7200000000,240000
+118,2,Yra,Yra,Yra,Northern Chitgar,320000000,10666.67
+89,2,Yra,Yra,Yra,Punak,3000000000,100000
+62,1,Yra,Yra,Yra,Komeil,1670000000,55666.67
+80,2,Yra,Yra,Yra,North Program Organization,2950000000,98333.33
+77,2,Nera,Yra,Yra,Azarbaijan,1800000000,60000
+72,2,Nera,Nera,Nera,Andisheh,950000000,31666.67
+80,2,Yra,Yra,Yra,East Ferdows Boulevard,2980000000,99333.33
+62,1,Yra,Yra,Yra,Northern Chitgar,875000000,29166.67
+115,2,Yra,Yra,Yra,Saadat Abad,6000000000,200000
+94,2,Nera,Yra,Nera,Fatemi,3100000000,103333.33
+91,2,Yra,Yra,Yra,Parand,465000000,15500
+74,2,Yra,Yra,Yra,Amirieh,1700000000,56666.67
+92,2,Yra,Yra,Yra,Shahran,3200000000,106666.67
+71,1,Yra,Yra,Yra,Shahran,2300000000,76666.67
+92,2,Yra,Yra,Yra,Shahr-e-Ziba,3300000000,110000
+42,1,Yra,Nera,Yra,Shahran,1760000000,58666.67
+63,2,Nera,Yra,Yra,Taslihat,1800000000,60000
+90,2,Yra,Yra,Yra,Sadeghieh,3300000000,110000
+140,3,Yra,Yra,Yra,Kook,1792000000,59733.33
+63,1,Yra,Nera,Yra,Thirteen November,800000000,26666.67
+81,2,Yra,Yra,Yra,West Ferdows Boulevard,3400000000,113333.33
+55,1,Yra,Yra,Yra,West Ferdows Boulevard,2150000000,71666.67
+98,2,Yra,Yra,Yra,Zargandeh,5800000000,193333.33
+84,2,Yra,Yra,Yra,Shahran,2410000000,80333.33
+92,2,Yra,Yra,Yra,Shahran,2900000000,96666.67
+86,2,Yra,Yra,Yra,Shahedshahr,421000000,14033.33
+56,1,Yra,Yra,Yra,Shahran,1890000000,63000
+74,2,Yra,Yra,Yra,,1699010000,56633.67
+90,2,Yra,Yra,Yra,Northern Chitgar,1315000000,43833.33
+48,1,Nera,Nera,Nera,Hashemi,950000000,31666.67
+80,2,Yra,Yra,Yra,Punak,2800000000,93333.33
+120,2,Yra,Yra,Yra,Railway,1536000000,51200
+39,1,Yra,Nera,Yra,Ostad Moein,1170000000,39000
+80,2,Yra,Yra,Yra,Jeyhoon,2100000000,70000
+190,3,Yra,Yra,Yra,Niavaran,15200000000,506666.67
+210,3,Yra,Yra,Yra,Kamranieh,34560000000,1152000
+90,2,Yra,Yra,Yra,CeNeral Janatabad,3590000000,119666.67
+75,2,Nera,Nera,Yra,Parand,398000000,13266.67
+67,1,Yra,Yra,Nera,Punak,2150000000,71666.67
+72,2,Yra,Yra,Yra,Darakeh,2900000000,96666.67
+93,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,2300000000,76666.67
+119,2,Yra,Yra,Yra,West Ferdows Boulevard,4950000000,165000
+62,2,Yra,Yra,Yra,Punak,2200000000,73333.33
+65,1,Yra,Yra,Yra,Shahran,1880000000,62666.67
+320,5,Nera,Nera,Nera,Sattarkhan,28000000000,933333.33
+145,5,Nera,Nera,Nera,Jeyhoon,5000000000,166666.67
+75,2,Nera,Nera,Nera,Parand,395000000,13166.67
+73,2,Yra,Yra,Nera,Aliabad South,850000000,28333.33
+62,2,Nera,Yra,Nera,Punak,2300000000,76666.67
+149,3,Yra,Yra,Yra,Parand,2100000000,70000
+68,2,Nera,Yra,Yra,Punak,2050000000,68333.33
+75,2,Yra,Yra,Nera,West Ferdows Boulevard,2480000000,82666.67
+133,5,Nera,Nera,Nera,Jeyhoon,4700000000,156666.67
+63,2,Yra,Yra,Nera,Punak,1880000000,62666.67
+58,1,Yra,Yra,Yra,Pirouzi,500000000,16666.67
+67,1,Yra,Yra,Yra,Jordan,6700000000,223333.33
+70,1,Yra,Yra,Yra,Shahran,2270000000,75666.67
+135,3,Yra,Yra,Yra,Niavaran,9000000000,300000
+122,4,Yra,Nera,Yra,Amirabad,2400000000,80000
+80,2,Yra,Yra,Yra,Shahran,2590000000,86333.33
+55,1,Yra,Yra,Yra,Punak,2750000000,91666.67
+86,2,Yra,Yra,Nera,Shahran,3100000000,103333.33
+88,2,Yra,Yra,Yra,Southern Janatabad,4500000000,150000
+220,3,Yra,Yra,Yra,Jordan,13500000000,450000
+102,2,Yra,Yra,Nera,ShahrAra,2950000000,98333.33
+97,2,Yra,Yra,Yra,Gheitarieh,6000000000,200000
+150,3,Yra,Yra,Yra,Yousef Abad,11000000000,366666.67
+64,1,Yra,Yra,Nera,Alborz Complex,645000000,21500
+62,2,Nera,Yra,Nera,Punak,2300000000,76666.67
+100,2,Yra,Yra,Yra,Shahran,4200000000,140000
+97,2,Yra,Yra,Yra,Shahran,3300000000,110000
+80,2,Yra,Yra,Yra,Shahran,3950000000,131666.67
+53,1,Nera,Yra,Yra,Narmak,2300000000,76666.67
+68,2,Yra,Yra,Yra,Ostad Moein,1680000000,56000
+105,2,Yra,Yra,Nera,Fatemi,4300000000,143333.33
+70,2,Yra,Yra,Nera,Punak,2300000000,76666.67
+86,2,Yra,Yra,Yra,CeNeral Janatabad,4300000000,143333.33
+62,1,Nera,Yra,Nera,Beryanak,682000000,22733.33
+40,2,Nera,Nera,Nera,Salsabil,830000000,27666.67
+57,1,Yra,Nera,Yra,Karoon,1700000000,56666.67
+140,3,Yra,Yra,Yra,Jordan,7700000000,256666.67
+40,1,Nera,Yra,Nera,Qasr-od-Dasht,790000000,26333.33
+35,1,Yra,Yra,Nera,Salsabil,780000000,26000
+112,2,Yra,Yra,Yra,Gheitarieh,8610000000,287000
+140,3,Yra,Yra,Yra,Saadat Abad,8000000000,266666.67
+48,1,Nera,Nera,Yra,Eskandari,1280000000,42666.67
+70,2,Yra,Yra,Yra,Punak,2800000000,93333.33
+175,3,Yra,Yra,Yra,Kamranieh,17000000000,566666.67
+135,2,Yra,Yra,Yra,Ekhtiarieh,8100000000,270000
+45,1,Nera,Yra,Nera,Karoon,880000000,29333.33
+50,1,Yra,Yra,Nera,Azarbaijan,1250000000,41666.67
+61,1,Yra,Yra,Yra,CeNeral Janatabad,2000000000,66666.67
+47,1,Yra,Yra,Nera,Salsabil,1050000000,35000
+210,3,Yra,Yra,Yra,Farmanieh,33600000000,1120000
+82,2,Nera,Nera,Yra,Parand,455000000,15166.67
+72,2,Nera,Nera,Nera,Pirouzi,2376000000,79200
+65,2,Nera,Yra,Nera,Feiz Garden,1900000000,63333.33
+44,1,Nera,Yra,Nera,Jeyhoon,945000000,31500
+58,1,Nera,Yra,Nera,Azarbaijan,1270000000,42333.33
+127,2,Yra,Yra,Yra,Shahryar,2500000000,83333.33
+124,3,Yra,Yra,Yra,Gheitarieh,7700000000,256666.67
+65,2,Yra,Yra,Yra,Shahran,2350000000,78333.33
+110,2,Yra,Yra,Yra,Gheitarieh,8660000000,288666.67
+200,4,Yra,Yra,Yra,Niavaran,15000000000,500000
+240,3,Yra,Yra,Nera,Elahieh,34560000000,1152000
+75,2,Nera,Nera,Yra,Parand,330000000,11000
+130,1,Yra,Yra,Yra,Ostad Moein,1280000000,42666.67
+72,2,Nera,Nera,Nera,Pishva,300000000,10000
+101,2,Yra,Yra,Yra,Jordan,5200000000,173333.33
+82,2,Yra,Yra,Yra,Punak,3300000000,110000
+150,3,Yra,Yra,Nera,Elahieh,11760000000,392000
+48,1,Nera,Nera,Nera,Beryanak,740000000,24666.67
+115,2,Yra,Yra,Yra,,5060000000,168666.67
+106,2,Yra,Yra,Yra,Farmanieh,4450000000,148333.33
+205,3,Yra,Yra,Yra,Farmanieh,20000000000,666666.67
+125,2,Yra,Yra,Yra,Gheitarieh,1125000000,37500
+85,2,Yra,Yra,Yra,Shahr-e-Ziba,2900000000,96666.67
+220,4,Yra,Yra,Nera,Azarbaijan,15000000000,500000
+104,2,Nera,Nera,Nera,Shahran,4080000000,136000
+99,2,Yra,Yra,Yra,Shahran,3900000000,130000
+165,3,Yra,Yra,Yra,Shahrake Gharb,18150000000,605000
+98,2,Yra,Yra,Yra,Pardis,650000000,21666.67
+71,2,Nera,Yra,Yra,Shahr-e-Ziba,2150000000,71666.67
+104,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,3500000000,116666.67
+102,2,Yra,Yra,Yra,Shahran,4000000000,133333.33
+112,2,Yra,Yra,Yra,Shahran,5400000000,180000
+80,1,Nera,Yra,Nera,Shahrake Qods,550000000,18333.33
+69,2,Yra,Yra,Yra,Jeyhoon,1700000000,56666.67
+135,3,Yra,Yra,Yra,Saadat Abad,9000000000,300000
+44,1,Nera,Yra,Nera,Qasr-od-Dasht,1000000000,33333.33
+80,2,Yra,Yra,Nera,Shahr-e-Ziba,2480000000,82666.67
+80,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,750000000,25000
+60,1,Nera,Nera,Nera,Parand,300000000,10000
+60,1,Nera,Nera,Nera,Parand,300000000,10000
+108,2,Yra,Yra,Yra,Saadat Abad,8600000000,286666.67
+150,2,Yra,Yra,Yra,Mirdamad,8200000000,273333.33
+78,2,Nera,Nera,Nera,Parand,780000000,26000
+77,2,Yra,Yra,Nera,Firoozkooh,470000000,15666.67
+160,5,Yra,Yra,Nera,Yousef Abad,18000000000,600000
+106,2,Yra,Yra,Yra,Golestan,2340000000,78000
+135,3,Yra,Yra,Yra,West Pars,5600000000,186666.67
+102,3,Nera,Nera,Yra,Amirabad,4300000000,143333.33
+68,2,Yra,Yra,Yra,Punak,2150000000,71666.67
+136,3,Yra,Yra,Yra,Saadat Abad,11000000000,366666.67
+77,2,Yra,Yra,Yra,Jeyhoon,1680000000,56000
+72,2,Yra,Yra,Nera,,900000000,30000
+84,2,Nera,Yra,Yra,Vahidiyeh,588000000,19600
+69,1,Yra,Yra,Yra,Shadabad,890000000,29666.67
+55,1,Yra,Yra,Yra,Andisheh,797500000,26583.33
+94,2,Yra,Yra,Yra,West Ferdows Boulevard,4100000000,136666.67
+120,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,295000000,9833.33
+90,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,290000000,9666.67
+60,1,Yra,Yra,Yra,Persian Gulf Martyrs Lake,295000000,9833.33
+54,1,Nera,Yra,Nera,Beryanak,760000000,25333.33
+144,3,Yra,Yra,Yra,Gheitarieh,7250000000,241666.67
+80,2,Nera,Nera,Nera,Parand,380000000,12666.67
+110,3,Yra,Yra,Yra,Ozgol,6550000000,218333.33
+55,2,Nera,Yra,Nera,Yousef Abad,2150000000,71666.67
+65,2,Nera,Yra,Nera,Punak,1900000000,63333.33
+60,2,Yra,Yra,Yra,Salsabil,1520000000,50666.67
+69,2,Yra,Yra,Nera,Andisheh,980000000,32666.67
+180,4,Yra,Yra,Yra,Persian Gulf Martyrs Lake,2720000000,90666.67
+180,2,Yra,Yra,Nera,Parand,2100000000,70000
+110,3,Yra,Yra,Yra,Ozgol,6550000000,218333.33
+130,2,Nera,Yra,Nera,Narmak,6300000000,210000
+120,2,Yra,Yra,Yra,,1440000000,48000
+82,2,Yra,Yra,Yra,Gheitarieh,7000000000,233333.33
+128,3,Yra,Yra,Yra,Gheitarieh,9200000000,306666.67
+103,2,Yra,Yra,Yra,,1150000000,38333.33
+85,2,Yra,Yra,Yra,Farmanieh,6100000000,203333.33
+68,1,Yra,Nera,Yra,Ahang,1400000000,46666.67
+110,3,Yra,Yra,Yra,West Pars,6550000000,218333.33
+94,2,Nera,Nera,Yra,Parand,680000000,22666.67
+42,1,Nera,Nera,Nera,Naziabad,640000000,21333.33
+63,1,Yra,Yra,Yra,Punak,2200000000,73333.33
+62,1,Nera,Nera,Yra,Parand,350000000,11666.67
+155,3,Yra,Yra,Yra,Jordan,13950000000,465000
+65,2,Yra,Yra,Yra,Afsarieh,1550000000,51666.67
+138,3,Yra,Yra,Yra,Jordan,9500000000,316666.67
+135,3,Yra,Yra,Yra,Azarbaijan,3440000000,114666.67
+135,3,Yra,Yra,Yra,Azarbaijan,3440000000,114666.67
+71,1,Nera,Yra,Yra,Pardis,540000000,18000
+175,3,Yra,Yra,Yra,Kook,10500000000,350000
+145,3,Yra,Yra,Yra,Shahrake Gharb,10500000000,350000
+285,4,Yra,Yra,Yra,Shahrake Gharb,28500000000,950000
+125,3,Yra,Yra,Yra,Shahrake Gharb,11250000000,375000
+115,2,Yra,Yra,Yra,Shahrake Gharb,12000000000,400000
+59,1,Yra,Yra,Yra,Andisheh,708000000,23600
+89,3,Yra,Yra,Yra,Parand,430000000,14333.33
+78,2,Yra,Nera,Yra,Jeyhoon,2250000000,75000
+65,1,Yra,Yra,Yra,Parand,340000000,11333.33
+78,2,Yra,Yra,Yra,Parand,480000000,16000
+82,2,Yra,Yra,Yra,CeNeral Janatabad,3000000000,100000
+125,2,Nera,Yra,Nera,Gheitarieh,1550000000,51666.67
+60,2,Nera,Yra,Yra,Vahidieh,1280000000,42666.67
+57,2,Nera,Yra,Nera,Salsabil,1200000000,40000
+66,2,Nera,Yra,Nera,Afsarieh,1120000000,37333.33
+80,2,Yra,Yra,Yra,West Ferdows Boulevard,3000000000,100000
+46,1,Yra,Yra,Yra,Shahran,1700000000,56666.67
+80,2,Yra,Yra,Yra,East Ferdows Boulevard,3000000000,100000
+73,2,Yra,Yra,Yra,Southern Janatabad,3060000000,102000
+115,2,Nera,Nera,Nera,Northern Janatabad,5175000000,172500
+65,2,Yra,Yra,Nera,West Pars,1950000000,65000
+72,2,Yra,Yra,Yra,Southern Janatabad,2550000000,85000
+80,2,Yra,Yra,Yra,Southern Janatabad,3000000000,100000
+135,3,Yra,Yra,Yra,,1500000000,50000
+80,2,Yra,Yra,Yra,CeNeral Janatabad,3000000000,100000
+97,2,Yra,Yra,Yra,Narmak,4000000000,133333.33
+150,3,Yra,Yra,Yra,Niavaran,11000000000,366666.67
+175,3,Yra,Yra,Yra,ShahrAra,7800000000,260000
+74,1,Nera,Yra,Yra,Parand,480000000,16000
+157,3,Yra,Yra,Yra,Marzdaran,10200000000,340000
+92,2,Yra,Yra,Yra,Feiz Garden,3350000000,111666.67
+190,3,Yra,Yra,Yra,Pasdaran,12350000000,411666.67
+110,2,Yra,Yra,Yra,Pasdaran,8800000000,293333.33
+50,1,Nera,Yra,Nera,Pirouzi,1100000000,36666.67
+197,3,Yra,Yra,Yra,Marzdaran,15563000000,518766.67
+107,2,Yra,Yra,Yra,Chidz,8600000000,286666.67
+78,2,Yra,Yra,Yra,Farmanieh,7200000000,240000
+46,1,Yra,Yra,Yra,CeNeral Janatabad,1950000000,65000
+112,2,Yra,Yra,Yra,Mahmoudieh,8400000000,280000
+60,1,Nera,Yra,Nera,Tehran Now,1500000000,50000
+128,3,Yra,Yra,Yra,Marzdaran,6700000000,223333.33
+193,3,Yra,Yra,Yra,Kook,13000000000,433333.33
+120,2,Yra,Yra,Yra,Niavaran,9000000000,300000
+115,2,Yra,Yra,Yra,Ghoba,8150000000,271666.67
+95,2,Yra,Yra,Yra,Southern Janatabad,3300000000,110000
+92,2,Yra,Yra,Yra,CeNeral Janatabad,3400000000,113333.33
+71,2,Yra,Yra,Nera,West Ferdows Boulevard,2000000000,66666.67
+95,2,Yra,Yra,Yra,Damavand,1750000000,58333.33
+40,1,Nera,Yra,Nera,Salsabil,630000000,21000
+52,1,Yra,Yra,Yra,Punak,2360000000,78666.67
+84,2,Yra,Yra,Yra,Salsabil,1900000000,63333.33
+80,2,Yra,Yra,Yra,Amirieh,1800000000,60000
+58,1,Nera,Yra,Nera,Salsabil,715000000,23833.33
+68,2,Yra,Yra,Yra,Shahran,2270000000,75666.67
+90,2,Yra,Yra,Yra,Southern Janatabad,3350000000,111666.67
+65,1,Nera,Yra,Nera,Republic,1400000000,46666.67
+200,2,Nera,Nera,Nera,Rudhen,2850000000,95000
+72,2,Yra,Yra,Yra,Amirieh,1670000000,55666.67
+80,2,Yra,Yra,Yra,Qasr-od-Dasht,1800000000,60000
+71,2,Yra,Yra,Yra,Amirieh,1650000088,55000
+86,2,Yra,Yra,Yra,Amirieh,1980000000,66000
+75,2,Nera,Yra,Yra,Parand,345000000,11500
+54,1,Yra,Yra,Yra,West Ferdows Boulevard,22500000003,750000
+60,1,Yra,Yra,Yra,Shahr-e-Ziba,1960000000,65333.33
+105,3,Yra,Yra,Yra,East Ferdows Boulevard,5830000000,194333.33
+72,2,Yra,Yra,Yra,Abazar,3350000000,111666.67
+186,3,Yra,Yra,Yra,Pasdaran,9300000000,310000
+110,2,Yra,Yra,Yra,Heravi,6050000000,201666.67
+90,2,Yra,Yra,Yra,Southern Janatabad,3350000000,111666.67
+78,2,Yra,Nera,Yra,,740000000,24666.67
+84,2,Yra,Yra,Yra,Islamshahr,855000000,28500
+53,1,Nera,Nera,Nera,Kahrizak,450000000,15000
+63,3,Nera,Yra,Nera,Javadiyeh,1450000000,48333.33
+53,1,Nera,Yra,Nera,Shahran,1470000000,49000
+105,2,Yra,Yra,Yra,Southern Janatabad,3500000000,116666.67
+100,2,Yra,Yra,Yra,Saadat Abad,4550000000,151666.67
+93,2,Yra,Yra,Yra,Saadat Abad,3900000000,130000
+83,3,Nera,Nera,Nera,Atabak,1286500000,42883.33
+135,3,Yra,Yra,Yra,Saadat Abad,7500000000,250000
+65,1,Nera,Nera,Yra,Saadat Abad,3490000000,116333.33
+100,2,Yra,Yra,Yra,Saadat Abad,4480000000,149333.33
+80,2,Nera,Nera,Nera,Damavand,750000000,25000
+90,2,Yra,Yra,Yra,Saadat Abad,5250000000,175000
+73,2,Yra,Yra,Yra,CeNeral Janatabad,1900000000,63333.33
+82,2,Yra,Yra,Yra,Shahran,3600000000,120000
+148,3,Yra,Yra,Yra,Yousef Abad,8140000000,271333.33
+90,2,Yra,Nera,Yra,Shahran,3150000000,105000
+112,2,Yra,Yra,Yra,Darabad,7000000000,233333.33
+45,1,Nera,Nera,Yra,Si Metri Ji,8900000000,296666.67
+70,2,Yra,Yra,Nera,Narmak,1850000000,61666.67
+107,2,Yra,Yra,Yra,Mirdamad,7597000000,253233.33
+37,1,Yra,Yra,Yra,Tehransar,1180000000,39333.33
+65,1,Yra,Yra,Yra,Jeyhoon,1725000000,57500
+76,2,Yra,Yra,Yra,Shahr-e-Ziba,2850000000,95000
+66,2,Nera,Yra,Nera,Yakhchiabad,1000000000,33333.33
+130,3,Yra,Yra,Yra,Persian Gulf Martyrs Lake,865000000,28833.33
+63,3,Yra,Yra,Nera,Shoosh,1200000000,40000
+75,2,Nera,Yra,Nera,Shahrake Quds,500000000,16666.67
+52,1,Yra,Nera,Nera,Jeyhoon,1200000000,40000
+86,3,Nera,Yra,Yra,Parand,275000000,9166.67
+58,1,Nera,Nera,Yra,Parand,246000000,8200
+76,2,Yra,Yra,Yra,West Ferdows Boulevard,2600000000,86666.67
+87,2,Yra,Yra,Yra,,680000000,22666.67
+140,3,Yra,Yra,Yra,Daryan No,6300000000,210000
+74,2,Nera,Nera,Yra,Parand,313000000,10433.33
+186,3,Yra,Yra,Yra,Velenjak,15000000000,500000
+140,3,Yra,Yra,Yra,Mehran,8400000000,280000
+114,2,Yra,Yra,Yra,Persian Gulf Martyrs Lake,4000000000,133333.33
+51,1,Nera,Nera,Yra,Ostad Moein,1100000000,36666.67
+180,3,Yra,Yra,Yra,Kamranieh,14000000000,466666.67
+70,1,Yra,Yra,Yra,Punak,3500000000,116666.67
+120,3,Yra,Yra,Yra,Sattarkhan,5400000000,180000
+137,3,Yra,Yra,Yra,Punak,6850000000,228333.33
+92,2,Yra,Yra,Yra,Shahran,3220000000,107333.33
+45,1,Yra,Yra,Nera,West Ferdows Boulevard,1650000000,55000
+68,2,Nera,Yra,Yra,Waterfall,1000000000,33333.33
+80,2,Yra,Yra,Yra,Punak,3760000000,125333.33
+85,2,Nera,Yra,Yra,CeNeral Janatabad,3200000000,106666.67
+88,2,Yra,Yra,Yra,CeNeral Janatabad,4000000000,133333.33
+118,2,Yra,Yra,Yra,Mehran,7080000000,236000
+180,3,Yra,Yra,Nera,Marzdaran,10800000000,360000
+60,1,Yra,Yra,Nera,West Ferdows Boulevard,1860000000,62000
+80,2,Nera,Yra,Yra,Shahryar,410000000,13666.67
+86,2,Nera,Yra,Nera,Vahidiyeh,520000000,17333.33
+123,3,Yra,Yra,Yra,Velenjak,12500000000,416666.67
+148,3,Yra,Yra,Yra,Daryan No,6000000000,200000
+80,2,Yra,Yra,Yra,Ostad Moein,2250000000,75000
+58,1,Nera,Nera,Yra,Parand,325000000,10833.33
+55,1,Yra,Yra,Yra,Punak,2300000000,76666.67
+60,1,Yra,Yra,Yra,West Ferdows Boulevard,1950000000,65000
+133,3,Yra,Nera,Yra,Shahrake Gharb,10000000000,333333.33
+94,2,Nera,Yra,Yra,Damavand,595000000,19833.33
+68,2,Nera,Yra,Yra,Beryanak,1258000000,41933.33
+61,2,Nera,Yra,Nera,Andisheh,460000000,15333.33
+75,2,Yra,Yra,Yra,West Ferdows Boulevard,2650000000,88333.33
+81,2,Yra,Yra,Yra,West Ferdows Boulevard,4455000000,148500
+74,2,Yra,Yra,Yra,Mehran,4070000000,135666.67
+97,2,Yra,Yra,Yra,Shahran,2700000000,90000
+94,2,Yra,Yra,Yra,Niavaran,8450000000,281666.67
+113,3,Yra,Yra,Yra,Ostad Moein,3170000000,105666.67
+63,1,Yra,Yra,Nera,Feiz Garden,1890000000,63000
+86,2,Yra,Yra,Yra,Southern Janatabad,3500000000,116666.67
+83,2,Yra,Yra,Yra,Niavaran,6800000000,226666.67
+75,2,Nera,Nera,Nera,Parand,365000000,12166.67
+105,2,Yra,Yra,Yra,Dorous,5600000000,186666.67
+82,2,Nera,Yra,Yra,Parand,360000000,12000
